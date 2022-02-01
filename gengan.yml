@@ -1,0 +1,4 @@
+name: gengan
+channels:
+  - defaults
+prefix: C:\Anaconda\envs\stats\envs\gengan
