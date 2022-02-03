@@ -5,7 +5,7 @@ import tensorflow.keras.backend as K
 from tensorflow.keras.layers import Input, Dense, Activation, LeakyReLU, BatchNormalization
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.optimizers import Adam
-from sklearn.model_selection import train_test_split
+#from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 import pandas as pd
 from tensorflow.keras.models import load_model
@@ -21,11 +21,11 @@ latent_size = 600 #size of noise input
 alph = 0.01 #alpha value for LeakyReLU
 g_learn = 0.0001 #generator learning rate
 d_learn = 0.0008 #discriminator learning rate
-epochs = 10001
+epochs = 1000
 batch_size = 32
 ag_size = 216 #number of artificial genomes (haplotypes) to be created
 gpu_count = 1 #number of GPUs
-save_that = 200 #epoch interval for saving outputs
+save_that = 333 #epoch interval for saving outputs
 
 #For saving models
 def save_mod(gan, gen, disc, epo):
@@ -35,7 +35,18 @@ def save_mod(gan, gen, disc, epo):
     save_model(gen, epo+"_generator")
     save_model(disc, epo+"_discriminator")
 
-
+print('Started GenGan')
+print('inpt: ', inpt)
+print('latent_size: ', latent_size)
+print('alph: ', alph)
+print('g_learn: ', g_learn)
+print('d_learn: ', d_learn)
+print('epochs: ', epochs)
+print('batch_size: ', batch_size)
+print('ag_size: ', ag_size)
+print('gpu_count: ', gpu_count)
+print('save_that: ', save_that)
+    
 #Read input
 df = pd.read_csv(inpt, sep = ' ', header=None)
 df = df.sample(frac=1).reset_index(drop=True)
@@ -43,6 +54,7 @@ df_noname = df.drop(df.columns[0:2], axis=1)
 df_noname = df_noname.values
 df_noname = df_noname - np.random.uniform(0,0.1, size=(df_noname.shape[0], df_noname.shape[1]))
 df_noname = pd.DataFrame(df_noname)
+print('Reading Input 805_SNP_1000G_real.hapt: ', df_noname.shape)
 
 K.clear_session()
 
@@ -53,6 +65,8 @@ generator.add(LeakyReLU(alpha=alph))
 generator.add(Dense(int(df_noname.shape[1]//1.1), kernel_regularizer=regularizers.l2(0.0001)))
 generator.add(LeakyReLU(alpha=alph))
 generator.add(Dense(df_noname.shape[1], activation = 'tanh'))
+
+print('Made Generator')
 
 #Make discriminator
 discriminator = Sequential()
@@ -67,6 +81,8 @@ discriminator.compile(optimizer=Adam(lr=d_learn), loss='binary_crossentropy')
 #Set discriminator to non-trainable
 discriminator.trainable = False
 
+print('Made Discriminator')
+
 #Make GAN
 gan = Sequential()
 gan.add(generator)
@@ -74,6 +90,8 @@ gan.add(discriminator)
 if gpu_count > 1:
     gan = multi_gpu_model(gan, gpus=gpu_count)
 gan.compile(optimizer=Adam(lr=g_learn), loss='binary_crossentropy')
+
+print('Made GAN')
 
 y_real, y_fake = np.ones([batch_size, 1]), np.zeros([batch_size, 1])
 X_real = df_noname.values
@@ -83,6 +101,8 @@ batches = len(X_real)//batch_size
 
 #Training iteration
 for e in range(epochs):
+    #print('Started Epoch: ', e)
+    
     for b in range(batches):
         X_batch_real = X_real[b*batch_size:(b+1)*batch_size] #get the batch from real data
         latent_samples = np.random.normal(loc=0, scale=1, size=(batch_size, latent_size)) #create noise to be fed to generator
@@ -99,7 +119,7 @@ for e in range(epochs):
 
     losses.append((d_loss, g_loss))
     print("Epoch:\t%d/%d Discriminator loss: %6.4f Generator loss: %6.4f"%(e+1, epochs, d_loss, g_loss))
-    if e%save_that == 0 or e == epochs:
+    if e%save_that == 0 or e == (epochs-1):
 
         #Save models
         save_mod(gan, generator, discriminator, str(e))
@@ -122,14 +142,30 @@ for e in range(epochs):
         #Output AGs in hapt format
         generated_genomes_df.to_csv(str(e)+"_output.hapt", sep=" ", header=False, index=False)
 
-        #Output lossess
+        #Output lossess-Both
         pd.DataFrame(losses).to_csv(str(e)+"_losses.txt", sep=" ", header=False, index=False)
         fig, ax = plt.subplots()
-        plt.plot(np.array([losses]).T[0], label='Discriminator')
-        plt.plot(np.array([losses]).T[1], label='Generator')
+        plt.plot(np.array([losses]).T[0], label='Discriminator', color='crimson')
+        plt.plot(np.array([losses]).T[1], label='Generator', color='xkcd:grass green')
         plt.title("Training Losses")
         plt.legend()
         fig.savefig(str(e)+'_loss.pdf', format='pdf')
+        
+        #Output lossess-Generator
+        pd.DataFrame(losses).to_csv(str(e)+"_losses.txt", sep=" ", header=False, index=False)
+        fig, ax = plt.subplots()
+        plt.plot(np.array([losses]).T[1], label='Generator', color='xkcd:grass green')
+        plt.title("Training Losses")
+        plt.legend()
+        fig.savefig(str(e)+'_gen_loss.pdf', format='pdf')
+        
+        #Output lossess-Discriminator
+        pd.DataFrame(losses).to_csv(str(e)+"_losses.txt", sep=" ", header=False, index=False)
+        fig, ax = plt.subplots()
+        plt.plot(np.array([losses]).T[0], label='Discriminator', color='crimson')
+        plt.title("Training Losses")
+        plt.legend()
+        fig.savefig(str(e)+'_discrim_loss.pdf', format='pdf')
 
         #Make PCA
         df_pca = df.drop(df.columns[1], axis=1)
@@ -156,3 +192,4 @@ for e in range(epochs):
                        , s = 50, alpha=0.2)
         ax.legend(pops)
         fig.savefig(str(e)+'_pca.pdf', format='pdf')
+        
