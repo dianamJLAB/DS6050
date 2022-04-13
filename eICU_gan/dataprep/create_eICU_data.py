@@ -116,7 +116,7 @@ def create_eICU_Age_Ethnicity_npy(
     np_age = np.array(df_ethnicity_of_interest['age'], dtype=dt)
 
     # ethnicity array with only ethnicities of interest
-    dt = np.dtype([('unittype', np.unicode_, 20)])
+    dt = np.dtype([('ethnicity', np.unicode_, 20)])
     np_ethnicity = np.array(df_ethnicity_of_interest['ethnicity'], dtype=dt)
 
     # merge the two arrays
@@ -128,3 +128,52 @@ def create_eICU_Age_Ethnicity_npy(
         np.save(save_filename, np_age_ethnicity)
     
     return np_age_ethnicity
+
+def create_eICU_Age_PastHistory_UnitStayLength_npy(
+    pasthistories: np.array = ['ALL'], 
+    eICU_df_filename: str = '../data/eICU/patients_pasthist_forgan.csv', 
+    save_filename: str = '../data/eICU/eICU_age_unitstaylength_pasthistory.npy'
+    ): #-> np.np.array
+    """
+    Retrieve eICU dataframe from file, select the 'age' and 'unittype' columns and save to a .npy file.
+    Unittypes included will only be the subset of unittypes in the unittypes parameter. 
+    Age will be converted to int8 np dtype.
+
+    Parameters:
+    :param pasthistories: array of pasthistories strings to include in the npy file. Example: ['medication dependent','hypertension requiring treatment','COPD - moderate','stroke - date unknown','asthma']. 
+    If 'ALL' is in the list, then all pasthistories will be included
+    :param eICU_df_filename: filename to retrieve the eICU data
+    :param save_filename: filename to save the .npy file. If save_filename = 'None', then the file will not be saved.
+
+    Returns:
+    numpy array of age and unittype 
+    """
+    # retrieve the eICU data
+    df_eICUforGAN = pd.read_csv(eICU_df_filename)
+
+    # create the dataframes with only the pasthistories we are interested in
+    df_ethnicity_of_interest = df_eICUforGAN
+    if not ('ALL' in pasthistories):
+        df_ph_of_interest = df_eICUforGAN[df_eICUforGAN['pasthistoryvalue'].isin(pasthistories)]
+
+    # age array with only past histories of interest
+    dt = np.dtype([('age',np.int8)])
+    np_age = np.array(df_ph_of_interest['age'], dtype=dt)
+
+    # unitdischargeoffset array with only past histories of interest
+    dt = np.dtype([('unitdischargeoffset',np.int8)])
+    np_unitdischargeoffset = np.array(df_ph_of_interest['unitdischargeoffset'], dtype=dt)
+
+    # ethnicity array with only past histories of interest
+    dt = np.dtype([('pasthistoryvalue', np.unicode_, 20)])
+    np_ph = np.array(df_ph_of_interest['pasthistoryvalue'], dtype=dt)
+
+    # merge the two arrays
+    np_age_unitdischargeoffset_ph = np.array(np.array((np_age,np_unitdischargeoffset,np_ph)).T)
+
+    # save this file if file name not 'None'
+    if save_filename != 'None':
+        # save npy file
+        np.save(save_filename, np_age_unitdischargeoffset_ph)
+    
+    return np_age_unitdischargeoffset_ph
