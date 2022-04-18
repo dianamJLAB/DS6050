@@ -177,3 +177,22 @@ def create_eICU_Age_PastHistory_UnitStayLength_npy(
         np.save(save_filename, np_age_unitdischargeoffset_ph)
     
     return np_age_unitdischargeoffset_ph
+
+def minmax_scale_columns(df: pd.DataFrame, columns: np.array):
+    """
+    Scale the columns in the dataframe.
+
+    Parameters:
+    :param df: dataframe to scale
+    :param columns: array of columns to scale
+
+    Returns:
+    scaled dataframe
+    """
+    for column in columns:
+        col_min =  df[column].min()
+        col_max =  df[column].max()
+
+        df[column] = [(x - col_min)/(col_max - col_min) for x in df[column]]
+
+    return df
