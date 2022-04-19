@@ -196,3 +196,23 @@ def minmax_scale_columns(df: pd.DataFrame, columns: np.array):
         df[column] = [(x - col_min)/(col_max - col_min) for x in df[column]]
 
     return df
+
+def minmax_inversescale_columns(df_output: pd.DataFrame, df_input: pd.DataFrame, columns: np.array):
+    """
+    Scale the columns in the dataframe.
+
+    Parameters:
+    :param df_output: dataframe to inverse scale
+    :param df_input: dataframe to use as the source for the min and max values
+    :param columns: array of columns to scale
+
+    Returns:
+    scaled dataframe
+    """
+    for column in columns:
+        col_min =  df_input[column].min()
+        col_max =  df_input[column].max()
+
+        df_output[column] = [(x * (col_max - col_min) + col_min) for x in df_output[column]]
+
+    return df_output
