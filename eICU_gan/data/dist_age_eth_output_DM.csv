@@ -1,0 +1,4507 @@
+,age,ethnicity
+0,87.0,Caucasian
+1,87.0,Caucasian
+2,76.0,Caucasian
+3,34.0,Caucasian
+4,61.0,Caucasian
+5,55.0,Caucasian
+6,55.0,Caucasian
+7,28.0,Caucasian
+8,34.0,Caucasian
+9,34.0,Caucasian
+10,89.0,Caucasian
+11,89.0,Caucasian
+12,59.0,Caucasian
+13,44.0,Caucasian
+14,66.0,Caucasian
+15,41.0,Caucasian
+16,63.0,Caucasian
+17,57.0,Caucasian
+18,87.0,Caucasian
+19,52.0,Caucasian
+20,23.0,Caucasian
+21,73.0,Caucasian
+22,39.0,Caucasian
+23,39.0,Caucasian
+24,57.0,Caucasian
+25,57.0,Caucasian
+26,20.0,Caucasian
+27,29.0,Caucasian
+28,29.0,Caucasian
+29,71.0,Caucasian
+30,18.0,Caucasian
+31,83.0,Caucasian
+32,84.0,Caucasian
+33,84.0,Caucasian
+34,47.0,Caucasian
+35,47.0,Caucasian
+36,38.0,Caucasian
+37,61.0,Caucasian
+38,46.0,Caucasian
+39,49.0,Caucasian
+40,49.0,Caucasian
+41,81.0,Caucasian
+42,81.0,Caucasian
+43,87.0,Caucasian
+44,87.0,Caucasian
+45,60.0,Caucasian
+46,68.0,Caucasian
+47,51.0,Caucasian
+48,17.0,Caucasian
+49,89.0,Caucasian
+50,89.0,Caucasian
+51,68.0,Caucasian
+52,59.0,Caucasian
+53,85.0,Caucasian
+54,85.0,Caucasian
+55,80.0,Caucasian
+56,80.0,Caucasian
+57,48.0,Caucasian
+58,48.0,Caucasian
+59,74.0,Caucasian
+60,68.0,Caucasian
+61,16.0,Caucasian
+62,64.0,Caucasian
+63,68.0,Caucasian
+64,75.0,African American
+65,75.0,African American
+66,68.0,Caucasian
+67,56.0,Caucasian
+68,87.0,Caucasian
+69,72.0,Caucasian
+70,63.0,Caucasian
+71,61.0,Caucasian
+72,61.0,Caucasian
+73,87.0,Caucasian
+74,87.0,Caucasian
+75,87.0,Caucasian
+76,82.0,Caucasian
+77,77.0,Caucasian
+78,77.0,Caucasian
+79,77.0,Caucasian
+80,89.0,Caucasian
+81,89.0,Caucasian
+82,81.0,Caucasian
+83,39.0,Caucasian
+84,55.0,Caucasian
+85,78.0,Caucasian
+86,58.0,Caucasian
+87,89.0,Caucasian
+88,46.0,Caucasian
+89,58.0,Caucasian
+90,88.0,Caucasian
+91,88.0,Caucasian
+92,60.0,Caucasian
+93,53.0,Caucasian
+94,55.0,Caucasian
+95,54.0,Caucasian
+96,65.0,Caucasian
+97,65.0,Caucasian
+98,17.0,Caucasian
+99,69.0,Caucasian
+100,69.0,Caucasian
+101,69.0,Caucasian
+102,69.0,Caucasian
+103,69.0,Caucasian
+104,88.0,Caucasian
+105,67.0,Caucasian
+106,47.0,Caucasian
+107,47.0,Caucasian
+108,47.0,Caucasian
+109,47.0,Caucasian
+110,62.0,Caucasian
+111,78.0,Caucasian
+112,50.0,African American
+113,44.0,Caucasian
+114,29.0,Caucasian
+115,83.0,Caucasian
+116,78.0,Caucasian
+117,46.0,Caucasian
+118,46.0,Caucasian
+119,56.0,Caucasian
+120,57.0,Caucasian
+121,62.0,Caucasian
+122,62.0,Caucasian
+123,64.0,Caucasian
+124,62.0,Caucasian
+125,62.0,Caucasian
+126,60.0,Caucasian
+127,60.0,Caucasian
+128,67.0,Caucasian
+129,53.0,Caucasian
+130,42.0,African American
+131,58.0,Caucasian
+132,46.0,African American
+133,46.0,African American
+134,57.0,Caucasian
+135,57.0,Caucasian
+136,69.0,Caucasian
+137,72.0,Caucasian
+138,72.0,Caucasian
+139,58.0,Caucasian
+140,58.0,Caucasian
+141,58.0,Caucasian
+142,58.0,Caucasian
+143,54.0,Caucasian
+144,68.0,Caucasian
+145,68.0,Caucasian
+146,83.0,Caucasian
+147,84.0,Caucasian
+148,82.0,Caucasian
+149,32.0,Caucasian
+150,55.0,Caucasian
+151,83.0,Caucasian
+152,76.0,Caucasian
+153,89.0,Caucasian
+154,89.0,Caucasian
+155,60.0,Caucasian
+156,60.0,Caucasian
+157,59.0,Caucasian
+158,41.0,Caucasian
+159,41.0,Caucasian
+160,25.0,Caucasian
+161,82.0,Caucasian
+162,60.0,Caucasian
+163,78.0,Caucasian
+164,40.0,Caucasian
+165,81.0,Caucasian
+166,59.0,Caucasian
+167,43.0,African American
+168,69.0,Caucasian
+169,69.0,Caucasian
+170,51.0,Caucasian
+171,79.0,Caucasian
+172,83.0,Caucasian
+173,89.0,Caucasian
+174,80.0,Caucasian
+175,49.0,Caucasian
+176,70.0,Caucasian
+177,55.0,Caucasian
+178,62.0,Caucasian
+179,44.0,Caucasian
+180,87.0,Caucasian
+181,29.0,Caucasian
+182,58.0,Caucasian
+183,86.0,Caucasian
+184,60.0,Caucasian
+185,50.0,Caucasian
+186,83.0,Caucasian
+187,70.0,Caucasian
+188,70.0,Caucasian
+189,87.0,Caucasian
+190,69.0,Caucasian
+191,52.0,Native American
+192,71.0,Caucasian
+193,78.0,Caucasian
+194,48.0,Native American
+195,30.0,Caucasian
+196,62.0,Caucasian
+197,37.0,Native American
+198,48.0,Native American
+199,81.0,Caucasian
+200,55.0,Caucasian
+201,58.0,Caucasian
+202,52.0,Caucasian
+203,76.0,Native American
+204,57.0,Caucasian
+205,57.0,Caucasian
+206,66.0,Caucasian
+207,52.0,Caucasian
+208,80.0,Caucasian
+209,78.0,Caucasian
+210,65.0,Caucasian
+211,26.0,Caucasian
+212,81.0,Caucasian
+213,66.0,Caucasian
+214,67.0,Caucasian
+215,62.0,Caucasian
+216,74.0,Caucasian
+217,79.0,Caucasian
+218,62.0,Caucasian
+219,19.0,Native American
+220,67.0,Caucasian
+221,87.0,Caucasian
+222,61.0,Caucasian
+223,71.0,Caucasian
+224,89.0,Caucasian
+225,66.0,Caucasian
+226,66.0,Caucasian
+227,61.0,Caucasian
+228,74.0,Caucasian
+229,54.0,Caucasian
+230,69.0,Caucasian
+231,69.0,Caucasian
+232,26.0,Native American
+233,55.0,Caucasian
+234,80.0,Caucasian
+235,31.0,Caucasian
+236,55.0,Caucasian
+237,62.0,Caucasian
+238,67.0,Caucasian
+239,52.0,Caucasian
+240,63.0,African American
+241,53.0,Caucasian
+242,54.0,Caucasian
+243,53.0,Caucasian
+244,40.0,Caucasian
+245,40.0,Caucasian
+246,25.0,Caucasian
+247,57.0,Caucasian
+248,40.0,Caucasian
+249,40.0,Caucasian
+250,37.0,Caucasian
+251,21.0,Caucasian
+252,31.0,Caucasian
+253,63.0,Caucasian
+254,23.0,Caucasian
+255,54.0,Caucasian
+256,40.0,Caucasian
+257,40.0,Caucasian
+258,40.0,Caucasian
+259,75.0,Caucasian
+260,85.0,African American
+261,59.0,Caucasian
+262,45.0,Caucasian
+263,40.0,Caucasian
+264,43.0,Caucasian
+265,82.0,Caucasian
+266,72.0,Caucasian
+267,67.0,Caucasian
+268,50.0,Caucasian
+269,53.0,Caucasian
+270,73.0,Caucasian
+271,20.0,Caucasian
+272,49.0,Caucasian
+273,49.0,Caucasian
+274,49.0,Caucasian
+275,21.0,Caucasian
+276,58.0,African American
+277,73.0,Caucasian
+278,73.0,Caucasian
+279,18.0,Caucasian
+280,77.0,Caucasian
+281,73.0,Caucasian
+282,73.0,Caucasian
+283,32.0,Caucasian
+284,79.0,Caucasian
+285,71.0,Caucasian
+286,70.0,Caucasian
+287,40.0,Caucasian
+288,88.0,Caucasian
+289,58.0,Caucasian
+290,34.0,Caucasian
+291,65.0,Caucasian
+292,39.0,Caucasian
+293,39.0,Caucasian
+294,39.0,Caucasian
+295,87.0,Caucasian
+296,88.0,Caucasian
+297,23.0,Caucasian
+298,41.0,African American
+299,53.0,African American
+300,28.0,Caucasian
+301,34.0,African American
+302,45.0,Caucasian
+303,26.0,Caucasian
+304,58.0,African American
+305,25.0,Caucasian
+306,58.0,Caucasian
+307,40.0,Caucasian
+308,26.0,Caucasian
+309,39.0,Caucasian
+310,26.0,Caucasian
+311,18.0,Caucasian
+312,42.0,Caucasian
+313,42.0,Caucasian
+314,89.0,Caucasian
+315,51.0,African American
+316,42.0,Caucasian
+317,30.0,African American
+318,39.0,Caucasian
+319,22.0,Caucasian
+320,73.0,Caucasian
+321,22.0,Caucasian
+322,84.0,Caucasian
+323,69.0,Caucasian
+324,82.0,Caucasian
+325,82.0,Caucasian
+326,82.0,Caucasian
+327,68.0,Caucasian
+328,68.0,Caucasian
+329,70.0,Caucasian
+330,74.0,Caucasian
+331,90.0,African American
+332,72.0,African American
+333,48.0,Caucasian
+334,87.0,Caucasian
+335,80.0,Caucasian
+336,27.0,Caucasian
+337,52.0,African American
+338,52.0,Caucasian
+339,48.0,Caucasian
+340,43.0,Caucasian
+341,58.0,Caucasian
+342,38.0,African American
+343,49.0,Caucasian
+344,27.0,Caucasian
+345,75.0,Caucasian
+346,40.0,Caucasian
+347,40.0,Caucasian
+348,85.0,Caucasian
+349,65.0,African American
+350,52.0,African American
+351,33.0,African American
+352,40.0,Caucasian
+353,63.0,Caucasian
+354,21.0,Caucasian
+355,58.0,Caucasian
+356,51.0,African American
+357,49.0,Caucasian
+358,49.0,Caucasian
+359,86.0,Caucasian
+360,86.0,Caucasian
+361,54.0,African American
+362,71.0,Caucasian
+363,56.0,African American
+364,53.0,Caucasian
+365,53.0,Caucasian
+366,53.0,Caucasian
+367,57.0,Caucasian
+368,80.0,Caucasian
+369,68.0,Caucasian
+370,68.0,Caucasian
+371,55.0,Caucasian
+372,58.0,African American
+373,63.0,African American
+374,70.0,African American
+375,63.0,African American
+376,63.0,African American
+377,73.0,Caucasian
+378,81.0,Caucasian
+379,33.0,African American
+380,24.0,Caucasian
+381,79.0,Caucasian
+382,63.0,Caucasian
+383,82.0,Caucasian
+384,76.0,Caucasian
+385,76.0,Caucasian
+386,41.0,Caucasian
+387,29.0,Caucasian
+388,29.0,Caucasian
+389,67.0,Caucasian
+390,67.0,Caucasian
+391,43.0,Caucasian
+392,76.0,Caucasian
+393,76.0,Caucasian
+394,57.0,Caucasian
+395,57.0,Caucasian
+396,28.0,Caucasian
+397,75.0,Caucasian
+398,75.0,Caucasian
+399,54.0,Caucasian
+400,42.0,Caucasian
+401,42.0,Caucasian
+402,42.0,Caucasian
+403,62.0,Caucasian
+404,64.0,Caucasian
+405,66.0,Caucasian
+406,66.0,Caucasian
+407,66.0,Caucasian
+408,82.0,Caucasian
+409,82.0,Caucasian
+410,82.0,Caucasian
+411,34.0,Caucasian
+412,34.0,Caucasian
+413,34.0,Caucasian
+414,40.0,Caucasian
+415,40.0,Caucasian
+416,66.0,Caucasian
+417,68.0,Caucasian
+418,68.0,Caucasian
+419,41.0,Caucasian
+420,89.0,Caucasian
+421,89.0,Caucasian
+422,73.0,Caucasian
+423,73.0,Caucasian
+424,76.0,Caucasian
+425,83.0,Caucasian
+426,34.0,Caucasian
+427,68.0,Caucasian
+428,78.0,African American
+429,78.0,African American
+430,78.0,African American
+431,63.0,Caucasian
+432,61.0,Caucasian
+433,36.0,Caucasian
+434,36.0,Caucasian
+435,40.0,Caucasian
+436,59.0,Caucasian
+437,59.0,Caucasian
+438,59.0,Caucasian
+439,57.0,Caucasian
+440,57.0,Caucasian
+441,61.0,Caucasian
+442,70.0,Caucasian
+443,70.0,Caucasian
+444,70.0,Caucasian
+445,54.0,Caucasian
+446,59.0,Caucasian
+447,89.0,Caucasian
+448,26.0,African American
+449,57.0,Caucasian
+450,29.0,Caucasian
+451,57.0,Caucasian
+452,57.0,Caucasian
+453,24.0,Caucasian
+454,24.0,Caucasian
+455,61.0,Caucasian
+456,75.0,Caucasian
+457,75.0,Caucasian
+458,31.0,Caucasian
+459,79.0,Caucasian
+460,79.0,Caucasian
+461,89.0,Caucasian
+462,89.0,Caucasian
+463,66.0,Caucasian
+464,66.0,Caucasian
+465,66.0,Caucasian
+466,29.0,Caucasian
+467,88.0,Caucasian
+468,88.0,Caucasian
+469,76.0,Caucasian
+470,76.0,Caucasian
+471,78.0,Caucasian
+472,78.0,Caucasian
+473,64.0,Caucasian
+474,68.0,Caucasian
+475,83.0,Caucasian
+476,83.0,Caucasian
+477,67.0,Caucasian
+478,67.0,Caucasian
+479,39.0,Caucasian
+480,39.0,Caucasian
+481,63.0,Caucasian
+482,63.0,Caucasian
+483,57.0,Caucasian
+484,71.0,Caucasian
+485,62.0,Caucasian
+486,62.0,Caucasian
+487,74.0,Caucasian
+488,74.0,Caucasian
+489,79.0,Caucasian
+490,79.0,Caucasian
+491,37.0,Caucasian
+492,71.0,Caucasian
+493,78.0,Caucasian
+494,78.0,Caucasian
+495,61.0,Caucasian
+496,61.0,Caucasian
+497,70.0,Caucasian
+498,64.0,Caucasian
+499,60.0,Caucasian
+500,60.0,Caucasian
+501,79.0,Caucasian
+502,79.0,Caucasian
+503,76.0,Caucasian
+504,28.0,Caucasian
+505,68.0,Caucasian
+506,68.0,Caucasian
+507,68.0,Caucasian
+508,29.0,Caucasian
+509,71.0,Caucasian
+510,62.0,Caucasian
+511,79.0,Caucasian
+512,79.0,Caucasian
+513,54.0,African American
+514,68.0,Caucasian
+515,68.0,Caucasian
+516,28.0,Caucasian
+517,57.0,Caucasian
+518,57.0,Caucasian
+519,66.0,Caucasian
+520,66.0,Caucasian
+521,66.0,Caucasian
+522,63.0,Caucasian
+523,89.0,Caucasian
+524,89.0,Caucasian
+525,67.0,Caucasian
+526,28.0,Caucasian
+527,28.0,Caucasian
+528,82.0,Caucasian
+529,82.0,Caucasian
+530,66.0,Caucasian
+531,66.0,Caucasian
+532,47.0,Caucasian
+533,47.0,Caucasian
+534,47.0,Caucasian
+535,41.0,Caucasian
+536,41.0,Caucasian
+537,41.0,Caucasian
+538,60.0,Caucasian
+539,42.0,Caucasian
+540,89.0,Caucasian
+541,54.0,Caucasian
+542,82.0,African American
+543,82.0,African American
+544,42.0,Caucasian
+545,56.0,Caucasian
+546,85.0,Caucasian
+547,85.0,Caucasian
+548,74.0,Caucasian
+549,74.0,Caucasian
+550,66.0,Caucasian
+551,66.0,Caucasian
+552,28.0,Caucasian
+553,28.0,Caucasian
+554,62.0,Caucasian
+555,68.0,Caucasian
+556,74.0,Caucasian
+557,74.0,Caucasian
+558,78.0,Caucasian
+559,78.0,Caucasian
+560,78.0,Caucasian
+561,57.0,Caucasian
+562,57.0,Caucasian
+563,43.0,Caucasian
+564,43.0,Caucasian
+565,28.0,Caucasian
+566,28.0,Caucasian
+567,67.0,Caucasian
+568,67.0,Caucasian
+569,87.0,Caucasian
+570,87.0,Caucasian
+571,79.0,Caucasian
+572,79.0,Caucasian
+573,64.0,Caucasian
+574,64.0,Caucasian
+575,29.0,Caucasian
+576,29.0,Caucasian
+577,32.0,Caucasian
+578,76.0,Caucasian
+579,76.0,Caucasian
+580,59.0,Caucasian
+581,64.0,Caucasian
+582,64.0,Caucasian
+583,64.0,Caucasian
+584,64.0,Caucasian
+585,79.0,Caucasian
+586,79.0,Caucasian
+587,79.0,Caucasian
+588,57.0,Caucasian
+589,75.0,Caucasian
+590,71.0,Caucasian
+591,71.0,Caucasian
+592,69.0,Caucasian
+593,67.0,Caucasian
+594,67.0,Caucasian
+595,67.0,Caucasian
+596,68.0,Caucasian
+597,68.0,Caucasian
+598,29.0,Caucasian
+599,78.0,Caucasian
+600,78.0,Caucasian
+601,75.0,Caucasian
+602,75.0,Caucasian
+603,82.0,Caucasian
+604,34.0,African American
+605,34.0,African American
+606,89.0,Caucasian
+607,78.0,Caucasian
+608,80.0,Caucasian
+609,80.0,Caucasian
+610,29.0,Caucasian
+611,29.0,Caucasian
+612,55.0,Caucasian
+613,55.0,Caucasian
+614,80.0,Caucasian
+615,28.0,Caucasian
+616,28.0,Caucasian
+617,66.0,Caucasian
+618,64.0,Caucasian
+619,79.0,Caucasian
+620,79.0,Caucasian
+621,69.0,Caucasian
+622,69.0,Caucasian
+623,70.0,Caucasian
+624,70.0,Caucasian
+625,61.0,Caucasian
+626,61.0,Caucasian
+627,65.0,Caucasian
+628,65.0,Caucasian
+629,65.0,Caucasian
+630,65.0,Caucasian
+631,67.0,Caucasian
+632,67.0,Caucasian
+633,67.0,Caucasian
+634,67.0,Caucasian
+635,46.0,Caucasian
+636,46.0,Caucasian
+637,89.0,Caucasian
+638,63.0,Caucasian
+639,66.0,Caucasian
+640,66.0,Caucasian
+641,30.0,Caucasian
+642,76.0,Caucasian
+643,64.0,Caucasian
+644,69.0,Caucasian
+645,78.0,Caucasian
+646,78.0,Caucasian
+647,78.0,Caucasian
+648,78.0,Caucasian
+649,89.0,Caucasian
+650,74.0,Caucasian
+651,74.0,Caucasian
+652,77.0,Caucasian
+653,77.0,Caucasian
+654,44.0,Caucasian
+655,44.0,Caucasian
+656,73.0,Caucasian
+657,73.0,Caucasian
+658,65.0,Caucasian
+659,89.0,Caucasian
+660,73.0,Caucasian
+661,73.0,Caucasian
+662,89.0,Caucasian
+663,88.0,Caucasian
+664,80.0,Caucasian
+665,79.0,Caucasian
+666,79.0,Caucasian
+667,79.0,Caucasian
+668,29.0,Caucasian
+669,28.0,Caucasian
+670,28.0,Caucasian
+671,34.0,Caucasian
+672,34.0,Caucasian
+673,34.0,Caucasian
+674,80.0,Caucasian
+675,89.0,Caucasian
+676,84.0,Caucasian
+677,67.0,Caucasian
+678,65.0,African American
+679,65.0,African American
+680,65.0,African American
+681,49.0,Caucasian
+682,65.0,Caucasian
+683,89.0,Caucasian
+684,89.0,Caucasian
+685,89.0,Caucasian
+686,89.0,Caucasian
+687,57.0,Caucasian
+688,57.0,Caucasian
+689,82.0,Caucasian
+690,85.0,Caucasian
+691,83.0,Caucasian
+692,84.0,African American
+693,89.0,Caucasian
+694,83.0,Caucasian
+695,89.0,Caucasian
+696,89.0,Caucasian
+697,70.0,Caucasian
+698,86.0,Caucasian
+699,54.0,African American
+700,88.0,Caucasian
+701,53.0,Caucasian
+702,53.0,Caucasian
+703,76.0,Caucasian
+704,74.0,Caucasian
+705,87.0,Caucasian
+706,87.0,Caucasian
+707,83.0,Caucasian
+708,70.0,Caucasian
+709,89.0,Caucasian
+710,89.0,Caucasian
+711,52.0,Caucasian
+712,82.0,Caucasian
+713,89.0,Caucasian
+714,87.0,Caucasian
+715,84.0,Caucasian
+716,60.0,Caucasian
+717,60.0,Caucasian
+718,58.0,Caucasian
+719,89.0,Caucasian
+720,48.0,Caucasian
+721,84.0,Caucasian
+722,70.0,Caucasian
+723,72.0,Caucasian
+724,73.0,Caucasian
+725,68.0,African American
+726,52.0,African American
+727,80.0,Caucasian
+728,68.0,Caucasian
+729,68.0,Caucasian
+730,68.0,Caucasian
+731,89.0,Caucasian
+732,89.0,Caucasian
+733,81.0,Caucasian
+734,81.0,Caucasian
+735,68.0,African American
+736,68.0,African American
+737,63.0,Caucasian
+738,87.0,Caucasian
+739,52.0,African American
+740,77.0,Caucasian
+741,54.0,Caucasian
+742,49.0,Caucasian
+743,56.0,Caucasian
+744,26.0,African American
+745,54.0,Caucasian
+746,63.0,Caucasian
+747,41.0,Caucasian
+748,27.0,African American
+749,52.0,Caucasian
+750,56.0,Caucasian
+751,29.0,Caucasian
+752,27.0,African American
+753,74.0,Caucasian
+754,21.0,Caucasian
+755,76.0,African American
+756,67.0,African American
+757,50.0,African American
+758,65.0,Caucasian
+759,65.0,Caucasian
+760,70.0,Caucasian
+761,70.0,Caucasian
+762,70.0,Caucasian
+763,65.0,Caucasian
+764,61.0,Caucasian
+765,67.0,Caucasian
+766,74.0,African American
+767,76.0,African American
+768,76.0,African American
+769,57.0,African American
+770,69.0,African American
+771,60.0,African American
+772,50.0,African American
+773,70.0,African American
+774,53.0,African American
+775,72.0,Caucasian
+776,64.0,Caucasian
+777,67.0,Caucasian
+778,89.0,Caucasian
+779,68.0,Caucasian
+780,68.0,Caucasian
+781,65.0,Caucasian
+782,58.0,African American
+783,71.0,Caucasian
+784,44.0,Caucasian
+785,57.0,Caucasian
+786,58.0,Caucasian
+787,76.0,Caucasian
+788,71.0,Caucasian
+789,74.0,African American
+790,82.0,Caucasian
+791,82.0,Caucasian
+792,63.0,African American
+793,69.0,African American
+794,65.0,Caucasian
+795,61.0,Caucasian
+796,61.0,Caucasian
+797,44.0,Caucasian
+798,89.0,Caucasian
+799,50.0,Caucasian
+800,68.0,Caucasian
+801,68.0,Caucasian
+802,80.0,African American
+803,70.0,African American
+804,56.0,Caucasian
+805,47.0,Caucasian
+806,89.0,Caucasian
+807,75.0,Caucasian
+808,76.0,Caucasian
+809,78.0,African American
+810,78.0,Caucasian
+811,78.0,Caucasian
+812,75.0,Caucasian
+813,78.0,Caucasian
+814,78.0,Caucasian
+815,76.0,Caucasian
+816,76.0,Caucasian
+817,76.0,Caucasian
+818,76.0,Caucasian
+819,78.0,Caucasian
+820,78.0,Caucasian
+821,79.0,Caucasian
+822,77.0,Caucasian
+823,77.0,Caucasian
+824,76.0,Caucasian
+825,76.0,Caucasian
+826,76.0,Caucasian
+827,89.0,Caucasian
+828,78.0,Caucasian
+829,79.0,Caucasian
+830,77.0,Caucasian
+831,76.0,Caucasian
+832,78.0,Caucasian
+833,89.0,Caucasian
+834,77.0,Caucasian
+835,78.0,Caucasian
+836,76.0,Caucasian
+837,89.0,Caucasian
+838,77.0,Caucasian
+839,78.0,Caucasian
+840,78.0,Caucasian
+841,78.0,Caucasian
+842,77.0,Caucasian
+843,78.0,Caucasian
+844,77.0,Caucasian
+845,76.0,Caucasian
+846,77.0,Caucasian
+847,77.0,Caucasian
+848,77.0,Caucasian
+849,78.0,Caucasian
+850,78.0,Caucasian
+851,79.0,Caucasian
+852,75.0,Caucasian
+853,78.0,Caucasian
+854,89.0,Caucasian
+855,74.0,Caucasian
+856,79.0,Caucasian
+857,75.0,Caucasian
+858,77.0,Caucasian
+859,77.0,Caucasian
+860,76.0,Caucasian
+861,89.0,Caucasian
+862,78.0,Caucasian
+863,78.0,Caucasian
+864,79.0,Caucasian
+865,74.0,Caucasian
+866,78.0,Caucasian
+867,78.0,Caucasian
+868,78.0,Caucasian
+869,79.0,Caucasian
+870,79.0,Caucasian
+871,79.0,Caucasian
+872,78.0,Caucasian
+873,89.0,Caucasian
+874,89.0,Caucasian
+875,89.0,Caucasian
+876,77.0,Caucasian
+877,76.0,Caucasian
+878,78.0,Caucasian
+879,78.0,Caucasian
+880,79.0,Caucasian
+881,76.0,Caucasian
+882,77.0,Caucasian
+883,77.0,Caucasian
+884,77.0,Caucasian
+885,76.0,Caucasian
+886,77.0,Caucasian
+887,75.0,Caucasian
+888,78.0,Caucasian
+889,78.0,Caucasian
+890,78.0,Caucasian
+891,77.0,Caucasian
+892,78.0,Caucasian
+893,78.0,Caucasian
+894,77.0,Caucasian
+895,78.0,Caucasian
+896,77.0,Caucasian
+897,79.0,Caucasian
+898,76.0,Caucasian
+899,77.0,Caucasian
+900,34.0,Caucasian
+901,86.0,Caucasian
+902,76.0,Caucasian
+903,80.0,Caucasian
+904,77.0,Caucasian
+905,89.0,Caucasian
+906,82.0,Caucasian
+907,82.0,Caucasian
+908,46.0,Caucasian
+909,76.0,Caucasian
+910,76.0,Caucasian
+911,49.0,Caucasian
+912,79.0,African American
+913,83.0,Caucasian
+914,63.0,Caucasian
+915,78.0,Caucasian
+916,89.0,Caucasian
+917,89.0,Caucasian
+918,49.0,Caucasian
+919,61.0,Caucasian
+920,39.0,African American
+921,60.0,Caucasian
+922,66.0,Caucasian
+923,88.0,Caucasian
+924,88.0,Caucasian
+925,55.0,Caucasian
+926,55.0,Caucasian
+927,74.0,Caucasian
+928,39.0,African American
+929,83.0,Caucasian
+930,89.0,Caucasian
+931,66.0,Caucasian
+932,29.0,Caucasian
+933,75.0,Caucasian
+934,36.0,Caucasian
+935,79.0,African American
+936,77.0,Caucasian
+937,51.0,Caucasian
+938,56.0,Caucasian
+939,59.0,African American
+940,77.0,Caucasian
+941,34.0,Caucasian
+942,85.0,Caucasian
+943,81.0,Caucasian
+944,81.0,Caucasian
+945,59.0,Caucasian
+946,37.0,Caucasian
+947,71.0,Caucasian
+948,76.0,Caucasian
+949,56.0,Caucasian
+950,71.0,Caucasian
+951,88.0,Caucasian
+952,71.0,African American
+953,71.0,African American
+954,89.0,Caucasian
+955,59.0,Caucasian
+956,71.0,Caucasian
+957,37.0,Caucasian
+958,68.0,Caucasian
+959,30.0,African American
+960,64.0,Caucasian
+961,48.0,Caucasian
+962,66.0,Native American
+963,68.0,Caucasian
+964,77.0,Caucasian
+965,67.0,Caucasian
+966,73.0,African American
+967,71.0,Caucasian
+968,30.0,African American
+969,65.0,Caucasian
+970,58.0,Caucasian
+971,72.0,African American
+972,77.0,Caucasian
+973,60.0,Caucasian
+974,30.0,African American
+975,89.0,Caucasian
+976,77.0,Caucasian
+977,31.0,Caucasian
+978,72.0,African American
+979,67.0,African American
+980,58.0,Caucasian
+981,59.0,Caucasian
+982,66.0,Native American
+983,46.0,African American
+984,72.0,African American
+985,73.0,Caucasian
+986,73.0,Caucasian
+987,55.0,Caucasian
+988,72.0,African American
+989,89.0,Caucasian
+990,75.0,Caucasian
+991,63.0,Caucasian
+992,53.0,African American
+993,89.0,Caucasian
+994,74.0,Caucasian
+995,78.0,Caucasian
+996,84.0,Caucasian
+997,79.0,Caucasian
+998,89.0,Caucasian
+999,38.0,Caucasian
+1000,74.0,Caucasian
+1001,21.0,Caucasian
+1002,59.0,Caucasian
+1003,82.0,Caucasian
+1004,23.0,Caucasian
+1005,83.0,Caucasian
+1006,79.0,Caucasian
+1007,86.0,Caucasian
+1008,36.0,Caucasian
+1009,31.0,Caucasian
+1010,74.0,African American
+1011,27.0,African American
+1012,15.0,Caucasian
+1013,87.0,Caucasian
+1014,30.0,African American
+1015,35.0,Caucasian
+1016,66.0,African American
+1017,66.0,African American
+1018,50.0,African American
+1019,24.0,Caucasian
+1020,26.0,African American
+1021,26.0,African American
+1022,71.0,Caucasian
+1023,19.0,African American
+1024,78.0,Caucasian
+1025,60.0,Caucasian
+1026,22.0,African American
+1027,73.0,Caucasian
+1028,54.0,African American
+1029,31.0,Caucasian
+1030,24.0,Caucasian
+1031,26.0,African American
+1032,31.0,Caucasian
+1033,77.0,Caucasian
+1034,77.0,Caucasian
+1035,84.0,Caucasian
+1036,56.0,African American
+1037,71.0,Caucasian
+1038,30.0,Caucasian
+1039,72.0,Caucasian
+1040,77.0,Caucasian
+1041,25.0,African American
+1042,57.0,Caucasian
+1043,29.0,Caucasian
+1044,19.0,Caucasian
+1045,34.0,Caucasian
+1046,26.0,African American
+1047,56.0,African American
+1048,77.0,Caucasian
+1049,76.0,Caucasian
+1050,27.0,African American
+1051,26.0,African American
+1052,19.0,African American
+1053,62.0,African American
+1054,26.0,African American
+1055,21.0,African American
+1056,26.0,African American
+1057,80.0,Caucasian
+1058,25.0,African American
+1059,30.0,Caucasian
+1060,33.0,Caucasian
+1061,36.0,Caucasian
+1062,76.0,Caucasian
+1063,51.0,Caucasian
+1064,51.0,Caucasian
+1065,36.0,Caucasian
+1066,69.0,Caucasian
+1067,86.0,Caucasian
+1068,37.0,Caucasian
+1069,84.0,Caucasian
+1070,64.0,Caucasian
+1071,39.0,Caucasian
+1072,56.0,Caucasian
+1073,82.0,Caucasian
+1074,63.0,Caucasian
+1075,55.0,Caucasian
+1076,89.0,Caucasian
+1077,65.0,African American
+1078,58.0,Caucasian
+1079,18.0,Caucasian
+1080,53.0,Caucasian
+1081,28.0,Caucasian
+1082,83.0,Caucasian
+1083,84.0,Caucasian
+1084,52.0,Caucasian
+1085,78.0,Caucasian
+1086,89.0,Caucasian
+1087,72.0,Caucasian
+1088,86.0,Caucasian
+1089,66.0,Caucasian
+1090,73.0,Caucasian
+1091,89.0,Caucasian
+1092,89.0,Caucasian
+1093,51.0,Caucasian
+1094,64.0,Caucasian
+1095,89.0,Caucasian
+1096,77.0,Caucasian
+1097,77.0,Caucasian
+1098,89.0,Caucasian
+1099,34.0,Caucasian
+1100,87.0,Caucasian
+1101,64.0,Caucasian
+1102,37.0,Caucasian
+1103,82.0,Caucasian
+1104,72.0,Caucasian
+1105,56.0,Caucasian
+1106,57.0,Caucasian
+1107,63.0,Caucasian
+1108,89.0,Caucasian
+1109,76.0,Caucasian
+1110,22.0,Caucasian
+1111,65.0,Caucasian
+1112,86.0,Caucasian
+1113,73.0,Caucasian
+1114,89.0,Caucasian
+1115,89.0,Caucasian
+1116,66.0,Caucasian
+1117,55.0,Caucasian
+1118,64.0,Caucasian
+1119,78.0,Caucasian
+1120,86.0,Caucasian
+1121,62.0,Caucasian
+1122,52.0,Caucasian
+1123,65.0,African American
+1124,36.0,Caucasian
+1125,64.0,African American
+1126,65.0,Caucasian
+1127,58.0,Caucasian
+1128,87.0,Caucasian
+1129,55.0,Caucasian
+1130,39.0,Caucasian
+1131,58.0,Caucasian
+1132,81.0,Caucasian
+1133,81.0,Caucasian
+1134,89.0,Caucasian
+1135,52.0,Caucasian
+1136,45.0,Caucasian
+1137,56.0,Caucasian
+1138,47.0,Caucasian
+1139,72.0,Caucasian
+1140,52.0,Caucasian
+1141,73.0,Caucasian
+1142,42.0,Caucasian
+1143,53.0,Caucasian
+1144,58.0,Caucasian
+1145,56.0,Caucasian
+1146,43.0,Caucasian
+1147,51.0,Caucasian
+1148,38.0,Caucasian
+1149,57.0,Caucasian
+1150,40.0,African American
+1151,43.0,Caucasian
+1152,41.0,Caucasian
+1153,46.0,Caucasian
+1154,41.0,Caucasian
+1155,55.0,Caucasian
+1156,85.0,Caucasian
+1157,52.0,Caucasian
+1158,61.0,Caucasian
+1159,68.0,Caucasian
+1160,64.0,Caucasian
+1161,38.0,African American
+1162,50.0,African American
+1163,62.0,African American
+1164,67.0,Caucasian
+1165,64.0,Caucasian
+1166,59.0,Caucasian
+1167,85.0,Caucasian
+1168,53.0,Caucasian
+1169,52.0,African American
+1170,75.0,Caucasian
+1171,61.0,Caucasian
+1172,74.0,Caucasian
+1173,62.0,Caucasian
+1174,75.0,Caucasian
+1175,87.0,Caucasian
+1176,66.0,Caucasian
+1177,54.0,Caucasian
+1178,67.0,Caucasian
+1179,47.0,Caucasian
+1180,59.0,Caucasian
+1181,64.0,Caucasian
+1182,49.0,Caucasian
+1183,81.0,Caucasian
+1184,89.0,Caucasian
+1185,37.0,Caucasian
+1186,75.0,Caucasian
+1187,43.0,Caucasian
+1188,89.0,Caucasian
+1189,67.0,Caucasian
+1190,79.0,Caucasian
+1191,48.0,Caucasian
+1192,79.0,Caucasian
+1193,56.0,Caucasian
+1194,35.0,Caucasian
+1195,72.0,Caucasian
+1196,72.0,Caucasian
+1197,51.0,Caucasian
+1198,78.0,Caucasian
+1199,78.0,Caucasian
+1200,52.0,Caucasian
+1201,89.0,Caucasian
+1202,54.0,Caucasian
+1203,89.0,Caucasian
+1204,53.0,African American
+1205,72.0,Caucasian
+1206,55.0,African American
+1207,21.0,Caucasian
+1208,60.0,Caucasian
+1209,60.0,Caucasian
+1210,55.0,Caucasian
+1211,68.0,Caucasian
+1212,62.0,Caucasian
+1213,38.0,Caucasian
+1214,64.0,Caucasian
+1215,56.0,African American
+1216,62.0,Caucasian
+1217,72.0,Caucasian
+1218,63.0,African American
+1219,48.0,Caucasian
+1220,64.0,Caucasian
+1221,52.0,Caucasian
+1222,68.0,Caucasian
+1223,34.0,Caucasian
+1224,21.0,Caucasian
+1225,66.0,Caucasian
+1226,24.0,Caucasian
+1227,36.0,Caucasian
+1228,65.0,Caucasian
+1229,56.0,Caucasian
+1230,47.0,Caucasian
+1231,84.0,Caucasian
+1232,49.0,Caucasian
+1233,67.0,African American
+1234,57.0,African American
+1235,63.0,Caucasian
+1236,38.0,African American
+1237,52.0,Caucasian
+1238,75.0,Caucasian
+1239,49.0,African American
+1240,71.0,Caucasian
+1241,69.0,African American
+1242,75.0,Caucasian
+1243,70.0,Caucasian
+1244,50.0,Caucasian
+1245,74.0,Caucasian
+1246,80.0,Caucasian
+1247,75.0,Caucasian
+1248,54.0,Caucasian
+1249,79.0,Caucasian
+1250,79.0,Caucasian
+1251,60.0,Caucasian
+1252,55.0,African American
+1253,75.0,Caucasian
+1254,67.0,Caucasian
+1255,67.0,Caucasian
+1256,68.0,Caucasian
+1257,31.0,Caucasian
+1258,59.0,Caucasian
+1259,89.0,Caucasian
+1260,62.0,Caucasian
+1261,67.0,Caucasian
+1262,67.0,Caucasian
+1263,89.0,Caucasian
+1264,61.0,Caucasian
+1265,49.0,Caucasian
+1266,89.0,Caucasian
+1267,87.0,Caucasian
+1268,87.0,Caucasian
+1269,83.0,Caucasian
+1270,82.0,Caucasian
+1271,62.0,Caucasian
+1272,55.0,Caucasian
+1273,22.0,Caucasian
+1274,69.0,Caucasian
+1275,89.0,Caucasian
+1276,79.0,Caucasian
+1277,89.0,Caucasian
+1278,76.0,Caucasian
+1279,68.0,African American
+1280,89.0,Caucasian
+1281,72.0,African American
+1282,87.0,Caucasian
+1283,75.0,Caucasian
+1284,70.0,Caucasian
+1285,81.0,Caucasian
+1286,63.0,Caucasian
+1287,70.0,Caucasian
+1288,60.0,Caucasian
+1289,59.0,Caucasian
+1290,48.0,Caucasian
+1291,64.0,African American
+1292,67.0,Caucasian
+1293,56.0,African American
+1294,31.0,Caucasian
+1295,68.0,African American
+1296,67.0,Caucasian
+1297,67.0,Caucasian
+1298,45.0,Caucasian
+1299,77.0,Caucasian
+1300,87.0,Caucasian
+1301,53.0,Caucasian
+1302,74.0,Caucasian
+1303,61.0,Caucasian
+1304,63.0,Caucasian
+1305,63.0,Caucasian
+1306,55.0,Caucasian
+1307,55.0,African American
+1308,83.0,Caucasian
+1309,52.0,African American
+1310,85.0,Caucasian
+1311,85.0,Caucasian
+1312,69.0,African American
+1313,57.0,Caucasian
+1314,66.0,Caucasian
+1315,55.0,African American
+1316,69.0,Caucasian
+1317,85.0,Caucasian
+1318,84.0,Caucasian
+1319,74.0,Caucasian
+1320,53.0,Caucasian
+1321,51.0,African American
+1322,49.0,Caucasian
+1323,67.0,Caucasian
+1324,68.0,Caucasian
+1325,68.0,Caucasian
+1326,68.0,Caucasian
+1327,74.0,Caucasian
+1328,47.0,Caucasian
+1329,52.0,Caucasian
+1330,72.0,Caucasian
+1331,56.0,Caucasian
+1332,64.0,African American
+1333,80.0,Caucasian
+1334,36.0,Caucasian
+1335,85.0,Caucasian
+1336,61.0,African American
+1337,53.0,Caucasian
+1338,56.0,Caucasian
+1339,65.0,Caucasian
+1340,60.0,Caucasian
+1341,52.0,African American
+1342,76.0,Caucasian
+1343,60.0,Caucasian
+1344,71.0,African American
+1345,52.0,Caucasian
+1346,59.0,Caucasian
+1347,67.0,Caucasian
+1348,67.0,Caucasian
+1349,70.0,Caucasian
+1350,71.0,Caucasian
+1351,87.0,Caucasian
+1352,87.0,Caucasian
+1353,67.0,Caucasian
+1354,62.0,African American
+1355,63.0,Caucasian
+1356,58.0,African American
+1357,74.0,Caucasian
+1358,51.0,Caucasian
+1359,85.0,Caucasian
+1360,75.0,African American
+1361,81.0,Caucasian
+1362,71.0,Caucasian
+1363,68.0,Caucasian
+1364,67.0,African American
+1365,55.0,African American
+1366,68.0,Caucasian
+1367,68.0,Caucasian
+1368,55.0,African American
+1369,55.0,African American
+1370,65.0,Caucasian
+1371,47.0,Caucasian
+1372,53.0,Caucasian
+1373,41.0,Caucasian
+1374,64.0,Caucasian
+1375,29.0,Caucasian
+1376,23.0,African American
+1377,73.0,African American
+1378,53.0,Caucasian
+1379,63.0,Caucasian
+1380,50.0,Caucasian
+1381,37.0,Caucasian
+1382,50.0,Caucasian
+1383,42.0,Caucasian
+1384,73.0,Caucasian
+1385,67.0,Caucasian
+1386,62.0,Caucasian
+1387,78.0,Caucasian
+1388,78.0,Caucasian
+1389,71.0,African American
+1390,71.0,African American
+1391,76.0,Caucasian
+1392,42.0,Caucasian
+1393,62.0,Caucasian
+1394,67.0,Caucasian
+1395,54.0,Caucasian
+1396,49.0,Caucasian
+1397,56.0,Caucasian
+1398,56.0,Caucasian
+1399,56.0,Caucasian
+1400,70.0,Caucasian
+1401,70.0,Caucasian
+1402,26.0,Caucasian
+1403,67.0,Caucasian
+1404,43.0,African American
+1405,75.0,African American
+1406,76.0,Caucasian
+1407,33.0,Caucasian
+1408,85.0,Caucasian
+1409,84.0,Caucasian
+1410,54.0,Caucasian
+1411,40.0,Native American
+1412,74.0,Caucasian
+1413,77.0,Caucasian
+1414,79.0,Caucasian
+1415,38.0,African American
+1416,67.0,Caucasian
+1417,71.0,African American
+1418,57.0,Caucasian
+1419,47.0,Caucasian
+1420,53.0,Caucasian
+1421,74.0,African American
+1422,71.0,Caucasian
+1423,71.0,Caucasian
+1424,70.0,Caucasian
+1425,70.0,Caucasian
+1426,70.0,Caucasian
+1427,18.0,Caucasian
+1428,86.0,Caucasian
+1429,70.0,African American
+1430,69.0,Caucasian
+1431,83.0,Caucasian
+1432,83.0,Caucasian
+1433,83.0,Caucasian
+1434,68.0,Caucasian
+1435,73.0,Caucasian
+1436,62.0,Caucasian
+1437,71.0,African American
+1438,72.0,Caucasian
+1439,59.0,Caucasian
+1440,62.0,Caucasian
+1441,62.0,Caucasian
+1442,62.0,Caucasian
+1443,62.0,Caucasian
+1444,63.0,Caucasian
+1445,83.0,Caucasian
+1446,83.0,Caucasian
+1447,51.0,African American
+1448,38.0,African American
+1449,53.0,Caucasian
+1450,41.0,Caucasian
+1451,81.0,Caucasian
+1452,53.0,Caucasian
+1453,40.0,Native American
+1454,43.0,Caucasian
+1455,51.0,Caucasian
+1456,70.0,Caucasian
+1457,69.0,Caucasian
+1458,80.0,Caucasian
+1459,27.0,Caucasian
+1460,63.0,Caucasian
+1461,63.0,Caucasian
+1462,73.0,Caucasian
+1463,73.0,Caucasian
+1464,50.0,Caucasian
+1465,57.0,Caucasian
+1466,68.0,Caucasian
+1467,65.0,Caucasian
+1468,88.0,Caucasian
+1469,72.0,Caucasian
+1470,76.0,Caucasian
+1471,60.0,Caucasian
+1472,64.0,Caucasian
+1473,79.0,Caucasian
+1474,64.0,Caucasian
+1475,74.0,Caucasian
+1476,60.0,Caucasian
+1477,68.0,Caucasian
+1478,61.0,Caucasian
+1479,76.0,Caucasian
+1480,22.0,Caucasian
+1481,60.0,Caucasian
+1482,77.0,Caucasian
+1483,61.0,Caucasian
+1484,51.0,Caucasian
+1485,76.0,Caucasian
+1486,89.0,Caucasian
+1487,61.0,Caucasian
+1488,69.0,Caucasian
+1489,74.0,Caucasian
+1490,75.0,Caucasian
+1491,74.0,Caucasian
+1492,74.0,Caucasian
+1493,74.0,Caucasian
+1494,55.0,Caucasian
+1495,62.0,Caucasian
+1496,82.0,Caucasian
+1497,48.0,Caucasian
+1498,53.0,Caucasian
+1499,50.0,Caucasian
+1500,68.0,Caucasian
+1501,71.0,Caucasian
+1502,69.0,Caucasian
+1503,71.0,Caucasian
+1504,75.0,Caucasian
+1505,89.0,Caucasian
+1506,41.0,Caucasian
+1507,59.0,Caucasian
+1508,54.0,Caucasian
+1509,54.0,Caucasian
+1510,80.0,Caucasian
+1511,80.0,Caucasian
+1512,50.0,Caucasian
+1513,64.0,Caucasian
+1514,67.0,Caucasian
+1515,55.0,Caucasian
+1516,22.0,Caucasian
+1517,65.0,Caucasian
+1518,22.0,Caucasian
+1519,65.0,Caucasian
+1520,43.0,Caucasian
+1521,63.0,Caucasian
+1522,89.0,Caucasian
+1523,73.0,Caucasian
+1524,27.0,Caucasian
+1525,88.0,Caucasian
+1526,64.0,Caucasian
+1527,70.0,Caucasian
+1528,82.0,Caucasian
+1529,79.0,Caucasian
+1530,70.0,Caucasian
+1531,70.0,Caucasian
+1532,63.0,Caucasian
+1533,63.0,Caucasian
+1534,70.0,Caucasian
+1535,70.0,Caucasian
+1536,66.0,Caucasian
+1537,66.0,Caucasian
+1538,52.0,Caucasian
+1539,64.0,Caucasian
+1540,54.0,Caucasian
+1541,67.0,Caucasian
+1542,65.0,Caucasian
+1543,18.0,Caucasian
+1544,71.0,Caucasian
+1545,72.0,Caucasian
+1546,71.0,Caucasian
+1547,80.0,Caucasian
+1548,45.0,Caucasian
+1549,73.0,Caucasian
+1550,54.0,Caucasian
+1551,35.0,Caucasian
+1552,56.0,African American
+1553,47.0,Caucasian
+1554,52.0,Caucasian
+1555,71.0,Caucasian
+1556,64.0,Caucasian
+1557,53.0,Caucasian
+1558,84.0,Caucasian
+1559,84.0,Caucasian
+1560,87.0,Caucasian
+1561,64.0,Caucasian
+1562,51.0,African American
+1563,51.0,African American
+1564,66.0,Caucasian
+1565,68.0,Caucasian
+1566,80.0,Caucasian
+1567,78.0,Caucasian
+1568,60.0,Caucasian
+1569,88.0,Caucasian
+1570,71.0,Caucasian
+1571,80.0,Caucasian
+1572,57.0,Caucasian
+1573,74.0,Caucasian
+1574,86.0,Caucasian
+1575,32.0,Caucasian
+1576,53.0,Caucasian
+1577,88.0,Caucasian
+1578,82.0,Caucasian
+1579,40.0,Caucasian
+1580,57.0,Caucasian
+1581,75.0,Caucasian
+1582,82.0,Caucasian
+1583,66.0,Caucasian
+1584,56.0,Caucasian
+1585,51.0,Caucasian
+1586,85.0,Caucasian
+1587,63.0,Caucasian
+1588,73.0,Caucasian
+1589,62.0,Caucasian
+1590,60.0,Caucasian
+1591,80.0,African American
+1592,58.0,Caucasian
+1593,89.0,Caucasian
+1594,18.0,Caucasian
+1595,67.0,Caucasian
+1596,67.0,Caucasian
+1597,84.0,Caucasian
+1598,84.0,Caucasian
+1599,74.0,Caucasian
+1600,57.0,Caucasian
+1601,89.0,Caucasian
+1602,19.0,Caucasian
+1603,77.0,Caucasian
+1604,67.0,Caucasian
+1605,80.0,Caucasian
+1606,37.0,Caucasian
+1607,19.0,African American
+1608,79.0,Caucasian
+1609,83.0,Caucasian
+1610,64.0,Caucasian
+1611,84.0,Caucasian
+1612,52.0,Caucasian
+1613,75.0,Caucasian
+1614,34.0,Caucasian
+1615,65.0,Caucasian
+1616,82.0,Caucasian
+1617,57.0,Caucasian
+1618,29.0,Caucasian
+1619,89.0,Caucasian
+1620,79.0,Caucasian
+1621,89.0,Caucasian
+1622,75.0,Caucasian
+1623,74.0,Caucasian
+1624,56.0,Caucasian
+1625,54.0,Caucasian
+1626,40.0,Caucasian
+1627,40.0,Caucasian
+1628,37.0,Caucasian
+1629,35.0,Caucasian
+1630,22.0,Caucasian
+1631,74.0,Caucasian
+1632,58.0,Caucasian
+1633,64.0,Caucasian
+1634,74.0,Caucasian
+1635,74.0,Caucasian
+1636,51.0,Caucasian
+1637,89.0,Caucasian
+1638,81.0,Caucasian
+1639,62.0,Caucasian
+1640,79.0,Caucasian
+1641,71.0,Caucasian
+1642,89.0,Caucasian
+1643,52.0,Caucasian
+1644,45.0,Caucasian
+1645,84.0,Caucasian
+1646,57.0,Caucasian
+1647,89.0,Caucasian
+1648,56.0,Caucasian
+1649,56.0,Caucasian
+1650,58.0,Caucasian
+1651,35.0,Caucasian
+1652,89.0,Caucasian
+1653,82.0,African American
+1654,82.0,African American
+1655,84.0,Caucasian
+1656,84.0,Caucasian
+1657,84.0,Caucasian
+1658,72.0,Caucasian
+1659,67.0,Caucasian
+1660,86.0,Caucasian
+1661,71.0,Caucasian
+1662,55.0,Caucasian
+1663,53.0,Caucasian
+1664,76.0,Caucasian
+1665,62.0,Caucasian
+1666,66.0,Caucasian
+1667,84.0,Caucasian
+1668,84.0,Caucasian
+1669,36.0,Caucasian
+1670,34.0,Caucasian
+1671,38.0,Caucasian
+1672,65.0,Caucasian
+1673,75.0,Caucasian
+1674,76.0,Caucasian
+1675,73.0,Caucasian
+1676,77.0,Caucasian
+1677,60.0,Caucasian
+1678,86.0,Caucasian
+1679,32.0,Caucasian
+1680,59.0,Caucasian
+1681,59.0,Caucasian
+1682,59.0,Caucasian
+1683,59.0,Caucasian
+1684,19.0,Caucasian
+1685,72.0,Caucasian
+1686,70.0,Caucasian
+1687,77.0,Caucasian
+1688,27.0,Caucasian
+1689,89.0,Caucasian
+1690,75.0,Caucasian
+1691,65.0,Caucasian
+1692,48.0,Caucasian
+1693,35.0,Caucasian
+1694,55.0,Caucasian
+1695,42.0,Caucasian
+1696,69.0,Caucasian
+1697,64.0,Caucasian
+1698,69.0,Caucasian
+1699,49.0,Caucasian
+1700,49.0,Caucasian
+1701,44.0,African American
+1702,76.0,Caucasian
+1703,25.0,Caucasian
+1704,85.0,Caucasian
+1705,85.0,Caucasian
+1706,89.0,Caucasian
+1707,75.0,Caucasian
+1708,68.0,Caucasian
+1709,89.0,Caucasian
+1710,58.0,Caucasian
+1711,32.0,Caucasian
+1712,59.0,Caucasian
+1713,36.0,Caucasian
+1714,84.0,Caucasian
+1715,80.0,Caucasian
+1716,70.0,Caucasian
+1717,44.0,Caucasian
+1718,18.0,Caucasian
+1719,62.0,Caucasian
+1720,40.0,Caucasian
+1721,68.0,Caucasian
+1722,76.0,Caucasian
+1723,60.0,Caucasian
+1724,83.0,Caucasian
+1725,72.0,Caucasian
+1726,87.0,Caucasian
+1727,54.0,Caucasian
+1728,51.0,Caucasian
+1729,76.0,Caucasian
+1730,87.0,Caucasian
+1731,71.0,Caucasian
+1732,72.0,Caucasian
+1733,75.0,Caucasian
+1734,73.0,Caucasian
+1735,83.0,Caucasian
+1736,84.0,Caucasian
+1737,84.0,Caucasian
+1738,52.0,Caucasian
+1739,67.0,Caucasian
+1740,65.0,Caucasian
+1741,19.0,Caucasian
+1742,55.0,Caucasian
+1743,28.0,Caucasian
+1744,66.0,Caucasian
+1745,69.0,Caucasian
+1746,58.0,Caucasian
+1747,89.0,Caucasian
+1748,52.0,Caucasian
+1749,74.0,Caucasian
+1750,66.0,Caucasian
+1751,36.0,Caucasian
+1752,53.0,Caucasian
+1753,81.0,Caucasian
+1754,60.0,Caucasian
+1755,70.0,Caucasian
+1756,75.0,Caucasian
+1757,81.0,Caucasian
+1758,70.0,Caucasian
+1759,52.0,Caucasian
+1760,72.0,Caucasian
+1761,82.0,Caucasian
+1762,56.0,Caucasian
+1763,69.0,Caucasian
+1764,83.0,Caucasian
+1765,45.0,Caucasian
+1766,74.0,Caucasian
+1767,81.0,Caucasian
+1768,62.0,Caucasian
+1769,36.0,Caucasian
+1770,56.0,Caucasian
+1771,89.0,Caucasian
+1772,23.0,Caucasian
+1773,46.0,Caucasian
+1774,70.0,Caucasian
+1775,62.0,Caucasian
+1776,75.0,Caucasian
+1777,28.0,Caucasian
+1778,60.0,Caucasian
+1779,39.0,Caucasian
+1780,39.0,Caucasian
+1781,39.0,Caucasian
+1782,89.0,Caucasian
+1783,89.0,Caucasian
+1784,54.0,Caucasian
+1785,88.0,Native American
+1786,75.0,Caucasian
+1787,55.0,Caucasian
+1788,55.0,Caucasian
+1789,83.0,Caucasian
+1790,85.0,Caucasian
+1791,85.0,Caucasian
+1792,73.0,Caucasian
+1793,78.0,Caucasian
+1794,66.0,Caucasian
+1795,89.0,Caucasian
+1796,68.0,Caucasian
+1797,32.0,Caucasian
+1798,74.0,Caucasian
+1799,47.0,Caucasian
+1800,33.0,African American
+1801,84.0,Caucasian
+1802,82.0,Caucasian
+1803,82.0,Caucasian
+1804,57.0,Caucasian
+1805,89.0,Caucasian
+1806,30.0,Caucasian
+1807,83.0,Caucasian
+1808,89.0,Caucasian
+1809,66.0,Caucasian
+1810,28.0,Caucasian
+1811,67.0,Caucasian
+1812,89.0,Caucasian
+1813,64.0,Caucasian
+1814,56.0,Caucasian
+1815,37.0,Caucasian
+1816,37.0,Caucasian
+1817,68.0,Caucasian
+1818,64.0,Caucasian
+1819,64.0,Caucasian
+1820,53.0,Caucasian
+1821,68.0,Caucasian
+1822,79.0,Caucasian
+1823,24.0,Caucasian
+1824,62.0,Caucasian
+1825,69.0,Caucasian
+1826,35.0,Caucasian
+1827,73.0,Caucasian
+1828,65.0,Caucasian
+1829,67.0,Caucasian
+1830,51.0,Caucasian
+1831,48.0,Caucasian
+1832,68.0,Caucasian
+1833,30.0,African American
+1834,77.0,Caucasian
+1835,58.0,Caucasian
+1836,31.0,Caucasian
+1837,57.0,Caucasian
+1838,83.0,Caucasian
+1839,83.0,Caucasian
+1840,83.0,Caucasian
+1841,57.0,Caucasian
+1842,60.0,Caucasian
+1843,84.0,Caucasian
+1844,59.0,Caucasian
+1845,74.0,Caucasian
+1846,68.0,Caucasian
+1847,51.0,Caucasian
+1848,54.0,African American
+1849,89.0,Caucasian
+1850,23.0,Caucasian
+1851,79.0,Caucasian
+1852,83.0,Caucasian
+1853,65.0,Caucasian
+1854,69.0,Caucasian
+1855,75.0,Caucasian
+1856,28.0,Caucasian
+1857,48.0,Caucasian
+1858,83.0,Caucasian
+1859,75.0,Caucasian
+1860,68.0,Caucasian
+1861,56.0,Caucasian
+1862,36.0,Caucasian
+1863,72.0,Caucasian
+1864,20.0,Caucasian
+1865,22.0,Caucasian
+1866,34.0,Caucasian
+1867,79.0,Caucasian
+1868,55.0,Caucasian
+1869,50.0,Caucasian
+1870,68.0,Caucasian
+1871,63.0,Caucasian
+1872,63.0,Caucasian
+1873,66.0,Caucasian
+1874,87.0,Caucasian
+1875,69.0,Caucasian
+1876,73.0,Caucasian
+1877,82.0,Caucasian
+1878,68.0,Caucasian
+1879,37.0,Caucasian
+1880,45.0,Caucasian
+1881,77.0,Caucasian
+1882,22.0,Caucasian
+1883,80.0,Caucasian
+1884,33.0,Caucasian
+1885,65.0,Caucasian
+1886,66.0,Caucasian
+1887,69.0,Caucasian
+1888,69.0,Caucasian
+1889,68.0,Caucasian
+1890,84.0,Caucasian
+1891,55.0,Caucasian
+1892,47.0,Caucasian
+1893,46.0,Caucasian
+1894,81.0,Caucasian
+1895,44.0,Caucasian
+1896,53.0,Caucasian
+1897,55.0,Caucasian
+1898,80.0,Caucasian
+1899,80.0,Caucasian
+1900,80.0,Caucasian
+1901,69.0,Caucasian
+1902,88.0,Caucasian
+1903,67.0,Caucasian
+1904,79.0,Caucasian
+1905,85.0,Caucasian
+1906,83.0,Caucasian
+1907,65.0,Caucasian
+1908,33.0,Caucasian
+1909,74.0,Caucasian
+1910,45.0,Caucasian
+1911,86.0,Caucasian
+1912,86.0,Caucasian
+1913,86.0,Caucasian
+1914,62.0,African American
+1915,57.0,Caucasian
+1916,82.0,Caucasian
+1917,82.0,Caucasian
+1918,82.0,Caucasian
+1919,59.0,African American
+1920,57.0,Caucasian
+1921,67.0,Caucasian
+1922,82.0,Caucasian
+1923,72.0,Caucasian
+1924,66.0,Caucasian
+1925,89.0,Caucasian
+1926,65.0,Caucasian
+1927,70.0,Caucasian
+1928,69.0,African American
+1929,79.0,Caucasian
+1930,86.0,Caucasian
+1931,89.0,African American
+1932,78.0,Caucasian
+1933,55.0,Caucasian
+1934,65.0,Caucasian
+1935,83.0,Caucasian
+1936,85.0,Caucasian
+1937,74.0,Caucasian
+1938,74.0,Caucasian
+1939,67.0,Caucasian
+1940,89.0,Caucasian
+1941,52.0,Caucasian
+1942,75.0,Caucasian
+1943,75.0,African American
+1944,52.0,Caucasian
+1945,44.0,Caucasian
+1946,56.0,Caucasian
+1947,64.0,Caucasian
+1948,71.0,Caucasian
+1949,71.0,Caucasian
+1950,71.0,Caucasian
+1951,70.0,Caucasian
+1952,78.0,Caucasian
+1953,77.0,Caucasian
+1954,44.0,Caucasian
+1955,69.0,Caucasian
+1956,69.0,Caucasian
+1957,45.0,Caucasian
+1958,83.0,Caucasian
+1959,25.0,Caucasian
+1960,54.0,Caucasian
+1961,79.0,Caucasian
+1962,79.0,Caucasian
+1963,71.0,Caucasian
+1964,82.0,Caucasian
+1965,64.0,Caucasian
+1966,30.0,Caucasian
+1967,30.0,Caucasian
+1968,70.0,Caucasian
+1969,75.0,Caucasian
+1970,36.0,Caucasian
+1971,56.0,Caucasian
+1972,66.0,Caucasian
+1973,54.0,Caucasian
+1974,68.0,African American
+1975,63.0,Caucasian
+1976,83.0,Caucasian
+1977,86.0,Caucasian
+1978,89.0,Caucasian
+1979,74.0,Caucasian
+1980,46.0,Caucasian
+1981,72.0,Caucasian
+1982,51.0,Caucasian
+1983,78.0,Caucasian
+1984,41.0,African American
+1985,86.0,Caucasian
+1986,62.0,Caucasian
+1987,83.0,Caucasian
+1988,34.0,Caucasian
+1989,35.0,Caucasian
+1990,46.0,Caucasian
+1991,77.0,Caucasian
+1992,61.0,Caucasian
+1993,54.0,Caucasian
+1994,88.0,Caucasian
+1995,85.0,Caucasian
+1996,70.0,Caucasian
+1997,57.0,Caucasian
+1998,53.0,Caucasian
+1999,65.0,Caucasian
+2000,47.0,Caucasian
+2001,70.0,Caucasian
+2002,58.0,Caucasian
+2003,33.0,African American
+2004,73.0,Caucasian
+2005,73.0,Caucasian
+2006,56.0,Caucasian
+2007,69.0,Caucasian
+2008,51.0,Caucasian
+2009,25.0,Caucasian
+2010,89.0,Caucasian
+2011,21.0,Caucasian
+2012,45.0,Caucasian
+2013,89.0,Caucasian
+2014,27.0,Caucasian
+2015,83.0,Caucasian
+2016,45.0,Caucasian
+2017,75.0,Caucasian
+2018,42.0,Caucasian
+2019,61.0,Caucasian
+2020,53.0,Caucasian
+2021,77.0,Caucasian
+2022,89.0,Caucasian
+2023,50.0,Caucasian
+2024,63.0,Caucasian
+2025,89.0,Caucasian
+2026,54.0,Caucasian
+2027,47.0,Caucasian
+2028,87.0,Caucasian
+2029,47.0,Caucasian
+2030,41.0,Caucasian
+2031,70.0,Caucasian
+2032,80.0,Caucasian
+2033,83.0,Caucasian
+2034,61.0,Caucasian
+2035,54.0,African American
+2036,68.0,Caucasian
+2037,55.0,African American
+2038,49.0,Caucasian
+2039,67.0,Caucasian
+2040,67.0,Caucasian
+2041,67.0,Caucasian
+2042,83.0,Caucasian
+2043,59.0,Caucasian
+2044,54.0,African American
+2045,75.0,African American
+2046,70.0,African American
+2047,64.0,Caucasian
+2048,60.0,Caucasian
+2049,69.0,Caucasian
+2050,72.0,Caucasian
+2051,72.0,Caucasian
+2052,58.0,Caucasian
+2053,58.0,Caucasian
+2054,72.0,Caucasian
+2055,72.0,Caucasian
+2056,29.0,African American
+2057,76.0,Caucasian
+2058,60.0,Caucasian
+2059,59.0,Caucasian
+2060,81.0,Caucasian
+2061,26.0,African American
+2062,77.0,Caucasian
+2063,88.0,Caucasian
+2064,78.0,Caucasian
+2065,74.0,Caucasian
+2066,77.0,Caucasian
+2067,54.0,Caucasian
+2068,72.0,Caucasian
+2069,39.0,Caucasian
+2070,75.0,African American
+2071,58.0,African American
+2072,71.0,Caucasian
+2073,59.0,African American
+2074,59.0,African American
+2075,54.0,Caucasian
+2076,87.0,African American
+2077,49.0,Caucasian
+2078,47.0,Caucasian
+2079,30.0,Caucasian
+2080,22.0,Caucasian
+2081,73.0,Caucasian
+2082,64.0,Caucasian
+2083,63.0,Caucasian
+2084,80.0,Caucasian
+2085,60.0,Caucasian
+2086,58.0,Caucasian
+2087,61.0,Caucasian
+2088,34.0,Caucasian
+2089,74.0,African American
+2090,64.0,African American
+2091,56.0,African American
+2092,60.0,Caucasian
+2093,31.0,Caucasian
+2094,89.0,Caucasian
+2095,77.0,Caucasian
+2096,77.0,Caucasian
+2097,63.0,Caucasian
+2098,60.0,Caucasian
+2099,61.0,Caucasian
+2100,30.0,Caucasian
+2101,54.0,Caucasian
+2102,82.0,Caucasian
+2103,62.0,Caucasian
+2104,73.0,Caucasian
+2105,71.0,Caucasian
+2106,56.0,Caucasian
+2107,63.0,Caucasian
+2108,26.0,Caucasian
+2109,81.0,Caucasian
+2110,73.0,Caucasian
+2111,75.0,Caucasian
+2112,81.0,Caucasian
+2113,81.0,Caucasian
+2114,64.0,Caucasian
+2115,81.0,Caucasian
+2116,24.0,Caucasian
+2117,62.0,Caucasian
+2118,62.0,Caucasian
+2119,89.0,Caucasian
+2120,63.0,Caucasian
+2121,69.0,Caucasian
+2122,84.0,Caucasian
+2123,53.0,Caucasian
+2124,82.0,Caucasian
+2125,68.0,Caucasian
+2126,34.0,Caucasian
+2127,61.0,African American
+2128,71.0,Caucasian
+2129,76.0,Caucasian
+2130,75.0,Caucasian
+2131,35.0,Caucasian
+2132,82.0,Caucasian
+2133,82.0,Caucasian
+2134,63.0,Caucasian
+2135,72.0,Caucasian
+2136,37.0,Caucasian
+2137,63.0,Caucasian
+2138,59.0,Caucasian
+2139,48.0,African American
+2140,36.0,African American
+2141,39.0,Caucasian
+2142,57.0,Caucasian
+2143,21.0,African American
+2144,61.0,Caucasian
+2145,55.0,Caucasian
+2146,59.0,Caucasian
+2147,74.0,Caucasian
+2148,68.0,Caucasian
+2149,58.0,Caucasian
+2150,61.0,African American
+2151,66.0,Caucasian
+2152,55.0,Caucasian
+2153,63.0,Caucasian
+2154,34.0,Caucasian
+2155,40.0,Caucasian
+2156,57.0,African American
+2157,57.0,African American
+2158,57.0,African American
+2159,57.0,African American
+2160,75.0,Caucasian
+2161,55.0,African American
+2162,67.0,African American
+2163,60.0,African American
+2164,24.0,Caucasian
+2165,40.0,African American
+2166,58.0,African American
+2167,82.0,African American
+2168,66.0,African American
+2169,58.0,African American
+2170,63.0,African American
+2171,63.0,African American
+2172,56.0,Caucasian
+2173,89.0,Caucasian
+2174,65.0,Caucasian
+2175,72.0,Caucasian
+2176,76.0,Caucasian
+2177,76.0,Caucasian
+2178,76.0,Caucasian
+2179,89.0,Caucasian
+2180,68.0,Caucasian
+2181,65.0,Caucasian
+2182,73.0,Caucasian
+2183,80.0,Caucasian
+2184,21.0,Caucasian
+2185,89.0,Caucasian
+2186,69.0,Caucasian
+2187,77.0,Caucasian
+2188,84.0,Caucasian
+2189,73.0,Caucasian
+2190,87.0,Caucasian
+2191,79.0,Caucasian
+2192,70.0,Caucasian
+2193,74.0,Caucasian
+2194,86.0,Caucasian
+2195,59.0,Caucasian
+2196,72.0,Caucasian
+2197,79.0,Caucasian
+2198,77.0,Caucasian
+2199,77.0,Caucasian
+2200,49.0,Caucasian
+2201,69.0,Caucasian
+2202,63.0,Caucasian
+2203,73.0,Caucasian
+2204,81.0,Caucasian
+2205,72.0,Caucasian
+2206,88.0,Caucasian
+2207,67.0,Caucasian
+2208,84.0,Caucasian
+2209,62.0,Caucasian
+2210,73.0,Caucasian
+2211,73.0,Caucasian
+2212,79.0,African American
+2213,87.0,African American
+2214,86.0,Caucasian
+2215,72.0,Caucasian
+2216,81.0,Caucasian
+2217,56.0,Caucasian
+2218,72.0,Caucasian
+2219,50.0,Caucasian
+2220,73.0,Caucasian
+2221,73.0,Caucasian
+2222,55.0,Caucasian
+2223,51.0,Caucasian
+2224,85.0,Caucasian
+2225,70.0,Caucasian
+2226,82.0,Caucasian
+2227,82.0,Caucasian
+2228,82.0,Caucasian
+2229,78.0,Caucasian
+2230,81.0,Caucasian
+2231,61.0,African American
+2232,47.0,African American
+2233,63.0,Caucasian
+2234,63.0,Caucasian
+2235,63.0,Caucasian
+2236,63.0,Caucasian
+2237,61.0,African American
+2238,55.0,Caucasian
+2239,50.0,Caucasian
+2240,73.0,Caucasian
+2241,73.0,Caucasian
+2242,87.0,Caucasian
+2243,87.0,Caucasian
+2244,71.0,African American
+2245,52.0,African American
+2246,52.0,African American
+2247,52.0,African American
+2248,62.0,Caucasian
+2249,41.0,African American
+2250,41.0,African American
+2251,72.0,Caucasian
+2252,50.0,Caucasian
+0,75.59959602355957,African American
+1,46.28251612186432,African American
+2,77.38594281673431,African American
+3,24.9641170501709,African American
+4,72.02171099185944,African American
+5,65.92654836177826,African American
+6,52.66807770729065,African American
+7,58.110238552093506,African American
+8,43.73469412326813,African American
+9,49.50526350736618,African American
+10,55.23064923286438,African American
+11,72.14444434642792,African American
+12,58.73743748664856,African American
+13,66.42380237579346,African American
+14,30.261740028858185,African American
+15,51.68263155221939,African American
+16,67.77292096614838,African American
+17,34.313204407691956,African American
+18,47.794887363910675,African American
+19,55.29136312007904,African American
+20,55.49415588378906,African American
+21,28.199500113725662,African American
+22,48.55833637714386,African American
+23,65.85701739788055,African American
+24,79.6835036277771,African American
+25,56.715261459350586,African American
+26,72.28905498981476,African American
+27,45.17766231298447,African American
+28,63.37019598484039,African American
+29,53.72211313247681,African American
+30,70.69517982006073,African American
+31,54.97785186767578,African American
+32,24.727885335683823,African American
+33,72.13785910606384,African American
+34,47.30256897211075,African American
+35,50.59346455335617,African American
+36,60.16906785964966,African American
+37,25.908302903175354,African American
+38,55.509849309921265,African American
+39,65.25718712806702,African American
+40,68.09636521339417,African American
+41,44.51624482870102,African American
+42,75.15359485149384,African American
+43,51.472106754779816,African American
+44,50.99115264415741,African American
+45,49.112528681755066,African American
+46,44.88042229413986,African American
+47,43.68752562999725,African American
+48,84.76877355575562,African American
+49,58.31864619255066,African American
+50,72.91491746902466,African American
+51,46.107416212558746,African American
+52,51.09873729944229,African American
+53,68.45738899707794,African American
+54,73.05360448360443,African American
+55,62.92996406555176,African American
+56,52.52625024318695,African American
+57,48.743027448654175,African American
+58,51.370849311351776,African American
+59,53.01525616645813,African American
+60,82.87728786468506,African American
+61,52.86720514297485,African American
+62,71.21274530887604,African American
+63,56.44643986225128,African American
+64,48.68312734365463,African American
+65,54.70988595485687,African American
+66,49.83484750986099,African American
+67,73.07196640968323,African American
+68,57.29891312122345,African American
+69,61.350728154182434,African American
+70,60.06001663208008,African American
+71,53.186931133270264,African American
+72,41.60612654685974,African American
+73,25.477879375219345,African American
+74,68.11140143871307,African American
+75,30.073792725801468,African American
+76,61.92489230632782,African American
+77,69.2585300207138,African American
+78,43.47822701931,African American
+79,53.159663915634155,African American
+80,49.31777161359787,African American
+81,34.704183757305145,African American
+82,60.45014250278473,African American
+83,64.73611068725586,African American
+84,61.81517946720123,African American
+85,27.80509802699089,African American
+86,54.2432336807251,African American
+87,79.73369789123535,African American
+88,69.68968904018402,African American
+89,56.84268343448639,African American
+90,61.46019399166107,African American
+91,57.16917550563812,African American
+92,42.289456605911255,African American
+93,31.814890801906586,African American
+94,20.94318825006485,African American
+95,75.37645208835602,African American
+96,60.526620388031006,African American
+97,72.42524552345276,African American
+98,51.528817892074585,African American
+99,56.4787882566452,African American
+100,19.42321564257145,African American
+101,73.76852869987488,African American
+102,60.67114281654358,African American
+103,59.9670205116272,African American
+104,59.51281976699829,African American
+105,75.01496958732605,African American
+106,65.072460770607,African American
+107,62.034865379333496,African American
+108,34.51933830976486,African American
+109,78.41597497463226,African American
+110,55.1113121509552,African American
+111,59.570746064186096,African American
+112,53.86866009235382,African American
+113,67.94688069820404,African American
+114,71.84973168373108,African American
+115,30.23830795288086,African American
+116,42.09285432100296,African American
+117,67.01645636558533,African American
+118,48.59153163433075,African American
+119,70.51458632946014,African American
+120,74.15621984004974,African American
+121,54.41998541355133,African American
+122,78.58414340019226,African American
+123,60.398863196372986,African American
+124,68.19532465934753,African American
+125,55.42416179180145,African American
+126,75.29455780982971,African American
+127,19.580451488494873,African American
+128,58.958521604537964,African American
+129,62.67434823513031,African American
+130,57.126298666000366,African American
+131,28.955555617809296,African American
+132,75.68367803096771,African American
+133,19.440446212887764,African American
+134,62.73687934875488,African American
+135,58.93799841403961,African American
+136,65.23900604248047,African American
+137,77.08129715919495,African American
+138,31.282637536525726,African American
+139,70.27525496482849,African American
+140,83.30065310001373,African American
+141,33.70451074838638,African American
+142,47.5476034283638,African American
+143,55.6331604719162,African American
+144,51.05307286977768,African American
+145,66.16774106025696,African American
+146,61.48550283908844,African American
+147,43.495195150375366,African American
+148,50.81602627038956,African American
+149,50.72962421178818,African American
+150,59.368306159973145,African American
+151,74.4309915304184,African American
+152,71.49573862552643,African American
+153,48.224145352840424,African American
+154,80.31987690925598,African American
+155,40.63169401884079,African American
+156,84.4086936712265,African American
+157,57.32344567775726,African American
+158,73.52167701721191,African American
+159,59.16504144668579,African American
+160,53.40866804122925,African American
+161,62.63846242427826,African American
+162,43.93945848941803,African American
+163,17.409628711640835,African American
+164,34.73082906007767,African American
+165,34.694583773612976,African American
+166,48.59365540742874,African American
+167,62.625124335289,African American
+168,58.57270061969757,African American
+169,38.90935152769089,African American
+170,64.36546266078949,African American
+171,18.339330233633518,African American
+172,46.09266668558121,African American
+173,77.28721272945404,African American
+174,45.09035164117813,African American
+175,63.27556788921356,African American
+176,49.05717384815216,African American
+177,58.83988583087921,African American
+178,29.102610915899277,African American
+179,45.7641875743866,African American
+180,47.56628954410553,African American
+181,57.17763531208038,African American
+182,53.63925290107727,African American
+183,68.77549183368683,African American
+184,71.00532567501068,African American
+185,60.32429075241089,African American
+186,65.59409737586975,African American
+187,79.88487613201141,African American
+188,41.15971738100052,African American
+189,66.25352561473846,African American
+190,56.40531408786774,African American
+191,64.73439490795135,African American
+192,31.196955531835556,African American
+193,64.88539230823517,African American
+194,47.48975872993469,African American
+195,43.84307712316513,African American
+196,59.80148088932037,African American
+197,62.24549603462219,African American
+198,53.460410475730896,African American
+199,72.51870918273926,African American
+200,61.45392632484436,African American
+201,42.734707951545715,African American
+202,60.86075186729431,African American
+203,44.63222533464432,African American
+204,34.99017858505249,African American
+205,50.58521205186844,African American
+206,45.00291746854782,African American
+207,34.04992491006851,African American
+208,63.85206091403961,African American
+209,61.45807242393494,African American
+210,29.929122537374496,African American
+211,66.08162569999695,African American
+212,39.49601352214813,African American
+213,60.005067586898804,African American
+214,73.57585418224335,African American
+215,70.41683101654053,African American
+216,42.088780999183655,African American
+217,81.02781891822815,African American
+218,45.85381829738617,African American
+219,40.287889778614044,African American
+220,55.77493500709534,African American
+221,67.78373610973358,African American
+222,64.1131637096405,African American
+223,79.99598276615143,African American
+224,55.60793101787567,African American
+225,32.72075170278549,African American
+226,47.1896870136261,African American
+227,53.680925607681274,African American
+228,51.937438011169434,African American
+229,67.6006064414978,African American
+230,74.96119821071625,African American
+231,63.27380359172821,Caucasian
+232,63.29949617385864,Caucasian
+233,19.735879480838776,Caucasian
+234,87.05668807029724,Caucasian
+235,62.95462894439697,Caucasian
+236,82.21666431427002,Caucasian
+237,85.63111805915833,Caucasian
+238,81.8398368358612,Caucasian
+239,63.893248438835144,Caucasian
+240,75.41316711902618,Caucasian
+241,75.5644291639328,Caucasian
+242,37.93266952037811,Caucasian
+243,17.886776626110077,Caucasian
+244,69.38045620918274,Caucasian
+245,24.96847927570343,Caucasian
+246,29.10208162665367,Caucasian
+247,38.349134147167206,Caucasian
+248,65.68201673030853,Caucasian
+249,71.43020820617676,Caucasian
+250,78.43239176273346,Caucasian
+251,67.91361045837402,Caucasian
+252,80.32088696956635,Caucasian
+253,68.81240975856781,Caucasian
+254,77.71328616142273,Caucasian
+255,50.158002853393555,Caucasian
+256,84.0949045419693,Caucasian
+257,76.61070609092712,Caucasian
+258,66.5692378282547,Caucasian
+259,79.3535932302475,Caucasian
+260,80.41656041145325,Caucasian
+261,73.39131307601929,Caucasian
+262,50.481519877910614,Caucasian
+263,77.13567280769348,Caucasian
+264,58.65706932544708,Caucasian
+265,75.79012250900269,Caucasian
+266,81.97140049934387,Caucasian
+267,80.29761588573456,Caucasian
+268,47.65169256925583,Caucasian
+269,61.903972148895264,Caucasian
+270,65.48981857299805,Caucasian
+271,40.3330072760582,Caucasian
+272,53.434276819229126,Caucasian
+273,87.07422518730164,Caucasian
+274,15.788975227624178,Caucasian
+275,75.43533992767334,Caucasian
+276,45.191079795360565,Caucasian
+277,60.70424544811249,Caucasian
+278,20.894580200314522,Caucasian
+279,29.082787930965424,Caucasian
+280,62.57928788661957,Caucasian
+281,28.16891711950302,Caucasian
+282,84.38908791542053,Caucasian
+283,83.04474174976349,Caucasian
+284,73.62312412261963,Caucasian
+285,53.042232275009155,Caucasian
+286,72.84820055961609,Caucasian
+287,58.61017429828644,Caucasian
+288,76.81296515464783,Caucasian
+289,64.12035322189331,Caucasian
+290,53.7126168012619,Caucasian
+291,69.13746392726898,Caucasian
+292,48.73775440454483,Caucasian
+293,34.98086088895798,Caucasian
+294,87.46846628189087,Caucasian
+295,66.40910136699677,Caucasian
+296,76.85254716873169,Caucasian
+297,54.46897995471954,Caucasian
+298,64.97169733047485,Caucasian
+299,67.21651446819305,Caucasian
+300,56.0815566778183,Caucasian
+301,80.31037175655365,Caucasian
+302,72.76280415058136,Caucasian
+303,73.0227028131485,Caucasian
+304,86.88242399692535,Caucasian
+305,67.25577449798584,Caucasian
+306,81.42913925647736,Caucasian
+307,73.82011234760284,Caucasian
+308,80.12745380401611,Caucasian
+309,55.15972888469696,Caucasian
+310,68.54761958122253,Caucasian
+311,72.31643688678741,Caucasian
+312,60.483880281448364,Caucasian
+313,81.7437355518341,Caucasian
+314,35.1749512553215,Caucasian
+315,81.8966383934021,Caucasian
+316,85.6418582201004,Caucasian
+317,62.89293587207794,Caucasian
+318,60.291796803474426,Caucasian
+319,34.17372125387192,Caucasian
+320,65.2054226398468,Caucasian
+321,56.77934515476227,Caucasian
+322,49.71977120637894,Caucasian
+323,63.34079837799072,Caucasian
+324,69.56029105186462,Caucasian
+325,38.000663340091705,Caucasian
+326,36.71050536632538,Caucasian
+327,74.94350671768188,Caucasian
+328,51.17470794916153,Caucasian
+329,78.66109764575958,Caucasian
+330,70.26061570644379,Caucasian
+331,78.3235125541687,Caucasian
+332,81.89950978755951,Caucasian
+333,44.21028035879135,Caucasian
+334,86.08064341545105,Caucasian
+335,74.37186110019684,Caucasian
+336,77.43081772327423,Caucasian
+337,60.042064905166626,Caucasian
+338,73.44538879394531,Caucasian
+339,38.14728528261185,Caucasian
+340,64.88614654541016,Caucasian
+341,52.43522131443024,Caucasian
+342,28.792772710323334,Caucasian
+343,73.87668013572693,Caucasian
+344,25.558066695928574,Caucasian
+345,84.32705962657928,Caucasian
+346,68.14565086364746,Caucasian
+347,77.17403304576874,Caucasian
+348,63.36866104602814,Caucasian
+349,86.82424628734589,Caucasian
+350,23.646868839859962,Caucasian
+351,21.962697476148605,Caucasian
+352,46.365435898303986,Caucasian
+353,79.90882647037506,Caucasian
+354,28.485165238380432,Caucasian
+355,35.23018479347229,Caucasian
+356,78.8903636932373,Caucasian
+357,84.83106207847595,Caucasian
+358,65.84382045269012,Caucasian
+359,68.43708634376526,Caucasian
+360,63.421603202819824,Caucasian
+361,73.40694916248322,Caucasian
+362,41.742921352386475,Caucasian
+363,65.77225613594055,Caucasian
+364,52.67651987075806,Caucasian
+365,72.34980416297913,Caucasian
+366,74.21637797355652,Caucasian
+367,71.59949254989624,Caucasian
+368,81.32836258411407,Caucasian
+369,75.87499403953552,Caucasian
+370,52.67057418823242,Caucasian
+371,84.91727006435394,Caucasian
+372,39.244201958179474,Caucasian
+373,60.78678369522095,Caucasian
+374,59.610544204711914,Caucasian
+375,52.867756485939026,Caucasian
+376,25.686640977859497,Caucasian
+377,26.838909178972244,Caucasian
+378,69.19184839725494,Caucasian
+379,77.54305350780487,Caucasian
+380,75.41460061073303,Caucasian
+381,83.30116033554077,Caucasian
+382,77.35060393810272,Caucasian
+383,38.86972761154175,Caucasian
+384,81.98580598831177,Caucasian
+385,82.25182235240936,Caucasian
+386,80.51634907722473,Caucasian
+387,74.23948585987091,Caucasian
+388,80.66580712795258,Caucasian
+389,55.621224999427795,Caucasian
+390,77.6331650018692,Caucasian
+391,81.47945261001587,Caucasian
+392,60.08303189277649,Caucasian
+393,82.88950562477112,Caucasian
+394,39.74988269805908,Caucasian
+395,86.42744255065918,Caucasian
+396,81.99711954593658,Caucasian
+397,35.498792469501495,Caucasian
+398,62.22417891025543,Caucasian
+399,80.92956519126892,Caucasian
+400,69.61469316482544,Caucasian
+401,31.98316067457199,Caucasian
+402,76.7417140007019,Caucasian
+403,22.670772910118103,Caucasian
+404,63.56203246116638,Caucasian
+405,71.28584456443787,Caucasian
+406,76.62495720386505,Caucasian
+407,51.608131885528564,Caucasian
+408,73.63573443889618,Caucasian
+409,33.10541817545891,Caucasian
+410,23.089638635516167,Caucasian
+411,67.62966883182526,Caucasian
+412,70.10180687904358,Caucasian
+413,30.196151167154312,Caucasian
+414,49.929561614990234,Caucasian
+415,41.36592847108841,Caucasian
+416,82.75187718868256,Caucasian
+417,75.54516744613647,Caucasian
+418,40.42072373628616,Caucasian
+419,74.22766947746277,Caucasian
+420,76.84675586223602,Caucasian
+421,71.4354305267334,Caucasian
+422,87.2449562549591,Caucasian
+423,64.16652047634125,Caucasian
+424,57.79803729057312,Caucasian
+425,83.70945405960083,Caucasian
+426,43.76205176115036,Caucasian
+427,42.44056648015976,Caucasian
+428,78.25124251842499,Caucasian
+429,40.99870318174362,Caucasian
+430,68.25113379955292,Caucasian
+431,85.99352240562439,Caucasian
+432,76.90003764629364,Caucasian
+433,56.57959580421448,Caucasian
+434,78.08358573913574,Caucasian
+435,29.18849802017212,Caucasian
+436,67.97271883487701,Caucasian
+437,69.79757142066956,Caucasian
+438,62.73499155044556,Caucasian
+439,61.56616652011871,Caucasian
+440,78.93251717090607,Caucasian
+441,81.09805560112,Caucasian
+442,42.08765625953674,Caucasian
+443,64.1817022562027,Caucasian
+444,75.03948450088501,Caucasian
+445,53.90322268009186,Caucasian
+446,77.19469738006592,Caucasian
+447,72.20947194099426,Caucasian
+448,70.75351631641388,Caucasian
+449,74.55382192134857,Caucasian
+450,60.298818707466125,Caucasian
+451,66.7547801733017,Caucasian
+452,82.38754975795746,Caucasian
+453,74.17699885368347,Caucasian
+454,46.18591421842575,Caucasian
+455,73.78794920444489,Caucasian
+456,24.711303144693375,Caucasian
+457,77.16925621032715,Caucasian
+458,62.78156018257141,Caucasian
+459,75.64277279376984,Caucasian
+460,47.48471945524216,Caucasian
+461,74.49311685562134,Caucasian
+462,60.623008370399475,Caucasian
+463,75.12945485115051,Caucasian
+464,79.72689211368561,Caucasian
+465,77.84744775295258,Caucasian
+466,64.12234246730804,Caucasian
+467,54.955771684646606,Caucasian
+468,74.65121114253998,Caucasian
+469,76.27297985553741,Caucasian
+470,81.17548179626465,Caucasian
+471,45.701089680194855,Caucasian
+472,52.05676627159119,Caucasian
+473,75.23193848133087,Caucasian
+474,61.72157907485962,Caucasian
+475,68.84837937355042,Caucasian
+476,80.120392203331,Caucasian
+477,79.68162024021149,Caucasian
+478,77.68282115459442,Caucasian
+479,45.71111971139908,Caucasian
+480,49.4582736492157,Caucasian
+481,43.58649533987045,Caucasian
+482,86.68871736526489,Caucasian
+483,79.59565484523773,Caucasian
+484,52.44598352909088,Caucasian
+485,78.06403291225433,Caucasian
+486,79.6518212556839,Caucasian
+487,72.53340137004852,Caucasian
+488,39.1691090464592,Caucasian
+489,25.12564840912819,Caucasian
+490,60.625447511672974,Caucasian
+491,45.24076682329178,Caucasian
+492,66.05528032779694,Caucasian
+493,46.79892599582672,Caucasian
+494,41.107705891132355,Caucasian
+495,79.62742102146149,Caucasian
+496,29.244725078344345,Caucasian
+497,47.11123090982437,Caucasian
+498,78.40304267406464,Caucasian
+499,66.26724743843079,Caucasian
+500,57.609535336494446,Caucasian
+501,74.26243937015533,Caucasian
+502,62.97985398769379,Caucasian
+503,53.554932713508606,Caucasian
+504,44.84133207798004,Caucasian
+505,72.78809976577759,Caucasian
+506,70.97224509716034,Caucasian
+507,71.13893592357635,Caucasian
+508,84.68060719966888,Caucasian
+509,67.70777869224548,Caucasian
+510,87.26644539833069,Caucasian
+511,67.17766463756561,Caucasian
+512,81.33197498321533,Caucasian
+513,40.84715002775192,Caucasian
+514,59.85276460647583,Caucasian
+515,65.0369542837143,Caucasian
+516,82.88823533058167,Caucasian
+517,71.88023638725281,Caucasian
+518,53.78792142868042,Caucasian
+519,19.49975197017193,Caucasian
+520,78.29076719284058,Caucasian
+521,65.83004570007324,Caucasian
+522,86.87489926815033,Caucasian
+523,84.4932564496994,Caucasian
+524,51.80861121416092,Caucasian
+525,78.75697839260101,Caucasian
+526,79.35950803756714,Caucasian
+527,60.7499760389328,Caucasian
+528,79.62474370002747,Caucasian
+529,67.6222676038742,Caucasian
+530,80.14566135406494,Caucasian
+531,17.345648393034935,Caucasian
+532,49.19732743501663,Caucasian
+533,71.77268922328949,Caucasian
+534,55.21840941905975,Caucasian
+535,51.33445405960083,Caucasian
+536,74.12255704402924,Caucasian
+537,48.498537719249725,Caucasian
+538,68.93923628330231,Caucasian
+539,75.22168350219727,Caucasian
+540,79.83982920646667,Caucasian
+541,85.95050001144409,Caucasian
+542,18.638354122638702,Caucasian
+543,74.77291679382324,Caucasian
+544,72.49491322040558,Caucasian
+545,73.22246539592743,Caucasian
+546,55.90914511680603,Caucasian
+547,77.23780357837677,Caucasian
+548,40.92742997407913,Caucasian
+549,68.72117352485657,Caucasian
+550,85.48743808269501,Caucasian
+551,34.68242335319519,Caucasian
+552,76.47193968296051,Caucasian
+553,44.12567347288132,Caucasian
+554,85.27431535720825,Caucasian
+555,62.29905569553375,Caucasian
+556,51.110300064086914,Caucasian
+557,63.26532173156738,Caucasian
+558,40.54827582836151,Caucasian
+559,40.40378427505493,Caucasian
+560,48.56231266260147,Caucasian
+561,80.74121761322021,Caucasian
+562,70.17117023468018,Caucasian
+563,64.70991969108582,Caucasian
+564,68.32509315013885,Caucasian
+565,70.48503875732422,Caucasian
+566,84.12535190582275,Caucasian
+567,57.21019983291626,Caucasian
+568,61.723008155822754,Caucasian
+569,64.68010747432709,Caucasian
+570,69.00217759609222,Caucasian
+571,80.2484096288681,Caucasian
+572,51.09843957424164,Caucasian
+573,59.02932286262512,Caucasian
+574,47.81649339199066,Caucasian
+575,78.62035119533539,Caucasian
+576,74.89819073677063,Caucasian
+577,87.32000064849854,Caucasian
+578,56.625202894210815,Caucasian
+579,63.644575119018555,Caucasian
+580,63.24726855754852,Caucasian
+581,32.41362279653549,Caucasian
+582,61.370311856269836,Caucasian
+583,72.60014474391937,Caucasian
+584,47.25349062681198,Caucasian
+585,73.99367070198059,Caucasian
+586,80.43853914737701,Caucasian
+587,51.00264263153076,Caucasian
+588,73.36585867404938,Caucasian
+589,35.45408517122269,Caucasian
+590,77.2643209695816,Caucasian
+591,80.18981730937958,Caucasian
+592,63.705915331840515,Caucasian
+593,85.92377972602844,Caucasian
+594,72.12898027896881,Caucasian
+595,68.81462836265564,Caucasian
+596,57.06392192840576,Caucasian
+597,42.22584265470505,Caucasian
+598,60.953359842300415,Caucasian
+599,74.04012906551361,Caucasian
+600,69.43196046352386,Caucasian
+601,39.504532873630524,Caucasian
+602,63.89575374126434,Caucasian
+603,85.68822395801544,Caucasian
+604,71.50919139385223,Caucasian
+605,84.05123376846313,Caucasian
+606,75.54853284358978,Caucasian
+607,74.90689754486084,Caucasian
+608,62.47044837474823,Caucasian
+609,51.99694776535034,Caucasian
+610,62.900354743003845,Caucasian
+611,86.26892924308777,Caucasian
+612,68.97868156433105,Caucasian
+613,66.55210208892822,Caucasian
+614,75.96116232872009,Caucasian
+615,48.51076650619507,Caucasian
+616,18.545255452394485,Caucasian
+617,64.488072514534,Caucasian
+618,65.3796911239624,Caucasian
+619,78.44061779975891,Caucasian
+620,39.33208602666855,Caucasian
+621,40.71565693616867,Caucasian
+622,81.14885413646698,Caucasian
+623,67.15554916858673,Caucasian
+624,64.02885675430298,Caucasian
+625,81.73491847515106,Caucasian
+626,82.90835273265839,Caucasian
+627,76.22047436237335,Caucasian
+628,60.81972312927246,Caucasian
+629,74.66998326778412,Caucasian
+630,41.07300215959549,Caucasian
+631,49.49207979440689,Caucasian
+632,69.00018835067749,Caucasian
+633,70.5346508026123,Caucasian
+634,64.22867226600647,Caucasian
+635,73.65487706661224,Caucasian
+636,78.41910660266876,Caucasian
+637,62.02958130836487,Caucasian
+638,83.51354646682739,Caucasian
+639,45.10185265541077,Caucasian
+640,82.36460947990417,Caucasian
+641,34.272634387016296,Caucasian
+642,45.84335821866989,Caucasian
+643,70.59865069389343,Caucasian
+644,87.42930769920349,Caucasian
+645,68.5849609375,Caucasian
+646,63.6084908246994,Caucasian
+647,85.15256559848785,Caucasian
+648,78.66896200180054,Caucasian
+649,37.35837084054947,Caucasian
+650,51.318110048770905,Caucasian
+651,83.73215615749359,Caucasian
+652,67.59308171272278,Caucasian
+653,61.11464750766754,Caucasian
+654,54.89000749588013,Caucasian
+655,76.09074556827545,Caucasian
+656,55.10910677909851,Caucasian
+657,77.60675346851349,Caucasian
+658,82.01675617694855,Caucasian
+659,54.51542949676514,Caucasian
+660,62.70163309574127,Caucasian
+661,45.44034194946289,Caucasian
+662,70.43998301029205,Caucasian
+663,81.3109622001648,Caucasian
+664,75.38601458072662,Caucasian
+665,44.829131960868835,Caucasian
+666,74.44760239124298,Caucasian
+667,52.1694872379303,Caucasian
+668,38.347241938114166,Caucasian
+669,77.34460973739624,Caucasian
+670,52.87422704696655,Caucasian
+671,30.33401668071747,Caucasian
+672,67.2101321220398,Caucasian
+673,67.29544913768768,Caucasian
+674,79.72911953926086,Caucasian
+675,62.106932520866394,Caucasian
+676,47.0375891327858,Caucasian
+677,84.26929652690887,Caucasian
+678,37.64515298604965,Caucasian
+679,66.03283846378326,Caucasian
+680,22.7359289675951,Caucasian
+681,82.71544003486633,Caucasian
+682,82.1768308877945,Caucasian
+683,78.64013338088989,Caucasian
+684,88.14556396007538,Caucasian
+685,72.67694461345673,Caucasian
+686,75.99435317516327,Caucasian
+687,57.63454866409302,Caucasian
+688,72.7077271938324,Caucasian
+689,77.8718523979187,Caucasian
+690,68.47323679924011,Caucasian
+691,72.88666224479675,Caucasian
+692,48.79624527692795,Caucasian
+693,44.631446838378906,Caucasian
+694,71.30670738220215,Caucasian
+695,37.50252056121826,Caucasian
+696,70.99484574794769,Caucasian
+697,37.04102444648743,Caucasian
+698,69.67177259922028,Caucasian
+699,86.74905633926392,Caucasian
+700,63.278483390808105,Caucasian
+701,80.46326577663422,Caucasian
+702,87.37465417385101,Caucasian
+703,79.43138992786407,Caucasian
+704,79.5076516866684,Caucasian
+705,75.03734529018402,Caucasian
+706,66.4608393907547,Caucasian
+707,61.035311460494995,Caucasian
+708,70.29073667526245,Caucasian
+709,86.4406042098999,Caucasian
+710,25.070146918296814,Caucasian
+711,37.714904487133026,Caucasian
+712,68.93800568580627,Caucasian
+713,63.07576560974121,Caucasian
+714,81.00572550296783,Caucasian
+715,68.20339632034302,Caucasian
+716,59.95565402507782,Caucasian
+717,59.70799517631531,Caucasian
+718,66.92200028896332,Caucasian
+719,83.8201813697815,Caucasian
+720,67.63709211349487,Caucasian
+721,79.23774945735931,Caucasian
+722,74.42076742649078,Caucasian
+723,68.21483778953552,Caucasian
+724,85.69276702404022,Caucasian
+725,77.4032152891159,Caucasian
+726,68.71995174884796,Caucasian
+727,77.99278616905212,Caucasian
+728,81.23526060581207,Caucasian
+729,81.06800961494446,Caucasian
+730,48.43852072954178,Caucasian
+731,85.27391839027405,Caucasian
+732,73.96048867702484,Caucasian
+733,73.61008596420288,Caucasian
+734,56.18478572368622,Caucasian
+735,86.17388653755188,Caucasian
+736,66.08476614952087,Caucasian
+737,61.20830523967743,Caucasian
+738,68.58633708953857,Caucasian
+739,59.58142447471619,Caucasian
+740,75.00672149658203,Caucasian
+741,39.16075509786606,Caucasian
+742,62.175334334373474,Caucasian
+743,65.87655699253082,Caucasian
+744,16.658999249339104,Caucasian
+745,84.52785432338715,Caucasian
+746,62.610313057899475,Caucasian
+747,39.35926502943039,Caucasian
+748,85.06677222251892,Caucasian
+749,57.1523220539093,Caucasian
+750,57.73962140083313,Caucasian
+751,82.2296142578125,Caucasian
+752,63.56277346611023,Caucasian
+753,33.915390610694885,Caucasian
+754,15.619512248784304,Caucasian
+755,69.70694386959076,Caucasian
+756,53.81694412231445,Caucasian
+757,82.07951664924622,Caucasian
+758,24.548298597335815,Caucasian
+759,57.548442125320435,Caucasian
+760,74.76942789554596,Caucasian
+761,82.05681896209717,Caucasian
+762,80.3254873752594,Caucasian
+763,72.53213548660278,Caucasian
+764,73.94236493110657,Caucasian
+765,25.983264595270157,Caucasian
+766,68.13492393493652,Caucasian
+767,78.65586650371552,Caucasian
+768,42.70867794752121,Caucasian
+769,77.47143626213074,Caucasian
+770,79.37345039844513,Caucasian
+771,62.9430330991745,Caucasian
+772,69.67337369918823,Caucasian
+773,61.55480885505676,Caucasian
+774,44.10625958442688,Caucasian
+775,75.68965017795563,Caucasian
+776,61.90036416053772,Caucasian
+777,60.11347043514252,Caucasian
+778,72.51891207695007,Caucasian
+779,66.70959210395813,Caucasian
+780,64.01579213142395,Caucasian
+781,67.46302652359009,Caucasian
+782,82.72206056118011,Caucasian
+783,81.57143425941467,Caucasian
+784,58.65899682044983,Caucasian
+785,25.230437755584717,Caucasian
+786,70.64678514003754,Caucasian
+787,60.88959813117981,Caucasian
+788,77.35169780254364,Caucasian
+789,75.13657820224762,Caucasian
+790,60.310736536979675,Caucasian
+791,19.942654594779015,Caucasian
+792,28.189365327358246,Caucasian
+793,65.37269127368927,Caucasian
+794,39.1939679980278,Caucasian
+795,52.3290855884552,Caucasian
+796,73.9648950099945,Caucasian
+797,55.1702264547348,Caucasian
+798,72.2975412607193,Caucasian
+799,84.7862401008606,Caucasian
+800,73.60552084445953,Caucasian
+801,42.400653660297394,Caucasian
+802,66.19896030426025,Caucasian
+803,66.26288521289825,Caucasian
+804,48.21721827983856,Caucasian
+805,76.16450202465057,Caucasian
+806,66.59242951869965,Caucasian
+807,77.51281344890594,Caucasian
+808,61.575984835624695,Caucasian
+809,44.541361808776855,Caucasian
+810,46.39889359474182,Caucasian
+811,40.71762853860855,Caucasian
+812,55.23704481124878,Caucasian
+813,57.67842233181,Caucasian
+814,64.62666249275208,Caucasian
+815,57.934364557266235,Caucasian
+816,65.2069708108902,Caucasian
+817,47.0821133852005,Caucasian
+818,53.16598892211914,Caucasian
+819,84.385449051857,Caucasian
+820,68.39230847358704,Caucasian
+821,84.07056605815887,Caucasian
+822,69.73724567890167,Caucasian
+823,71.9580727815628,Caucasian
+824,69.08724761009216,Caucasian
+825,80.97973299026489,Caucasian
+826,70.98944699764252,Caucasian
+827,59.20038914680481,Caucasian
+828,71.39181709289551,Caucasian
+829,55.64776003360748,Caucasian
+830,65.05461490154266,Caucasian
+831,27.118545919656754,Caucasian
+832,81.56706762313843,Caucasian
+833,83.19631254673004,Caucasian
+834,40.04626703262329,Caucasian
+835,70.88869678974152,Caucasian
+836,63.48296546936035,Caucasian
+837,21.41794526576996,Caucasian
+838,61.002910137176514,Caucasian
+839,79.43152666091919,Caucasian
+840,79.77642476558685,Caucasian
+841,82.13881027698517,Caucasian
+842,71.31933534145355,Caucasian
+843,70.40953123569489,Caucasian
+844,65.59364306926727,Caucasian
+845,54.01422345638275,Caucasian
+846,69.71886169910431,Caucasian
+847,87.7775491476059,Caucasian
+848,64.67604076862335,Caucasian
+849,60.9870799779892,Caucasian
+850,63.794593334198,Caucasian
+851,32.42922580242157,Caucasian
+852,46.596988916397095,Caucasian
+853,55.80966520309448,Caucasian
+854,52.26206874847412,Caucasian
+855,45.112899363040924,Caucasian
+856,33.12737375497818,Caucasian
+857,70.94686567783356,Caucasian
+858,62.188690066337585,Caucasian
+859,70.54293859004974,Caucasian
+860,52.84221386909485,Caucasian
+861,62.9008002281189,Caucasian
+862,73.79002666473389,Caucasian
+863,52.84778022766113,Caucasian
+864,64.36924266815186,Caucasian
+865,83.00448048114777,Caucasian
+866,66.81803905963898,Caucasian
+867,84.59511816501617,Caucasian
+868,59.798402190208435,Caucasian
+869,55.48950695991516,Caucasian
+870,83.14876914024353,Caucasian
+871,67.53754162788391,Caucasian
+872,79.85161912441254,Caucasian
+873,84.59584152698517,Caucasian
+874,61.31785047054291,Caucasian
+875,60.62120878696442,Caucasian
+876,68.94890904426575,Caucasian
+877,36.17150366306305,Caucasian
+878,70.38985049724579,Caucasian
+879,82.47162735462189,Caucasian
+880,71.56148517131805,Caucasian
+881,61.60364019870758,Caucasian
+882,76.85434675216675,Caucasian
+883,78.3882931470871,Caucasian
+884,73.17592322826385,Caucasian
+885,62.68429887294769,Caucasian
+886,80.74456095695496,Caucasian
+887,84.40729546546936,Caucasian
+888,70.44877362251282,Caucasian
+889,62.698686718940735,Caucasian
+890,81.80311298370361,Caucasian
+891,57.22556245326996,Caucasian
+892,64.53913128376007,Caucasian
+893,36.525093138217926,Caucasian
+894,81.53141558170319,Caucasian
+895,65.22325086593628,Caucasian
+896,64.74244892597198,Caucasian
+897,52.95955729484558,Caucasian
+898,67.1203293800354,Caucasian
+899,84.789111495018,Caucasian
+900,73.79696917533875,Caucasian
+901,70.37170469760895,Caucasian
+902,81.80388486385345,Caucasian
+903,16.818891879171133,Caucasian
+904,57.44845938682556,Caucasian
+905,66.00543010234833,Caucasian
+906,26.696888744831085,Caucasian
+907,61.695414543151855,Caucasian
+908,83.72026920318604,Caucasian
+909,67.00628077983856,Caucasian
+910,57.74026536941528,Caucasian
+911,63.76124370098114,Caucasian
+912,82.65580236911774,Caucasian
+913,78.97158753871918,Caucasian
+914,83.75265288352966,Caucasian
+915,73.32942152023315,Caucasian
+916,30.858389049768448,Caucasian
+917,61.09208655357361,Caucasian
+918,77.26208913326263,Caucasian
+919,73.68044173717499,Caucasian
+920,78.93019711971283,Caucasian
+921,34.838768780231476,Caucasian
+922,27.910296469926834,Caucasian
+923,73.18698537349701,Caucasian
+924,55.21487200260162,Caucasian
+925,59.372562527656555,Caucasian
+926,53.889514088630676,Caucasian
+927,71.6162269115448,Caucasian
+928,75.58934104442596,Caucasian
+929,49.48237615823746,Caucasian
+930,80.60589158535004,Caucasian
+931,79.75539433956146,Caucasian
+932,79.27613615989685,Caucasian
+933,43.90219211578369,Caucasian
+934,75.4289619922638,Caucasian
+935,44.94243514537811,Caucasian
+936,53.84984827041626,Caucasian
+937,46.08886241912842,Caucasian
+938,43.836613178253174,Caucasian
+939,58.77772080898285,Caucasian
+940,35.936164021492004,Caucasian
+941,42.83735477924347,Caucasian
+942,51.35875725746155,Caucasian
+943,85.00690960884094,Caucasian
+944,86.44141137599945,Caucasian
+945,68.55038952827454,Caucasian
+946,69.20510268211365,Caucasian
+947,44.742410123348236,Caucasian
+948,65.81233215332031,Caucasian
+949,70.64720416069031,Caucasian
+950,60.89517331123352,Caucasian
+951,86.82743084430695,Caucasian
+952,68.06277298927307,Caucasian
+953,79.75154376029968,Caucasian
+954,35.597372591495514,Caucasian
+955,72.54907274246216,Caucasian
+956,85.08366978168488,Caucasian
+957,77.97921872138977,Caucasian
+958,48.242990255355835,Caucasian
+959,70.23120486736298,Caucasian
+960,65.19185960292816,Caucasian
+961,80.6842749118805,Caucasian
+962,61.60860228538513,Caucasian
+963,73.32866728305817,Caucasian
+964,75.41927599906921,Caucasian
+965,50.98084914684296,Caucasian
+966,75.26912987232208,Caucasian
+967,87.30696249008179,Caucasian
+968,72.04637587070465,Caucasian
+969,78.87903690338135,Caucasian
+970,85.38674080371857,Caucasian
+971,77.7031238079071,Caucasian
+972,78.5345401763916,Caucasian
+973,61.20598518848419,Caucasian
+974,43.7113943696022,Caucasian
+975,39.99566036462784,Caucasian
+976,78.41063356399536,Caucasian
+977,69.34344124794006,Caucasian
+978,63.75842523574829,Caucasian
+979,73.05488801002502,Caucasian
+980,26.838014900684357,Caucasian
+981,59.50314259529114,Caucasian
+982,48.3903289437294,Caucasian
+983,64.031564950943,Caucasian
+984,24.62313348054886,Caucasian
+985,57.19699847698212,Caucasian
+986,45.83486753702164,Caucasian
+987,73.89015054702759,Caucasian
+988,75.32756340503693,Caucasian
+989,84.14695131778717,Caucasian
+990,54.96832466125488,Caucasian
+991,57.9771443605423,Caucasian
+992,15.899419629946351,Caucasian
+993,59.49701166152954,Caucasian
+994,82.89024221897125,Caucasian
+995,87.01873362064362,Caucasian
+996,77.13467597961426,Caucasian
+997,44.31533324718475,Caucasian
+998,28.247108578681946,Caucasian
+999,69.61114692687988,Caucasian
+1000,17.86144958436489,Caucasian
+1001,82.43130874633789,Caucasian
+1002,67.11025083065033,Caucasian
+1003,18.72799587249756,Caucasian
+1004,88.34454584121704,Caucasian
+1005,62.868738532066345,Caucasian
+1006,50.02962154150009,Caucasian
+1007,71.27032315731049,Caucasian
+1008,76.76549232006073,Caucasian
+1009,62.129374384880066,Caucasian
+1010,81.49360227584839,Caucasian
+1011,83.61201632022858,Caucasian
+1012,78.72537100315094,Caucasian
+1013,68.54834735393524,Caucasian
+1014,84.26558268070221,Caucasian
+1015,54.50413358211517,Caucasian
+1016,66.612952709198,Caucasian
+1017,36.5259091258049,Caucasian
+1018,53.46524465084076,Caucasian
+1019,66.31338381767273,Caucasian
+1020,73.03125083446503,Caucasian
+1021,65.98162531852722,Caucasian
+1022,38.24503618478775,Caucasian
+1023,85.8455331325531,Caucasian
+1024,61.91517984867096,Caucasian
+1025,62.69465970993042,Caucasian
+1026,41.158493399620056,Caucasian
+1027,73.02561390399933,Caucasian
+1028,85.02744162082672,Caucasian
+1029,73.42792665958405,Caucasian
+1030,82.0802708864212,Caucasian
+1031,55.8282653093338,Caucasian
+1032,82.81324827671051,Caucasian
+1033,77.96670985221863,Caucasian
+1034,73.62447822093964,Caucasian
+1035,38.00952231884003,Caucasian
+1036,77.59810400009155,Caucasian
+1037,75.29178786277771,Caucasian
+1038,84.45139408111572,Caucasian
+1039,78.51177632808685,Caucasian
+1040,86.59963798522949,Caucasian
+1041,87.20659601688385,Caucasian
+1042,51.1278018951416,Caucasian
+1043,58.38074064254761,Caucasian
+1044,71.07518303394318,Caucasian
+1045,63.3160982131958,Caucasian
+1046,74.99172055721283,Caucasian
+1047,41.9347864985466,Caucasian
+1048,86.78001976013184,Caucasian
+1049,79.79179179668427,Caucasian
+1050,80.47026121616364,Caucasian
+1051,72.95726943016052,Caucasian
+1052,87.76542842388153,Caucasian
+1053,57.95341455936432,Caucasian
+1054,86.7774041891098,Caucasian
+1055,71.41523373126984,Caucasian
+1056,62.34064018726349,Caucasian
+1057,86.7462819814682,Caucasian
+1058,71.89243650436401,Caucasian
+1059,67.17526960372925,Caucasian
+1060,71.59175610542297,Caucasian
+1061,29.963685125112534,Caucasian
+1062,34.99580669403076,Caucasian
+1063,66.64905023574829,Caucasian
+1064,51.57352298498154,Caucasian
+1065,76.50077271461487,Caucasian
+1066,71.23837614059448,Caucasian
+1067,87.09058022499084,Caucasian
+1068,23.464735448360443,Caucasian
+1069,58.62376821041107,Caucasian
+1070,81.82682514190674,Caucasian
+1071,64.41839599609375,Caucasian
+1072,66.11648380756378,Caucasian
+1073,82.88482141494751,Caucasian
+1074,39.84979486465454,Caucasian
+1075,60.17375206947327,Caucasian
+1076,29.937842577695847,Caucasian
+1077,73.4412647485733,Caucasian
+1078,83.38739037513733,Caucasian
+1079,43.43923604488373,Caucasian
+1080,55.00833451747894,Caucasian
+1081,88.1373952627182,Caucasian
+1082,77.8833556175232,Caucasian
+1083,76.54536092281342,Caucasian
+1084,87.48277473449707,Caucasian
+1085,44.05608516931534,Caucasian
+1086,70.55544745922089,Caucasian
+1087,67.67078137397766,Caucasian
+1088,55.844417452812195,Caucasian
+1089,77.10229229927063,Caucasian
+1090,61.86674106121063,Caucasian
+1091,41.65165424346924,Caucasian
+1092,65.96933698654175,Caucasian
+1093,60.00565421581268,Caucasian
+1094,83.94791650772095,Caucasian
+1095,74.46256804466248,Caucasian
+1096,59.009355425834656,Caucasian
+1097,70.88568866252899,Caucasian
+1098,85.08065283298492,Caucasian
+1099,80.30444371700287,Caucasian
+1100,63.072311997413635,Caucasian
+1101,84.5638062953949,Caucasian
+1102,87.46874856948853,Caucasian
+1103,65.80833601951599,Caucasian
+1104,56.37107789516449,Caucasian
+1105,52.509806990623474,Caucasian
+1106,76.31402623653412,Caucasian
+1107,68.42545080184937,Caucasian
+1108,72.04940164089203,Caucasian
+1109,60.82412505149841,Caucasian
+1110,70.9223198890686,Caucasian
+1111,80.39229691028595,Caucasian
+1112,68.3405042886734,Caucasian
+1113,70.66130530834198,Caucasian
+1114,82.83153963088989,Caucasian
+1115,86.58776426315308,Caucasian
+1116,69.62935888767242,Caucasian
+1117,23.659439459443092,Caucasian
+1118,79.61460781097412,Caucasian
+1119,45.76813519001007,Caucasian
+1120,69.74841368198395,Caucasian
+1121,77.05810546875,Caucasian
+1122,77.61308288574219,Caucasian
+1123,51.52166146039963,Caucasian
+1124,71.5828287601471,Caucasian
+1125,66.61750900745392,Caucasian
+1126,53.55084836483002,Caucasian
+1127,79.9706209897995,Caucasian
+1128,80.39329814910889,Caucasian
+1129,65.24670720100403,Caucasian
+1130,47.81239581108093,Caucasian
+1131,64.56147611141205,Caucasian
+1132,47.89544129371643,Caucasian
+1133,76.4999920129776,Caucasian
+1134,80.78850519657135,Caucasian
+1135,68.71579241752625,Caucasian
+1136,73.4694185256958,Caucasian
+1137,26.1468987762928,Caucasian
+1138,69.73397731781006,Caucasian
+1139,35.15620118379593,Caucasian
+1140,83.79078817367554,Caucasian
+1141,45.45350360870361,Caucasian
+1142,73.4747908115387,Caucasian
+1143,77.43386995792389,Caucasian
+1144,27.70051598548889,Caucasian
+1145,66.57989859580994,Caucasian
+1146,70.98754155635834,Caucasian
+1147,49.10419899225235,Caucasian
+1148,70.86630344390869,Caucasian
+1149,64.8541818857193,Caucasian
+1150,78.46815407276154,Caucasian
+1151,54.506131649017334,Caucasian
+1152,51.93879210948944,Caucasian
+1153,51.32093292474747,Caucasian
+1154,68.85368990898132,Caucasian
+1155,87.91996324062347,Caucasian
+1156,75.9861227273941,Caucasian
+1157,85.21339857578278,Caucasian
+1158,76.22488069534302,Caucasian
+1159,71.84145712852478,Caucasian
+1160,78.04816746711731,Caucasian
+1161,57.42440319061279,Caucasian
+1162,86.35106611251831,Caucasian
+1163,69.08298683166504,Caucasian
+1164,22.296461760997772,Caucasian
+1165,66.09504759311676,Caucasian
+1166,49.343995690345764,Caucasian
+1167,67.10294663906097,Caucasian
+1168,68.43308579921722,Caucasian
+1169,67.61942267417908,Caucasian
+1170,45.005246341228485,Caucasian
+1171,70.89365887641907,Caucasian
+1172,70.84933972358704,Caucasian
+1173,62.50863218307495,Caucasian
+1174,20.37754289805889,Caucasian
+1175,66.9843020439148,Caucasian
+1176,63.350069761276245,Caucasian
+1177,36.70438104867935,Caucasian
+1178,38.51687252521515,Caucasian
+1179,41.90442955493927,Caucasian
+1180,66.54097378253937,Caucasian
+1181,73.79073238372803,Caucasian
+1182,70.11016082763672,Caucasian
+1183,36.72038984298706,Caucasian
+1184,52.410075664520264,Caucasian
+1185,56.38868999481201,Caucasian
+1186,68.82576990127563,Caucasian
+1187,75.28959572315216,Caucasian
+1188,49.92403495311737,Caucasian
+1189,65.6758725643158,Caucasian
+1190,66.92679917812347,Caucasian
+1191,70.84043002128601,Caucasian
+1192,45.08343118429184,Caucasian
+1193,69.5566874742508,Caucasian
+1194,70.28584516048431,Caucasian
+1195,24.204019650816917,Caucasian
+1196,68.8196610212326,Caucasian
+1197,41.81614851951599,Caucasian
+1198,43.22407776117325,Caucasian
+1199,55.18189287185669,Caucasian
+1200,60.43395948410034,Caucasian
+1201,72.29418909549713,Caucasian
+1202,75.36404466629028,Caucasian
+1203,65.67611515522003,Caucasian
+1204,54.669421792030334,Caucasian
+1205,55.342329263687134,Caucasian
+1206,44.41467642784119,Caucasian
+1207,62.21386218070984,Caucasian
+1208,74.91527354717255,Caucasian
+1209,59.0040625333786,Caucasian
+1210,74.72438097000122,Caucasian
+1211,73.69618368148804,Caucasian
+1212,81.91900086402893,Caucasian
+1213,87.07957983016968,Caucasian
+1214,24.736149966716766,Caucasian
+1215,84.62721514701843,Caucasian
+1216,68.0275046825409,Caucasian
+1217,81.32851254940033,Caucasian
+1218,42.85092443227768,Caucasian
+1219,72.21491479873657,Caucasian
+1220,33.967664539813995,Caucasian
+1221,76.64394986629486,Caucasian
+1222,60.05512070655823,Caucasian
+1223,45.622029304504395,Caucasian
+1224,67.33827304840088,Caucasian
+1225,54.63409614562988,Caucasian
+1226,65.18747091293335,Caucasian
+1227,55.23661696910858,Caucasian
+1228,57.01262056827545,Caucasian
+1229,71.07361280918121,Caucasian
+1230,75.62409329414368,Caucasian
+1231,87.43094849586487,Caucasian
+1232,74.31740605831146,Caucasian
+1233,88.61874413490295,Caucasian
+1234,73.73790049552917,Caucasian
+1235,75.871955037117,Caucasian
+1236,75.10293304920197,Caucasian
+1237,67.71499025821686,Caucasian
+1238,53.990079045295715,Caucasian
+1239,84.81910014152527,Caucasian
+1240,59.705785393714905,Caucasian
+1241,54.93517351150513,Caucasian
+1242,58.91507136821747,Caucasian
+1243,77.66139376163483,Caucasian
+1244,84.47703814506531,Caucasian
+1245,52.55140471458435,Caucasian
+1246,76.10297656059265,Caucasian
+1247,64.69485259056091,Caucasian
+1248,56.576786160469055,Caucasian
+1249,23.326265662908554,Caucasian
+1250,73.91354513168335,Caucasian
+1251,60.22710883617401,Caucasian
+1252,75.21822106838226,Caucasian
+1253,73.25474321842194,Caucasian
+1254,83.57123899459839,Caucasian
+1255,82.45642352104187,Caucasian
+1256,50.01075899600983,Caucasian
+1257,87.66120254993439,Caucasian
+1258,59.78577423095703,Caucasian
+1259,83.77203810214996,Caucasian
+1260,42.42292129993439,Caucasian
+1261,21.299075171351433,Caucasian
+1262,76.84400796890259,Caucasian
+1263,87.60827803611755,Caucasian
+1264,37.08613973855972,Caucasian
+1265,53.5252925157547,Caucasian
+1266,55.294137477874756,Caucasian
+1267,74.9251800775528,Caucasian
+1268,47.13304644823074,Caucasian
+1269,43.67120146751404,Caucasian
+1270,69.64165604114532,Caucasian
+1271,63.29972994327545,Caucasian
+1272,61.61555802822113,Caucasian
+1273,19.86737036705017,Caucasian
+1274,58.55615592002869,Caucasian
+1275,79.11687743663788,Caucasian
+1276,65.32242202758789,Caucasian
+1277,86.38062691688538,Caucasian
+1278,56.78582012653351,Caucasian
+1279,48.08707046508789,Caucasian
+1280,34.102529644966125,Caucasian
+1281,47.008606135845184,Caucasian
+1282,79.70746719837189,Caucasian
+1283,72.88685190677643,Caucasian
+1284,65.04765474796295,Caucasian
+1285,62.31536662578583,Caucasian
+1286,58.5838862657547,Caucasian
+1287,56.77888643741608,Caucasian
+1288,78.35425984859467,Caucasian
+1289,59.172945499420166,Caucasian
+1290,85.08927142620087,Caucasian
+1291,44.11433345079422,Caucasian
+1292,75.6564416885376,Caucasian
+1293,53.48275530338287,Caucasian
+1294,85.96080791950226,Caucasian
+1295,62.83367311954498,Caucasian
+1296,73.52367067337036,Caucasian
+1297,82.91028022766113,Caucasian
+1298,74.97297489643097,Caucasian
+1299,76.38266623020172,Caucasian
+1300,60.18306314945221,Caucasian
+1301,68.49209272861481,Caucasian
+1302,64.3631249666214,Caucasian
+1303,61.15954005718231,Caucasian
+1304,80.41036331653595,Caucasian
+1305,62.173455357551575,Caucasian
+1306,47.39096027612686,Caucasian
+1307,77.95619022846222,Caucasian
+1308,64.72459864616394,Caucasian
+1309,73.9465639591217,Caucasian
+1310,83.48007774353027,Caucasian
+1311,47.228620648384094,Caucasian
+1312,83.05363380908966,Caucasian
+1313,82.83446395397186,Caucasian
+1314,79.41094172000885,Caucasian
+1315,82.5997109413147,Caucasian
+1316,82.22881591320038,Caucasian
+1317,43.72306960821152,Caucasian
+1318,85.59046864509583,Caucasian
+1319,80.43287134170532,Caucasian
+1320,51.879101514816284,Caucasian
+1321,28.549455136060715,Caucasian
+1322,85.1114354133606,Caucasian
+1323,65.53531539440155,Caucasian
+1324,62.919700264930725,Caucasian
+1325,50.61877340078354,Caucasian
+1326,81.86072170734406,Caucasian
+1327,73.22719812393188,Caucasian
+1328,79.62302350997925,Caucasian
+1329,74.10165452957153,Caucasian
+1330,31.589898765087128,Caucasian
+1331,67.10525345802307,Caucasian
+1332,85.02195906639099,Caucasian
+1333,63.92710089683533,Caucasian
+1334,72.23800945281982,Caucasian
+1335,29.218690663576126,Caucasian
+1336,79.46888566017151,Caucasian
+1337,73.29842722415924,Caucasian
+1338,86.57512748241425,Caucasian
+1339,45.41975259780884,Caucasian
+1340,21.0713512301445,Caucasian
+1341,74.82946252822876,Caucasian
+1342,78.62323141098022,Caucasian
+1343,49.032043635845184,Caucasian
+1344,67.24575328826904,Caucasian
+1345,68.20177757740021,Caucasian
+1346,80.15966546535492,Caucasian
+1347,65.35098600387573,Caucasian
+1348,24.02466006577015,Caucasian
+1349,52.66692650318146,Caucasian
+1350,80.30316460132599,Caucasian
+1351,64.14548122882843,Caucasian
+1352,74.33125138282776,Caucasian
+1353,71.75095748901367,Caucasian
+1354,82.05246114730835,Caucasian
+1355,52.15486562252045,Caucasian
+1356,86.49118220806122,Caucasian
+1357,80.25917184352875,Caucasian
+1358,71.8406720161438,Caucasian
+1359,80.98806488513947,Caucasian
+1360,74.16132307052612,Caucasian
+1361,61.375282764434814,Caucasian
+1362,80.610955119133,Caucasian
+1363,80.94176089763641,Caucasian
+1364,69.73362445831299,Caucasian
+1365,58.90486490726471,Caucasian
+1366,77.91950607299805,Caucasian
+1367,51.7988458275795,Caucasian
+1368,79.31719136238098,Caucasian
+1369,77.64210999011993,Caucasian
+1370,56.84343767166138,Caucasian
+1371,46.862528920173645,Caucasian
+1372,28.340658247470856,Caucasian
+1373,37.150097727775574,Caucasian
+1374,66.57168138027191,Caucasian
+1375,61.020976543426514,Caucasian
+1376,54.729690194129944,Caucasian
+1377,79.26043391227722,Caucasian
+1378,53.20272159576416,Caucasian
+1379,60.24252438545227,Caucasian
+1380,58.08016610145569,Caucasian
+1381,79.46912825107574,Caucasian
+1382,86.71464371681213,Caucasian
+1383,83.24902093410492,Caucasian
+1384,36.857017040252686,Caucasian
+1385,54.827436685562134,Caucasian
+1386,25.319732159376144,Caucasian
+1387,49.67981207370758,Caucasian
+1388,26.478141218423843,Caucasian
+1389,57.966241002082825,Caucasian
+1390,78.82257497310638,Caucasian
+1391,49.69904953241348,Caucasian
+1392,72.47407245635986,Caucasian
+1393,76.99837517738342,Caucasian
+1394,63.22658658027649,Caucasian
+1395,47.273733735084534,Caucasian
+1396,55.62861740589142,Caucasian
+1397,72.21265649795532,Caucasian
+1398,64.45032978057861,Caucasian
+1399,61.255972146987915,Caucasian
+1400,65.58434963226318,Caucasian
+1401,29.943719893693924,Caucasian
+1402,56.22922396659851,Caucasian
+1403,84.55211341381073,Caucasian
+1404,57.442835688591,Caucasian
+1405,55.812880635261536,Caucasian
+1406,23.20121666789055,Caucasian
+1407,77.38270974159241,Caucasian
+1408,19.194979779422283,Caucasian
+1409,66.93747758865356,Caucasian
+1410,73.93755722045898,Caucasian
+1411,73.23191320896149,Caucasian
+1412,66.87697982788086,Caucasian
+1413,66.30534744262695,Caucasian
+1414,78.99171817302704,Caucasian
+1415,72.09557771682739,Caucasian
+1416,64.44841992855072,Caucasian
+1417,82.50099849700928,Caucasian
+1418,65.6248049736023,Caucasian
+1419,68.91884982585907,Caucasian
+1420,68.59865188598633,Caucasian
+1421,75.54334580898285,Caucasian
+1422,84.11916363239288,Caucasian
+1423,35.65482693910599,Caucasian
+1424,47.46560990810394,Caucasian
+1425,67.24378168582916,Caucasian
+1426,61.49730598926544,Caucasian
+1427,81.73238670825958,Caucasian
+1428,70.42369854450226,Caucasian
+1429,40.33502298593521,Caucasian
+1430,83.4467898607254,Caucasian
+1431,83.28072535991669,Caucasian
+1432,61.276755571365356,Caucasian
+1433,43.31102234125137,Caucasian
+1434,61.428282260894775,Caucasian
+1435,72.96292400360107,Caucasian
+1436,64.32031869888306,Caucasian
+1437,65.49820339679718,Caucasian
+1438,74.82001912593842,Caucasian
+1439,74.39720523357391,Caucasian
+1440,63.933553814888,Caucasian
+1441,79.18807125091553,Caucasian
+1442,64.99899101257324,Caucasian
+1443,58.22693359851837,Caucasian
+1444,52.55737245082855,Caucasian
+1445,66.34365034103394,Caucasian
+1446,56.29226231575012,Caucasian
+1447,78.76355922222137,Caucasian
+1448,63.352301597595215,Caucasian
+1449,84.50517868995667,Caucasian
+1450,68.42442309856415,Caucasian
+1451,71.50571131706238,Caucasian
+1452,87.9572604894638,Caucasian
+1453,49.46886605024338,Caucasian
+1454,63.057716846466064,Caucasian
+1455,45.734390795230865,Caucasian
+1456,74.37530589103699,Caucasian
+1457,86.551309466362,Caucasian
+1458,88.25097632408142,Caucasian
+1459,64.71250438690186,Caucasian
+1460,79.41344261169434,Caucasian
+1461,59.41466748714447,Caucasian
+1462,76.20195364952087,Caucasian
+1463,82.20401871204376,Caucasian
+1464,79.32700967788696,Caucasian
+1465,53.3613760471344,Caucasian
+1466,37.13942813873291,Caucasian
+1467,43.67235708236694,Caucasian
+1468,85.2646734714508,Caucasian
+1469,73.75293231010437,Caucasian
+1470,75.07559525966644,Caucasian
+1471,61.76349878311157,Caucasian
+1472,45.127254128456116,Caucasian
+1473,80.14057576656342,Caucasian
+1474,74.2771977186203,Caucasian
+1475,69.57220005989075,Caucasian
+1476,53.979674100875854,Caucasian
+1477,69.63213765621185,Caucasian
+1478,86.02780270576477,Caucasian
+1479,72.37818729877472,Caucasian
+1480,73.30161619186401,Caucasian
+1481,57.385557770729065,Caucasian
+1482,56.21885430812836,Caucasian
+1483,64.33622825145721,Caucasian
+1484,44.37843996286392,Caucasian
+1485,62.437456011772156,Caucasian
+1486,60.47022020816803,Caucasian
+1487,41.008933901786804,Caucasian
+1488,47.86985456943512,Caucasian
+1489,73.09438621997833,Caucasian
+1490,83.66562008857727,Caucasian
+1491,54.992345571517944,Caucasian
+1492,75.93654596805573,Caucasian
+1493,72.09230935573578,Caucasian
+1494,73.78464555740356,Caucasian
+1495,25.97508817911148,Caucasian
+1496,57.305260181427,Caucasian
+1497,81.27297246456146,Caucasian
+1498,52.07077479362488,Caucasian
+1499,65.9942797422409,Caucasian
+1500,32.30669975280762,Caucasian
+1501,56.60475468635559,Caucasian
+1502,82.58932363986969,Caucasian
+1503,65.43409764766693,Caucasian
+1504,82.0433794260025,Caucasian
+1505,77.30775797367096,Caucasian
+1506,35.59545612335205,Caucasian
+1507,76.1602897644043,Caucasian
+1508,47.625294268131256,Caucasian
+1509,76.26092970371246,Caucasian
+1510,70.52777004241943,Caucasian
+1511,83.56618869304657,Caucasian
+1512,55.478338956832886,Caucasian
+1513,58.27249217033386,Caucasian
+1514,36.396151661872864,Caucasian
+1515,81.48669064044952,Caucasian
+1516,77.37382650375366,Caucasian
+1517,59.64659321308136,Caucasian
+1518,80.37153112888336,Caucasian
+1519,78.09654891490936,Caucasian
+1520,56.189911007881165,Caucasian
+1521,62.18644058704376,Caucasian
+1522,44.83038902282715,Caucasian
+1523,41.78591728210449,Caucasian
+1524,19.7848938703537,Caucasian
+1525,71.60298144817352,Caucasian
+1526,68.8799911737442,Caucasian
+1527,79.7585700750351,Caucasian
+1528,79.71387600898743,Caucasian
+1529,51.85141968727112,Caucasian
+1530,54.08310604095459,Caucasian
+1531,74.47439765930176,Caucasian
+1532,80.54097425937653,Caucasian
+1533,23.897374272346497,Caucasian
+1534,75.10706150531769,Caucasian
+1535,84.91190218925476,Caucasian
+1536,69.03051221370697,Caucasian
+1537,26.324397027492523,Caucasian
+1538,62.02416491508484,Caucasian
+1539,82.94111573696136,Caucasian
+1540,77.94946384429932,Caucasian
+1541,75.43989181518555,Caucasian
+1542,47.966963708400726,Caucasian
+1543,56.9666473865509,Caucasian
+1544,75.69002509117126,Caucasian
+1545,80.36207008361816,Caucasian
+1546,59.947216272354126,Caucasian
+1547,65.80367386341095,Caucasian
+1548,51.32133209705353,Caucasian
+1549,51.846364974975586,Caucasian
+1550,55.426865577697754,Caucasian
+1551,35.03321862220764,Caucasian
+1552,85.90208768844604,Caucasian
+1553,25.71401736140251,Caucasian
+1554,78.56691062450409,Caucasian
+1555,77.495885014534,Caucasian
+1556,88.15127146244049,Caucasian
+1557,67.23527777194977,Caucasian
+1558,41.10599893331528,Caucasian
+1559,35.85884368419647,Caucasian
+1560,74.55225610733032,Caucasian
+1561,51.525300323963165,Caucasian
+1562,73.62428855895996,Caucasian
+1563,68.56555807590485,Caucasian
+1564,57.33354187011719,Caucasian
+1565,80.068962931633,Caucasian
+1566,61.98216140270233,Caucasian
+1567,85.07879590988159,Caucasian
+1568,72.83927762508392,Caucasian
+1569,82.26850378513336,Caucasian
+1570,16.55880258977413,Caucasian
+1571,78.3603687286377,Caucasian
+1572,65.95523142814636,Caucasian
+1573,33.30176684260368,Caucasian
+1574,58.520071625709534,Caucasian
+1575,28.028638929128647,Caucasian
+1576,29.950401067733765,Caucasian
+1577,68.79788076877594,Caucasian
+1578,51.11626559495926,Caucasian
+1579,72.87854206562042,Caucasian
+1580,28.409222155809402,Caucasian
+1581,82.51401460170746,Caucasian
+1582,76.82349801063538,Caucasian
+1583,57.6880818605423,Caucasian
+1584,17.114904195070267,Caucasian
+1585,47.45904892683029,Caucasian
+1586,42.66516596078873,Caucasian
+1587,70.78005135059357,Caucasian
+1588,48.25859326124191,Caucasian
+1589,78.64803302288055,Caucasian
+1590,65.28976047039032,Caucasian
+1591,71.7994933128357,Caucasian
+1592,78.25440061092377,Caucasian
+1593,51.705545365810394,Caucasian
+1594,28.696696788072586,Caucasian
+1595,52.774941205978394,Caucasian
+1596,65.32007551193237,Caucasian
+1597,51.9783741235733,Caucasian
+1598,71.80832803249359,Caucasian
+1599,60.73514270782471,Caucasian
+1600,39.47270715236664,Caucasian
+1601,77.3835301399231,Caucasian
+1602,74.65254318714142,Caucasian
+1603,78.75135469436646,Caucasian
+1604,50.46368944644928,Caucasian
+1605,43.788595616817474,Caucasian
+1606,76.89822924137115,Caucasian
+1607,73.23010039329529,Caucasian
+1608,45.27861541509628,Caucasian
+1609,68.67438876628876,Caucasian
+1610,82.13061952590942,Caucasian
+1611,77.2858453989029,Caucasian
+1612,77.90233504772186,Caucasian
+1613,81.63521361351013,Caucasian
+1614,65.30130779743195,Caucasian
+1615,53.59801244735718,Caucasian
+1616,77.43123233318329,Caucasian
+1617,27.637282460927963,Caucasian
+1618,86.12757813930511,Caucasian
+1619,15.941775105893612,Caucasian
+1620,48.43797379732132,Caucasian
+1621,87.37805485725403,Caucasian
+1622,27.719898998737335,Caucasian
+1623,79.69294261932373,Caucasian
+1624,60.982351660728455,Caucasian
+1625,75.00948703289032,Caucasian
+1626,41.40222007036209,Caucasian
+1627,58.60843646526337,Caucasian
+1628,78.11247169971466,Caucasian
+1629,77.18094027042389,Caucasian
+1630,63.98276889324188,Caucasian
+1631,70.87914752960205,Caucasian
+1632,64.49493563175201,Caucasian
+1633,78.88704240322113,Caucasian
+1634,76.55972230434418,Caucasian
+1635,35.82279688119888,Caucasian
+1636,36.23464787006378,Caucasian
+1637,68.23055326938629,Caucasian
+1638,55.525697112083435,Caucasian
+1639,47.50343644618988,Caucasian
+1640,44.89964431524277,Caucasian
+1641,41.38115876913071,Caucasian
+1642,81.82360088825226,Caucasian
+1643,47.82280296087265,Caucasian
+1644,47.799265027046204,Caucasian
+1645,72.90272176265717,Caucasian
+1646,80.6226612329483,Caucasian
+1647,68.06337285041809,Caucasian
+1648,67.19873917102814,Caucasian
+1649,72.08600199222565,Caucasian
+1650,71.00756192207336,Caucasian
+1651,80.4249187707901,Caucasian
+1652,62.56199336051941,Caucasian
+1653,59.31139433383942,Caucasian
+1654,79.14702045917511,Caucasian
+1655,63.70012843608856,Caucasian
+1656,58.19933557510376,Caucasian
+1657,79.451180934906,Caucasian
+1658,51.55414879322052,Caucasian
+1659,73.19281196594238,Caucasian
+1660,70.0220297574997,Caucasian
+1661,65.84053003787994,Caucasian
+1662,78.26528191566467,Caucasian
+1663,81.44770407676697,Caucasian
+1664,69.53972816467285,Caucasian
+1665,87.44407486915588,Caucasian
+1666,74.66406404972076,Caucasian
+1667,49.12932479381561,Caucasian
+1668,48.5834224820137,Caucasian
+1669,62.672239899635315,Caucasian
+1670,42.14845836162567,Caucasian
+1671,72.40752756595612,Caucasian
+1672,79.82939338684082,Caucasian
+1673,76.22678172588348,Caucasian
+1674,55.61254906654358,Caucasian
+1675,32.79431849718094,Caucasian
+1676,57.45325827598572,Caucasian
+1677,86.64074170589447,Caucasian
+1678,72.7679911851883,Caucasian
+1679,73.31406772136688,Caucasian
+1680,87.6264238357544,Caucasian
+1681,75.48164391517639,Caucasian
+1682,57.01954984664917,Caucasian
+1683,49.98199212551117,Caucasian
+1684,67.44129478931427,Caucasian
+1685,74.62154448032379,Caucasian
+1686,68.1897406578064,Caucasian
+1687,29.91752779483795,Caucasian
+1688,72.02654075622559,Caucasian
+1689,44.824315428733826,Caucasian
+1690,46.31492626667023,Caucasian
+1691,81.70000302791595,Caucasian
+1692,85.86190140247345,Caucasian
+1693,52.92235267162323,Caucasian
+1694,78.17514395713806,Caucasian
+1695,35.36412584781647,Caucasian
+1696,52.27309560775757,Caucasian
+1697,57.51877546310425,Caucasian
+1698,40.66843771934509,Caucasian
+1699,84.37000262737274,Caucasian
+1700,18.552114985883236,Caucasian
+1701,68.60608398914337,Caucasian
+1702,73.66315603256226,Caucasian
+1703,85.60751616954803,Caucasian
+1704,77.79318678379059,Caucasian
+1705,48.83438277244568,Caucasian
+1706,53.97038948535919,Caucasian
+1707,65.33407962322235,Caucasian
+1708,73.76283884048462,Caucasian
+1709,75.46069288253784,Caucasian
+1710,81.64252662658691,Caucasian
+1711,55.1066632270813,Caucasian
+1712,83.6656950712204,Caucasian
+1713,80.9615386724472,Caucasian
+1714,69.34433662891388,Caucasian
+1715,65.25049161911011,Caucasian
+1716,59.623860239982605,Caucasian
+1717,77.21347832679749,Caucasian
+1718,65.48615765571594,Caucasian
+1719,80.29095125198364,Caucasian
+1720,69.35253179073334,Caucasian
+1721,34.933910727500916,Caucasian
+1722,84.68205833435059,Caucasian
+1723,81.76797258853912,Caucasian
+1724,69.25093913078308,Caucasian
+1725,37.77661520242691,Caucasian
+1726,78.2398054599762,Caucasian
+1727,34.94896459579468,Caucasian
+1728,43.00657296180725,Caucasian
+1729,70.42451894283295,Caucasian
+1730,50.67936819791794,Caucasian
+1731,86.92007410526276,Caucasian
+1732,30.827427834272385,Caucasian
+1733,63.47028458118439,Caucasian
+1734,68.92295622825623,Caucasian
+1735,75.66011142730713,Caucasian
+1736,82.42631578445435,Caucasian
+1737,83.20845973491669,Caucasian
+1738,68.90629243850708,Caucasian
+1739,62.957685589790344,Caucasian
+1740,30.035843789577484,Caucasian
+1741,83.83523082733154,Caucasian
+1742,85.35676980018616,Caucasian
+1743,71.01524102687836,Caucasian
+1744,79.19219088554382,Caucasian
+1745,30.489269345998764,Caucasian
+1746,64.57103860378265,Caucasian
+1747,75.08631336688995,Caucasian
+1748,72.7505202293396,Caucasian
+1749,65.27807199954987,Caucasian
+1750,71.87797808647156,Caucasian
+1751,69.08428359031677,Caucasian
+1752,76.63818061351776,Caucasian
+1753,78.39677500724792,Caucasian
+1754,84.22271466255188,Caucasian
+1755,63.752426624298096,Caucasian
+1756,57.10353481769562,Caucasian
+1757,56.46265375614166,Caucasian
+1758,63.33818280696869,Caucasian
+1759,43.11367243528366,Caucasian
+1760,60.6025116443634,Caucasian
+1761,76.02837765216827,Caucasian
+1762,75.19682896137238,Caucasian
+1763,70.51133561134338,Caucasian
+1764,48.023734390735626,Caucasian
+1765,49.11150097846985,Caucasian
+1766,65.37235605716705,Caucasian
+1767,75.74988770484924,Caucasian
+1768,61.01761555671692,Caucasian
+1769,77.87730407714844,Caucasian
+1770,86.85459220409393,Caucasian
+1771,70.1203099489212,Caucasian
+1772,51.98837769031525,Caucasian
+1773,67.44664943218231,Caucasian
+1774,39.821466863155365,Caucasian
+1775,49.24580591917038,Caucasian
+1776,80.34037804603577,Caucasian
+1777,32.01163423061371,Caucasian
+1778,86.81037890911102,Caucasian
+1779,82.74868822097778,Caucasian
+1780,49.02177321910858,Caucasian
+1781,52.034090638160706,Caucasian
+1782,70.96186220645905,Caucasian
+1783,47.32632523775101,Caucasian
+1784,78.4925366640091,Caucasian
+1785,71.420694231987,Caucasian
+1786,62.39938688278198,Caucasian
+1787,76.69267976284027,Caucasian
+1788,70.90505182743073,Caucasian
+1789,71.03064334392548,Caucasian
+1790,29.278345972299576,Caucasian
+1791,77.22369801998138,Caucasian
+1792,72.02679216861725,Caucasian
+1793,77.7635509967804,Caucasian
+1794,68.92696559429169,Caucasian
+1795,74.02562212944031,Caucasian
+1796,81.16074991226196,Caucasian
+1797,82.74862205982208,Caucasian
+1798,37.66556590795517,Caucasian
+1799,51.06774079799652,Caucasian
+1800,70.06427145004272,Caucasian
+1801,71.18903315067291,Caucasian
+1802,84.51515579223633,Caucasian
+1803,63.61204147338867,Caucasian
+1804,60.585988998413086,Caucasian
+1805,65.74145150184631,Caucasian
+1806,48.36112540960312,Caucasian
+1807,54.32201397418976,Caucasian
+1808,65.92124664783478,Caucasian
+1809,87.2339117527008,Caucasian
+1810,75.16117250919342,Caucasian
+1811,63.98335552215576,Caucasian
+1812,75.78460907936096,Caucasian
+1813,67.5373387336731,Caucasian
+1814,52.51929450035095,Caucasian
+1815,58.19188141822815,Caucasian
+1816,71.8440991640091,Caucasian
+1817,82.1022937297821,Caucasian
+1818,51.388997316360474,Caucasian
+1819,27.498700201511383,Caucasian
+1820,65.65269410610199,Caucasian
+1821,55.83576798439026,Caucasian
+1822,79.31364071369171,Caucasian
+1823,80.8657329082489,Caucasian
+1824,63.1381379365921,Caucasian
+1825,76.92591106891632,Caucasian
+1826,67.2053552865982,Caucasian
+1827,59.12695026397705,Caucasian
+1828,72.36764121055603,Caucasian
+1829,82.0987651348114,Caucasian
+1830,83.35624170303345,Caucasian
+1831,64.24177658557892,Caucasian
+1832,67.11075806617737,Caucasian
+1833,30.229945182800293,Caucasian
+1834,68.10239911079407,Caucasian
+1835,47.47200107574463,Caucasian
+1836,62.8795051574707,Caucasian
+1837,57.61560893058777,Caucasian
+1838,60.489989161491394,Caucasian
+1839,30.149316787719727,Caucasian
+1840,78.94621694087982,Caucasian
+1841,69.15231931209564,Caucasian
+1842,64.91344904899597,Caucasian
+1843,67.2780487537384,Caucasian
+1844,78.81123054027557,Caucasian
+1845,52.67069327831268,Caucasian
+1846,71.4724190235138,Caucasian
+1847,29.65914312005043,Caucasian
+1848,72.81470537185669,Caucasian
+1849,81.21708834171295,Caucasian
+1850,53.480536699295044,Caucasian
+1851,86.32443845272064,Caucasian
+1852,83.46183931827545,Caucasian
+1853,64.25729358196259,Caucasian
+1854,76.57579064369202,Caucasian
+1855,78.35387170314789,Caucasian
+1856,80.61504828929901,Caucasian
+1857,83.4567140340805,Caucasian
+1858,68.94002139568329,Caucasian
+1859,73.3127533197403,Caucasian
+1860,55.22481381893158,Caucasian
+1861,84.3948130607605,Caucasian
+1862,36.09789937734604,Caucasian
+1863,22.236449733376503,Caucasian
+1864,79.58334004878998,Caucasian
+1865,69.98270797729492,Caucasian
+1866,75.96813571453094,Caucasian
+1867,65.9161434173584,Caucasian
+1868,60.44915449619293,Caucasian
+1869,87.76555633544922,Caucasian
+1870,80.30866038799286,Caucasian
+1871,67.21318876743317,Caucasian
+1872,61.538167119026184,Caucasian
+1873,56.161858677864075,Caucasian
+1874,35.597224831581116,Caucasian
+1875,47.81977939605713,Caucasian
+1876,69.1276103258133,Caucasian
+1877,60.558024883270264,Caucasian
+1878,61.98926270008087,Caucasian
+1879,51.22884100675583,Caucasian
+1880,81.94281888008118,Caucasian
+1881,63.15691006183624,Caucasian
+1882,66.0384886264801,Caucasian
+1883,79.17994666099548,Caucasian
+1884,71.79591619968414,Caucasian
+1885,81.39947259426117,Caucasian
+1886,60.91198706626892,Caucasian
+1887,62.849273920059204,Caucasian
+1888,86.55748009681702,Caucasian
+1889,64.75887453556061,Caucasian
+1890,75.78568530082703,Caucasian
+1891,72.03225266933441,Caucasian
+1892,55.967631578445435,Caucasian
+1893,86.62045669555664,Caucasian
+1894,84.70598220825195,Caucasian
+1895,71.13836693763733,Caucasian
+1896,75.84948670864105,Caucasian
+1897,52.35563826560974,Caucasian
+1898,88.02158236503601,Caucasian
+1899,64.34072721004486,Caucasian
+1900,66.55932247638702,Caucasian
+1901,80.09360134601593,Caucasian
+1902,49.17611175775528,Caucasian
+1903,74.37615275382996,Caucasian
+1904,81.5782665014267,Caucasian
+1905,44.71987342834473,Caucasian
+1906,54.80765891075134,Caucasian
+1907,78.70775890350342,Caucasian
+1908,78.78945469856262,Caucasian
+1909,35.63268059492111,Caucasian
+1910,74.53354573249817,Caucasian
+1911,62.79174017906189,Caucasian
+1912,29.387623250484467,Caucasian
+1913,58.66675090789795,Caucasian
+1914,82.55661356449127,Caucasian
+1915,51.6418035030365,Caucasian
+1916,66.48980474472046,Caucasian
+1917,42.42532294988632,Caucasian
+1918,65.47150075435638,Caucasian
+1919,65.7042909860611,Caucasian
+1920,76.9575846195221,Caucasian
+1921,52.18688762187958,Caucasian
+1922,46.23006135225296,Caucasian
+1923,76.22304582595825,Caucasian
+1924,52.32688021659851,Caucasian
+1925,60.41086041927338,Caucasian
+1926,70.90157616138458,Caucasian
+1927,87.51918542385101,Caucasian
+1928,58.6287876367569,Caucasian
+1929,84.57004749774933,Caucasian
+1930,81.69871950149536,Caucasian
+1931,74.2778549194336,Caucasian
+1932,75.8285665512085,Caucasian
+1933,81.4400337934494,Caucasian
+1934,57.97296738624573,Caucasian
+1935,43.54366481304169,Caucasian
+1936,83.88768339157104,Caucasian
+1937,60.92950654029846,Caucasian
+1938,40.942616164684296,Caucasian
+1939,73.94746816158295,Caucasian
+1940,70.21497333049774,Caucasian
+1941,69.218701004982,Caucasian
+1942,82.40083932876587,Caucasian
+1943,55.99837005138397,Caucasian
+1944,84.36590945720673,Caucasian
+1945,56.76037013530731,Caucasian
+1946,81.85117244720459,Caucasian
+1947,71.27116560935974,Caucasian
+1948,25.2455974817276,Caucasian
+1949,62.92953181266785,Caucasian
+1950,88.55649971961975,Caucasian
+1951,73.54376602172852,Caucasian
+1952,61.537046790122986,Caucasian
+1953,87.97992289066315,Caucasian
+1954,82.57913482189178,Caucasian
+1955,56.528995752334595,Caucasian
+1956,32.865934640169144,Caucasian
+1957,65.15323030948639,Caucasian
+1958,26.38664585351944,Caucasian
+1959,84.11897838115692,Caucasian
+1960,80.6968719959259,Caucasian
+1961,21.36266927421093,Caucasian
+1962,85.84194278717041,Caucasian
+1963,86.50709176063538,Caucasian
+1964,78.02064883708954,Caucasian
+1965,63.69607055187225,Caucasian
+1966,52.82431507110596,Caucasian
+1967,40.209654211997986,Caucasian
+1968,60.12825524806976,Caucasian
+1969,54.08091390132904,Caucasian
+1970,83.40180027484894,Caucasian
+1971,77.9343614578247,Caucasian
+1972,48.43746215105057,Caucasian
+1973,64.98904037475586,Caucasian
+1974,66.9511376619339,Caucasian
+1975,79.74589800834656,Caucasian
+1976,79.27969563007355,Caucasian
+1977,83.15240800380707,Caucasian
+1978,59.06723761558533,Caucasian
+1979,84.54467248916626,Caucasian
+1980,21.956176191568375,Caucasian
+1981,76.37958312034607,Caucasian
+1982,55.67488610744476,Caucasian
+1983,65.71962714195251,Caucasian
+1984,28.666166722774506,Caucasian
+1985,77.44550108909607,Caucasian
+1986,86.07902467250824,Caucasian
+1987,73.69009244441986,Caucasian
+1988,37.65418618917465,Caucasian
+1989,72.52584135532379,Caucasian
+1990,20.17947293817997,Caucasian
+1991,71.71877229213715,Caucasian
+1992,67.48410546779633,Caucasian
+1993,59.29826354980469,Caucasian
+1994,63.657511830329895,Caucasian
+1995,73.8629583120346,Caucasian
+1996,23.20765194296837,Caucasian
+1997,73.35913228988647,Caucasian
+1998,85.81469321250916,Caucasian
+1999,81.80584764480591,Caucasian
+2000,30.197506368160248,Caucasian
+2001,30.700434803962708,Caucasian
+2002,65.55844533443451,Caucasian
+2003,85.63337194919586,Caucasian
+2004,77.6274266242981,Caucasian
+2005,45.178357005119324,Caucasian
+2006,48.6614066362381,Caucasian
+2007,71.67976808547974,Caucasian
+2008,82.81952476501465,Caucasian
+2009,67.59877598285675,Caucasian
+2010,61.30449914932251,Caucasian
+2011,78.3539731502533,Caucasian
+2012,53.225220799446106,Caucasian
+2013,29.98173499107361,Caucasian
+2014,62.83455526828766,Caucasian
+2015,59.92396283149719,Caucasian
+2016,81.66367173194885,Caucasian
+2017,81.40249395370483,Caucasian
+2018,71.5559629201889,Caucasian
+2019,63.63078713417053,Caucasian
+2020,75.68164908885956,Caucasian
+2021,35.04685664176941,Caucasian
+2022,44.95165801048279,Caucasian
+2023,33.09329745173454,Caucasian
+2024,79.89167308807373,Caucasian
+2025,72.65682721138,Caucasian
+2026,48.96159744262695,Caucasian
+2027,74.82591187953949,Caucasian
+2028,74.89372706413269,Caucasian
+2029,82.40429735183716,Caucasian
+2030,76.4157247543335,Caucasian
+2031,45.87290799617767,Caucasian
+2032,85.73184180259705,Caucasian
+2033,75.59793317317963,Caucasian
+2034,44.11598527431488,Caucasian
+2035,69.53579819202423,Caucasian
+2036,73.14102983474731,Caucasian
+2037,70.6039788722992,Caucasian
+2038,70.35935020446777,Caucasian
+2039,87.56444847583771,Caucasian
+2040,74.3726418018341,Caucasian
+2041,55.82684946060181,Caucasian
+2042,79.79788303375244,Caucasian
+2043,16.219525426626205,Caucasian
+2044,84.00319194793701,Caucasian
+2045,83.30560636520386,Caucasian
+2046,83.41113781929016,Caucasian
+2047,41.888583958148956,Caucasian
+2048,60.65589928627014,Caucasian
+2049,51.399435341358185,Caucasian
+2050,65.68934297561646,Caucasian
+2051,30.549581855535507,Caucasian
+2052,58.039759278297424,Caucasian
+2053,85.07080805301666,Caucasian
+2054,73.24508368968964,Caucasian
+2055,80.54152119159698,Caucasian
+2056,74.35938310623169,Caucasian
+2057,44.982116401195526,Caucasian
+2058,71.34946513175964,Caucasian
+2059,20.499051719903946,Caucasian
+2060,65.7410854101181,Caucasian
+2061,41.99819093942642,Caucasian
+2062,58.419652223587036,Caucasian
+2063,73.04638409614563,Caucasian
+2064,59.494184374809265,Caucasian
+2065,23.191773265600204,Caucasian
+2066,65.67160296440125,Caucasian
+2067,64.00944948196411,Caucasian
+2068,76.96027517318726,Caucasian
+2069,34.92756807804108,Caucasian
+2070,67.03529024124146,Caucasian
+2071,60.192599177360535,Caucasian
+2072,46.63850063085556,Caucasian
+2073,54.98881697654724,Caucasian
+2074,48.29039692878723,Caucasian
+2075,60.73890507221222,Caucasian
+2076,75.04621088504791,Caucasian
+2077,46.44091695547104,Caucasian
+2078,70.01291716098785,Caucasian
+2079,77.61346220970154,Caucasian
+2080,73.54806208610535,Caucasian
+2081,70.60824847221375,Caucasian
+2082,61.8333340883255,Caucasian
+2083,67.58268558979034,Caucasian
+2084,71.39951825141907,Caucasian
+2085,64.34993243217468,Caucasian
+2086,64.53436768054962,Caucasian
+2087,83.42160451412201,Caucasian
+2088,85.33087873458862,Caucasian
+2089,37.490960001945496,Caucasian
+2090,67.40921986103058,Caucasian
+2091,74.01887369155884,Caucasian
+2092,77.83298933506012,Caucasian
+2093,64.43148267269135,Caucasian
+2094,61.94212067127228,Caucasian
+2095,73.63226759433746,Caucasian
+2096,69.68055438995361,Caucasian
+2097,82.89297246932983,Caucasian
+2098,80.57688212394714,Caucasian
+2099,68.65430223941803,Caucasian
+2100,53.64258301258087,Caucasian
+2101,75.39854109287262,Caucasian
+2102,78.55454289913177,Caucasian
+2103,76.83990156650543,Caucasian
+2104,79.35528695583344,Caucasian
+2105,78.26104760169983,Caucasian
+2106,77.31716167926788,Caucasian
+2107,69.16212439537048,Caucasian
+2108,23.59510876238346,Caucasian
+2109,74.46809470653534,Caucasian
+2110,26.676948875188828,Caucasian
+2111,25.802457183599472,Caucasian
+2112,88.38587892055511,Caucasian
+2113,43.474171340465546,Caucasian
+2114,81.81163012981415,Caucasian
+2115,63.221020221710205,Caucasian
+2116,58.679683208465576,Caucasian
+2117,82.8306839466095,Caucasian
+2118,62.0772967338562,Caucasian
+2119,73.31090080738068,Caucasian
+2120,60.62083828449249,Caucasian
+2121,78.47999250888824,Caucasian
+2122,73.5294531583786,Caucasian
+2123,42.19631493091583,Caucasian
+2124,80.7063639163971,Caucasian
+2125,61.66550970077515,Caucasian
+2126,81.99240446090698,Caucasian
+2127,83.35440683364868,Caucasian
+2128,82.87966084480286,Caucasian
+2129,55.88073551654816,Caucasian
+2130,88.00869417190552,Caucasian
+2131,68.3649001121521,Caucasian
+2132,84.92112946510315,Caucasian
+2133,83.93924939632416,Caucasian
+2134,66.97565698623657,Caucasian
+2135,71.28850865364075,Caucasian
+2136,61.63568425178528,Caucasian
+2137,68.60112190246582,Caucasian
+2138,64.3085949420929,Caucasian
+2139,64.72009527683258,Caucasian
+2140,72.60655796527863,Caucasian
+2141,67.49330186843872,Caucasian
+2142,86.05353498458862,Caucasian
+2143,68.29983282089233,Caucasian
+2144,55.91027867794037,Caucasian
+2145,77.09628927707672,Caucasian
+2146,71.97582602500916,Caucasian
+2147,75.21324133872986,Caucasian
+2148,74.82147467136383,Caucasian
+2149,83.33322644233704,Caucasian
+2150,80.13175868988037,Caucasian
+2151,71.27314603328705,Caucasian
+2152,82.55963051319122,Caucasian
+2153,65.97932732105255,Caucasian
+2154,62.64316427707672,Caucasian
+2155,60.19409441947937,Caucasian
+2156,67.46460556983948,Caucasian
+2157,83.621089220047,Caucasian
+2158,83.56519627571106,Caucasian
+2159,34.91297513246536,Caucasian
+2160,50.57375293970108,Caucasian
+2161,45.17145198583603,Caucasian
+2162,57.20239281654358,Caucasian
+2163,36.22505670785904,Caucasian
+2164,80.08588254451752,Caucasian
+2165,46.909520983695984,Caucasian
+2166,71.51249063014984,Caucasian
+2167,84.02270948886871,Caucasian
+2168,62.00349175930023,Caucasian
+2169,63.6308091878891,Caucasian
+2170,69.90279853343964,Caucasian
+2171,81.1318154335022,Caucasian
+2172,79.91124355792999,Caucasian
+2173,84.21397256851196,Caucasian
+2174,78.70505952835083,Caucasian
+2175,45.70892536640167,Caucasian
+2176,64.99229109287262,Caucasian
+2177,79.6339180469513,Caucasian
+2178,62.506131291389465,Caucasian
+2179,58.06524455547333,Caucasian
+2180,77.05083656311035,Caucasian
+2181,58.61923396587372,Caucasian
+2182,58.48338305950165,Caucasian
+2183,52.98265194892883,Caucasian
+2184,54.61046779155731,Caucasian
+2185,83.4856573343277,Caucasian
+2186,68.41157460212708,Caucasian
+2187,50.219016671180725,Caucasian
+2188,43.94456613063812,Caucasian
+2189,73.66477477550507,Caucasian
+2190,55.04601550102234,Caucasian
+2191,78.0274943113327,Caucasian
+2192,76.2139641046524,Caucasian
+2193,67.26649260520935,Caucasian
+2194,68.35034465789795,Caucasian
+2195,75.2848938703537,Caucasian
+2196,74.57943952083588,Caucasian
+2197,75.71324324607849,Caucasian
+2198,28.861934274435043,Caucasian
+2199,64.04573667049408,Caucasian
+2200,84.03056502342224,Caucasian
+2201,21.790538981556892,Caucasian
+2202,30.9358968436718,Caucasian
+2203,17.475322604179382,Caucasian
+2204,43.749298095703125,Caucasian
+2205,57.008814096450806,Caucasian
+2206,66.22883427143097,Caucasian
+2207,65.27958488464355,Caucasian
+2208,78.39187467098236,Caucasian
+2209,37.967454850673676,Caucasian
+2210,48.5199915766716,Caucasian
+2211,51.86068004369736,Caucasian
+2212,31.969323068857193,Caucasian
+2213,81.26576972007751,Caucasian
+2214,57.11514389514923,Caucasian
+2215,81.94411563873291,Caucasian
+2216,75.06461691856384,Caucasian
+2217,75.60933935642242,Caucasian
+2218,51.747526824474335,Caucasian
+2219,69.91420471668243,Caucasian
+2220,58.670650005340576,Caucasian
+2221,70.7106968164444,Caucasian
+2222,54.04299473762512,Caucasian
+2223,80.07488214969635,Caucasian
+2224,59.50611102581024,Caucasian
+2225,69.88377940654755,Caucasian
+2226,42.96211266517639,Caucasian
+2227,84.33018243312836,Caucasian
+2228,68.57522642612457,Caucasian
+2229,51.149723291397095,Caucasian
+2230,76.62914741039276,Caucasian
+2231,42.89317053556442,Caucasian
+2232,76.25499284267426,Caucasian
+2233,29.118358373641968,Caucasian
+2234,31.17754825949669,Caucasian
+2235,68.1933045387268,Caucasian
+2236,31.805117696523666,Caucasian
+2237,23.123413905501366,Caucasian
+2238,74.74483799934387,Caucasian
+2239,67.41096210479736,Caucasian
+2240,75.61892831325531,Caucasian
+2241,63.15920805931091,Native American
+2242,56.33546996116638,Native American
+2243,17.959401726722717,Native American
+2244,42.28122174739838,Native American
+2245,44.44569718837738,Native American
+2246,24.797751516103745,Native American
+2247,47.33920460939407,Native American
+2248,43.79718995094299,Native American
+2249,66.76269745826721,Native American
+2250,53.58114576339722,Native American
+2251,20.79362654685974,Native American
+2252,63.99799036979675,Native American
