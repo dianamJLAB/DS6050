@@ -1,0 +1,4507 @@
+,age,ethnicity,data
+0,87,Caucasian,Truth
+1,87,Caucasian,Truth
+2,76,Caucasian,Truth
+3,34,Caucasian,Truth
+4,61,Caucasian,Truth
+5,55,Caucasian,Truth
+6,55,Caucasian,Truth
+7,28,Caucasian,Truth
+8,34,Caucasian,Truth
+9,34,Caucasian,Truth
+10,89,Caucasian,Truth
+11,89,Caucasian,Truth
+12,59,Caucasian,Truth
+13,44,Caucasian,Truth
+14,66,Caucasian,Truth
+15,41,Caucasian,Truth
+16,63,Caucasian,Truth
+17,57,Caucasian,Truth
+18,87,Caucasian,Truth
+19,52,Caucasian,Truth
+20,23,Caucasian,Truth
+21,73,Caucasian,Truth
+22,39,Caucasian,Truth
+23,39,Caucasian,Truth
+24,57,Caucasian,Truth
+25,57,Caucasian,Truth
+26,20,Caucasian,Truth
+27,29,Caucasian,Truth
+28,29,Caucasian,Truth
+29,71,Caucasian,Truth
+30,18,Caucasian,Truth
+31,83,Caucasian,Truth
+32,84,Caucasian,Truth
+33,84,Caucasian,Truth
+34,47,Caucasian,Truth
+35,47,Caucasian,Truth
+36,38,Caucasian,Truth
+37,61,Caucasian,Truth
+38,46,Caucasian,Truth
+39,49,Caucasian,Truth
+40,49,Caucasian,Truth
+41,81,Caucasian,Truth
+42,81,Caucasian,Truth
+43,87,Caucasian,Truth
+44,87,Caucasian,Truth
+45,60,Caucasian,Truth
+46,68,Caucasian,Truth
+47,51,Caucasian,Truth
+48,17,Caucasian,Truth
+49,89,Caucasian,Truth
+50,89,Caucasian,Truth
+51,68,Caucasian,Truth
+52,59,Caucasian,Truth
+53,85,Caucasian,Truth
+54,85,Caucasian,Truth
+55,80,Caucasian,Truth
+56,80,Caucasian,Truth
+57,48,Caucasian,Truth
+58,48,Caucasian,Truth
+59,74,Caucasian,Truth
+60,68,Caucasian,Truth
+61,16,Caucasian,Truth
+62,64,Caucasian,Truth
+63,68,Caucasian,Truth
+64,75,African American,Truth
+65,75,African American,Truth
+66,68,Caucasian,Truth
+67,56,Caucasian,Truth
+68,87,Caucasian,Truth
+69,72,Caucasian,Truth
+70,63,Caucasian,Truth
+71,61,Caucasian,Truth
+72,61,Caucasian,Truth
+73,87,Caucasian,Truth
+74,87,Caucasian,Truth
+75,87,Caucasian,Truth
+76,82,Caucasian,Truth
+77,77,Caucasian,Truth
+78,77,Caucasian,Truth
+79,77,Caucasian,Truth
+80,89,Caucasian,Truth
+81,89,Caucasian,Truth
+82,81,Caucasian,Truth
+83,39,Caucasian,Truth
+84,55,Caucasian,Truth
+85,78,Caucasian,Truth
+86,58,Caucasian,Truth
+87,89,Caucasian,Truth
+88,46,Caucasian,Truth
+89,58,Caucasian,Truth
+90,88,Caucasian,Truth
+91,88,Caucasian,Truth
+92,60,Caucasian,Truth
+93,53,Caucasian,Truth
+94,55,Caucasian,Truth
+95,54,Caucasian,Truth
+96,65,Caucasian,Truth
+97,65,Caucasian,Truth
+98,17,Caucasian,Truth
+99,69,Caucasian,Truth
+100,69,Caucasian,Truth
+101,69,Caucasian,Truth
+102,69,Caucasian,Truth
+103,69,Caucasian,Truth
+104,88,Caucasian,Truth
+105,67,Caucasian,Truth
+106,47,Caucasian,Truth
+107,47,Caucasian,Truth
+108,47,Caucasian,Truth
+109,47,Caucasian,Truth
+110,62,Caucasian,Truth
+111,78,Caucasian,Truth
+112,50,African American,Truth
+113,44,Caucasian,Truth
+114,29,Caucasian,Truth
+115,83,Caucasian,Truth
+116,78,Caucasian,Truth
+117,46,Caucasian,Truth
+118,46,Caucasian,Truth
+119,56,Caucasian,Truth
+120,57,Caucasian,Truth
+121,62,Caucasian,Truth
+122,62,Caucasian,Truth
+123,64,Caucasian,Truth
+124,62,Caucasian,Truth
+125,62,Caucasian,Truth
+126,60,Caucasian,Truth
+127,60,Caucasian,Truth
+128,67,Caucasian,Truth
+129,53,Caucasian,Truth
+130,42,African American,Truth
+131,58,Caucasian,Truth
+132,46,African American,Truth
+133,46,African American,Truth
+134,57,Caucasian,Truth
+135,57,Caucasian,Truth
+136,69,Caucasian,Truth
+137,72,Caucasian,Truth
+138,72,Caucasian,Truth
+139,58,Caucasian,Truth
+140,58,Caucasian,Truth
+141,58,Caucasian,Truth
+142,58,Caucasian,Truth
+143,54,Caucasian,Truth
+144,68,Caucasian,Truth
+145,68,Caucasian,Truth
+146,83,Caucasian,Truth
+147,84,Caucasian,Truth
+148,82,Caucasian,Truth
+149,32,Caucasian,Truth
+150,55,Caucasian,Truth
+151,83,Caucasian,Truth
+152,76,Caucasian,Truth
+153,89,Caucasian,Truth
+154,89,Caucasian,Truth
+155,60,Caucasian,Truth
+156,60,Caucasian,Truth
+157,59,Caucasian,Truth
+158,41,Caucasian,Truth
+159,41,Caucasian,Truth
+160,25,Caucasian,Truth
+161,82,Caucasian,Truth
+162,60,Caucasian,Truth
+163,78,Caucasian,Truth
+164,40,Caucasian,Truth
+165,81,Caucasian,Truth
+166,59,Caucasian,Truth
+167,43,African American,Truth
+168,69,Caucasian,Truth
+169,69,Caucasian,Truth
+170,51,Caucasian,Truth
+171,79,Caucasian,Truth
+172,83,Caucasian,Truth
+173,89,Caucasian,Truth
+174,80,Caucasian,Truth
+175,49,Caucasian,Truth
+176,70,Caucasian,Truth
+177,55,Caucasian,Truth
+178,62,Caucasian,Truth
+179,44,Caucasian,Truth
+180,87,Caucasian,Truth
+181,29,Caucasian,Truth
+182,58,Caucasian,Truth
+183,86,Caucasian,Truth
+184,60,Caucasian,Truth
+185,50,Caucasian,Truth
+186,83,Caucasian,Truth
+187,70,Caucasian,Truth
+188,70,Caucasian,Truth
+189,87,Caucasian,Truth
+190,69,Caucasian,Truth
+191,52,Native American,Truth
+192,71,Caucasian,Truth
+193,78,Caucasian,Truth
+194,48,Native American,Truth
+195,30,Caucasian,Truth
+196,62,Caucasian,Truth
+197,37,Native American,Truth
+198,48,Native American,Truth
+199,81,Caucasian,Truth
+200,55,Caucasian,Truth
+201,58,Caucasian,Truth
+202,52,Caucasian,Truth
+203,76,Native American,Truth
+204,57,Caucasian,Truth
+205,57,Caucasian,Truth
+206,66,Caucasian,Truth
+207,52,Caucasian,Truth
+208,80,Caucasian,Truth
+209,78,Caucasian,Truth
+210,65,Caucasian,Truth
+211,26,Caucasian,Truth
+212,81,Caucasian,Truth
+213,66,Caucasian,Truth
+214,67,Caucasian,Truth
+215,62,Caucasian,Truth
+216,74,Caucasian,Truth
+217,79,Caucasian,Truth
+218,62,Caucasian,Truth
+219,19,Native American,Truth
+220,67,Caucasian,Truth
+221,87,Caucasian,Truth
+222,61,Caucasian,Truth
+223,71,Caucasian,Truth
+224,89,Caucasian,Truth
+225,66,Caucasian,Truth
+226,66,Caucasian,Truth
+227,61,Caucasian,Truth
+228,74,Caucasian,Truth
+229,54,Caucasian,Truth
+230,69,Caucasian,Truth
+231,69,Caucasian,Truth
+232,26,Native American,Truth
+233,55,Caucasian,Truth
+234,80,Caucasian,Truth
+235,31,Caucasian,Truth
+236,55,Caucasian,Truth
+237,62,Caucasian,Truth
+238,67,Caucasian,Truth
+239,52,Caucasian,Truth
+240,63,African American,Truth
+241,53,Caucasian,Truth
+242,54,Caucasian,Truth
+243,53,Caucasian,Truth
+244,40,Caucasian,Truth
+245,40,Caucasian,Truth
+246,25,Caucasian,Truth
+247,57,Caucasian,Truth
+248,40,Caucasian,Truth
+249,40,Caucasian,Truth
+250,37,Caucasian,Truth
+251,21,Caucasian,Truth
+252,31,Caucasian,Truth
+253,63,Caucasian,Truth
+254,23,Caucasian,Truth
+255,54,Caucasian,Truth
+256,40,Caucasian,Truth
+257,40,Caucasian,Truth
+258,40,Caucasian,Truth
+259,75,Caucasian,Truth
+260,85,African American,Truth
+261,59,Caucasian,Truth
+262,45,Caucasian,Truth
+263,40,Caucasian,Truth
+264,43,Caucasian,Truth
+265,82,Caucasian,Truth
+266,72,Caucasian,Truth
+267,67,Caucasian,Truth
+268,50,Caucasian,Truth
+269,53,Caucasian,Truth
+270,73,Caucasian,Truth
+271,20,Caucasian,Truth
+272,49,Caucasian,Truth
+273,49,Caucasian,Truth
+274,49,Caucasian,Truth
+275,21,Caucasian,Truth
+276,58,African American,Truth
+277,73,Caucasian,Truth
+278,73,Caucasian,Truth
+279,18,Caucasian,Truth
+280,77,Caucasian,Truth
+281,73,Caucasian,Truth
+282,73,Caucasian,Truth
+283,32,Caucasian,Truth
+284,79,Caucasian,Truth
+285,71,Caucasian,Truth
+286,70,Caucasian,Truth
+287,40,Caucasian,Truth
+288,88,Caucasian,Truth
+289,58,Caucasian,Truth
+290,34,Caucasian,Truth
+291,65,Caucasian,Truth
+292,39,Caucasian,Truth
+293,39,Caucasian,Truth
+294,39,Caucasian,Truth
+295,87,Caucasian,Truth
+296,88,Caucasian,Truth
+297,23,Caucasian,Truth
+298,41,African American,Truth
+299,53,African American,Truth
+300,28,Caucasian,Truth
+301,34,African American,Truth
+302,45,Caucasian,Truth
+303,26,Caucasian,Truth
+304,58,African American,Truth
+305,25,Caucasian,Truth
+306,58,Caucasian,Truth
+307,40,Caucasian,Truth
+308,26,Caucasian,Truth
+309,39,Caucasian,Truth
+310,26,Caucasian,Truth
+311,18,Caucasian,Truth
+312,42,Caucasian,Truth
+313,42,Caucasian,Truth
+314,89,Caucasian,Truth
+315,51,African American,Truth
+316,42,Caucasian,Truth
+317,30,African American,Truth
+318,39,Caucasian,Truth
+319,22,Caucasian,Truth
+320,73,Caucasian,Truth
+321,22,Caucasian,Truth
+322,84,Caucasian,Truth
+323,69,Caucasian,Truth
+324,82,Caucasian,Truth
+325,82,Caucasian,Truth
+326,82,Caucasian,Truth
+327,68,Caucasian,Truth
+328,68,Caucasian,Truth
+329,70,Caucasian,Truth
+330,74,Caucasian,Truth
+331,90,African American,Truth
+332,72,African American,Truth
+333,48,Caucasian,Truth
+334,87,Caucasian,Truth
+335,80,Caucasian,Truth
+336,27,Caucasian,Truth
+337,52,African American,Truth
+338,52,Caucasian,Truth
+339,48,Caucasian,Truth
+340,43,Caucasian,Truth
+341,58,Caucasian,Truth
+342,38,African American,Truth
+343,49,Caucasian,Truth
+344,27,Caucasian,Truth
+345,75,Caucasian,Truth
+346,40,Caucasian,Truth
+347,40,Caucasian,Truth
+348,85,Caucasian,Truth
+349,65,African American,Truth
+350,52,African American,Truth
+351,33,African American,Truth
+352,40,Caucasian,Truth
+353,63,Caucasian,Truth
+354,21,Caucasian,Truth
+355,58,Caucasian,Truth
+356,51,African American,Truth
+357,49,Caucasian,Truth
+358,49,Caucasian,Truth
+359,86,Caucasian,Truth
+360,86,Caucasian,Truth
+361,54,African American,Truth
+362,71,Caucasian,Truth
+363,56,African American,Truth
+364,53,Caucasian,Truth
+365,53,Caucasian,Truth
+366,53,Caucasian,Truth
+367,57,Caucasian,Truth
+368,80,Caucasian,Truth
+369,68,Caucasian,Truth
+370,68,Caucasian,Truth
+371,55,Caucasian,Truth
+372,58,African American,Truth
+373,63,African American,Truth
+374,70,African American,Truth
+375,63,African American,Truth
+376,63,African American,Truth
+377,73,Caucasian,Truth
+378,81,Caucasian,Truth
+379,33,African American,Truth
+380,24,Caucasian,Truth
+381,79,Caucasian,Truth
+382,63,Caucasian,Truth
+383,82,Caucasian,Truth
+384,76,Caucasian,Truth
+385,76,Caucasian,Truth
+386,41,Caucasian,Truth
+387,29,Caucasian,Truth
+388,29,Caucasian,Truth
+389,67,Caucasian,Truth
+390,67,Caucasian,Truth
+391,43,Caucasian,Truth
+392,76,Caucasian,Truth
+393,76,Caucasian,Truth
+394,57,Caucasian,Truth
+395,57,Caucasian,Truth
+396,28,Caucasian,Truth
+397,75,Caucasian,Truth
+398,75,Caucasian,Truth
+399,54,Caucasian,Truth
+400,42,Caucasian,Truth
+401,42,Caucasian,Truth
+402,42,Caucasian,Truth
+403,62,Caucasian,Truth
+404,64,Caucasian,Truth
+405,66,Caucasian,Truth
+406,66,Caucasian,Truth
+407,66,Caucasian,Truth
+408,82,Caucasian,Truth
+409,82,Caucasian,Truth
+410,82,Caucasian,Truth
+411,34,Caucasian,Truth
+412,34,Caucasian,Truth
+413,34,Caucasian,Truth
+414,40,Caucasian,Truth
+415,40,Caucasian,Truth
+416,66,Caucasian,Truth
+417,68,Caucasian,Truth
+418,68,Caucasian,Truth
+419,41,Caucasian,Truth
+420,89,Caucasian,Truth
+421,89,Caucasian,Truth
+422,73,Caucasian,Truth
+423,73,Caucasian,Truth
+424,76,Caucasian,Truth
+425,83,Caucasian,Truth
+426,34,Caucasian,Truth
+427,68,Caucasian,Truth
+428,78,African American,Truth
+429,78,African American,Truth
+430,78,African American,Truth
+431,63,Caucasian,Truth
+432,61,Caucasian,Truth
+433,36,Caucasian,Truth
+434,36,Caucasian,Truth
+435,40,Caucasian,Truth
+436,59,Caucasian,Truth
+437,59,Caucasian,Truth
+438,59,Caucasian,Truth
+439,57,Caucasian,Truth
+440,57,Caucasian,Truth
+441,61,Caucasian,Truth
+442,70,Caucasian,Truth
+443,70,Caucasian,Truth
+444,70,Caucasian,Truth
+445,54,Caucasian,Truth
+446,59,Caucasian,Truth
+447,89,Caucasian,Truth
+448,26,African American,Truth
+449,57,Caucasian,Truth
+450,29,Caucasian,Truth
+451,57,Caucasian,Truth
+452,57,Caucasian,Truth
+453,24,Caucasian,Truth
+454,24,Caucasian,Truth
+455,61,Caucasian,Truth
+456,75,Caucasian,Truth
+457,75,Caucasian,Truth
+458,31,Caucasian,Truth
+459,79,Caucasian,Truth
+460,79,Caucasian,Truth
+461,89,Caucasian,Truth
+462,89,Caucasian,Truth
+463,66,Caucasian,Truth
+464,66,Caucasian,Truth
+465,66,Caucasian,Truth
+466,29,Caucasian,Truth
+467,88,Caucasian,Truth
+468,88,Caucasian,Truth
+469,76,Caucasian,Truth
+470,76,Caucasian,Truth
+471,78,Caucasian,Truth
+472,78,Caucasian,Truth
+473,64,Caucasian,Truth
+474,68,Caucasian,Truth
+475,83,Caucasian,Truth
+476,83,Caucasian,Truth
+477,67,Caucasian,Truth
+478,67,Caucasian,Truth
+479,39,Caucasian,Truth
+480,39,Caucasian,Truth
+481,63,Caucasian,Truth
+482,63,Caucasian,Truth
+483,57,Caucasian,Truth
+484,71,Caucasian,Truth
+485,62,Caucasian,Truth
+486,62,Caucasian,Truth
+487,74,Caucasian,Truth
+488,74,Caucasian,Truth
+489,79,Caucasian,Truth
+490,79,Caucasian,Truth
+491,37,Caucasian,Truth
+492,71,Caucasian,Truth
+493,78,Caucasian,Truth
+494,78,Caucasian,Truth
+495,61,Caucasian,Truth
+496,61,Caucasian,Truth
+497,70,Caucasian,Truth
+498,64,Caucasian,Truth
+499,60,Caucasian,Truth
+500,60,Caucasian,Truth
+501,79,Caucasian,Truth
+502,79,Caucasian,Truth
+503,76,Caucasian,Truth
+504,28,Caucasian,Truth
+505,68,Caucasian,Truth
+506,68,Caucasian,Truth
+507,68,Caucasian,Truth
+508,29,Caucasian,Truth
+509,71,Caucasian,Truth
+510,62,Caucasian,Truth
+511,79,Caucasian,Truth
+512,79,Caucasian,Truth
+513,54,African American,Truth
+514,68,Caucasian,Truth
+515,68,Caucasian,Truth
+516,28,Caucasian,Truth
+517,57,Caucasian,Truth
+518,57,Caucasian,Truth
+519,66,Caucasian,Truth
+520,66,Caucasian,Truth
+521,66,Caucasian,Truth
+522,63,Caucasian,Truth
+523,89,Caucasian,Truth
+524,89,Caucasian,Truth
+525,67,Caucasian,Truth
+526,28,Caucasian,Truth
+527,28,Caucasian,Truth
+528,82,Caucasian,Truth
+529,82,Caucasian,Truth
+530,66,Caucasian,Truth
+531,66,Caucasian,Truth
+532,47,Caucasian,Truth
+533,47,Caucasian,Truth
+534,47,Caucasian,Truth
+535,41,Caucasian,Truth
+536,41,Caucasian,Truth
+537,41,Caucasian,Truth
+538,60,Caucasian,Truth
+539,42,Caucasian,Truth
+540,89,Caucasian,Truth
+541,54,Caucasian,Truth
+542,82,African American,Truth
+543,82,African American,Truth
+544,42,Caucasian,Truth
+545,56,Caucasian,Truth
+546,85,Caucasian,Truth
+547,85,Caucasian,Truth
+548,74,Caucasian,Truth
+549,74,Caucasian,Truth
+550,66,Caucasian,Truth
+551,66,Caucasian,Truth
+552,28,Caucasian,Truth
+553,28,Caucasian,Truth
+554,62,Caucasian,Truth
+555,68,Caucasian,Truth
+556,74,Caucasian,Truth
+557,74,Caucasian,Truth
+558,78,Caucasian,Truth
+559,78,Caucasian,Truth
+560,78,Caucasian,Truth
+561,57,Caucasian,Truth
+562,57,Caucasian,Truth
+563,43,Caucasian,Truth
+564,43,Caucasian,Truth
+565,28,Caucasian,Truth
+566,28,Caucasian,Truth
+567,67,Caucasian,Truth
+568,67,Caucasian,Truth
+569,87,Caucasian,Truth
+570,87,Caucasian,Truth
+571,79,Caucasian,Truth
+572,79,Caucasian,Truth
+573,64,Caucasian,Truth
+574,64,Caucasian,Truth
+575,29,Caucasian,Truth
+576,29,Caucasian,Truth
+577,32,Caucasian,Truth
+578,76,Caucasian,Truth
+579,76,Caucasian,Truth
+580,59,Caucasian,Truth
+581,64,Caucasian,Truth
+582,64,Caucasian,Truth
+583,64,Caucasian,Truth
+584,64,Caucasian,Truth
+585,79,Caucasian,Truth
+586,79,Caucasian,Truth
+587,79,Caucasian,Truth
+588,57,Caucasian,Truth
+589,75,Caucasian,Truth
+590,71,Caucasian,Truth
+591,71,Caucasian,Truth
+592,69,Caucasian,Truth
+593,67,Caucasian,Truth
+594,67,Caucasian,Truth
+595,67,Caucasian,Truth
+596,68,Caucasian,Truth
+597,68,Caucasian,Truth
+598,29,Caucasian,Truth
+599,78,Caucasian,Truth
+600,78,Caucasian,Truth
+601,75,Caucasian,Truth
+602,75,Caucasian,Truth
+603,82,Caucasian,Truth
+604,34,African American,Truth
+605,34,African American,Truth
+606,89,Caucasian,Truth
+607,78,Caucasian,Truth
+608,80,Caucasian,Truth
+609,80,Caucasian,Truth
+610,29,Caucasian,Truth
+611,29,Caucasian,Truth
+612,55,Caucasian,Truth
+613,55,Caucasian,Truth
+614,80,Caucasian,Truth
+615,28,Caucasian,Truth
+616,28,Caucasian,Truth
+617,66,Caucasian,Truth
+618,64,Caucasian,Truth
+619,79,Caucasian,Truth
+620,79,Caucasian,Truth
+621,69,Caucasian,Truth
+622,69,Caucasian,Truth
+623,70,Caucasian,Truth
+624,70,Caucasian,Truth
+625,61,Caucasian,Truth
+626,61,Caucasian,Truth
+627,65,Caucasian,Truth
+628,65,Caucasian,Truth
+629,65,Caucasian,Truth
+630,65,Caucasian,Truth
+631,67,Caucasian,Truth
+632,67,Caucasian,Truth
+633,67,Caucasian,Truth
+634,67,Caucasian,Truth
+635,46,Caucasian,Truth
+636,46,Caucasian,Truth
+637,89,Caucasian,Truth
+638,63,Caucasian,Truth
+639,66,Caucasian,Truth
+640,66,Caucasian,Truth
+641,30,Caucasian,Truth
+642,76,Caucasian,Truth
+643,64,Caucasian,Truth
+644,69,Caucasian,Truth
+645,78,Caucasian,Truth
+646,78,Caucasian,Truth
+647,78,Caucasian,Truth
+648,78,Caucasian,Truth
+649,89,Caucasian,Truth
+650,74,Caucasian,Truth
+651,74,Caucasian,Truth
+652,77,Caucasian,Truth
+653,77,Caucasian,Truth
+654,44,Caucasian,Truth
+655,44,Caucasian,Truth
+656,73,Caucasian,Truth
+657,73,Caucasian,Truth
+658,65,Caucasian,Truth
+659,89,Caucasian,Truth
+660,73,Caucasian,Truth
+661,73,Caucasian,Truth
+662,89,Caucasian,Truth
+663,88,Caucasian,Truth
+664,80,Caucasian,Truth
+665,79,Caucasian,Truth
+666,79,Caucasian,Truth
+667,79,Caucasian,Truth
+668,29,Caucasian,Truth
+669,28,Caucasian,Truth
+670,28,Caucasian,Truth
+671,34,Caucasian,Truth
+672,34,Caucasian,Truth
+673,34,Caucasian,Truth
+674,80,Caucasian,Truth
+675,89,Caucasian,Truth
+676,84,Caucasian,Truth
+677,67,Caucasian,Truth
+678,65,African American,Truth
+679,65,African American,Truth
+680,65,African American,Truth
+681,49,Caucasian,Truth
+682,65,Caucasian,Truth
+683,89,Caucasian,Truth
+684,89,Caucasian,Truth
+685,89,Caucasian,Truth
+686,89,Caucasian,Truth
+687,57,Caucasian,Truth
+688,57,Caucasian,Truth
+689,82,Caucasian,Truth
+690,85,Caucasian,Truth
+691,83,Caucasian,Truth
+692,84,African American,Truth
+693,89,Caucasian,Truth
+694,83,Caucasian,Truth
+695,89,Caucasian,Truth
+696,89,Caucasian,Truth
+697,70,Caucasian,Truth
+698,86,Caucasian,Truth
+699,54,African American,Truth
+700,88,Caucasian,Truth
+701,53,Caucasian,Truth
+702,53,Caucasian,Truth
+703,76,Caucasian,Truth
+704,74,Caucasian,Truth
+705,87,Caucasian,Truth
+706,87,Caucasian,Truth
+707,83,Caucasian,Truth
+708,70,Caucasian,Truth
+709,89,Caucasian,Truth
+710,89,Caucasian,Truth
+711,52,Caucasian,Truth
+712,82,Caucasian,Truth
+713,89,Caucasian,Truth
+714,87,Caucasian,Truth
+715,84,Caucasian,Truth
+716,60,Caucasian,Truth
+717,60,Caucasian,Truth
+718,58,Caucasian,Truth
+719,89,Caucasian,Truth
+720,48,Caucasian,Truth
+721,84,Caucasian,Truth
+722,70,Caucasian,Truth
+723,72,Caucasian,Truth
+724,73,Caucasian,Truth
+725,68,African American,Truth
+726,52,African American,Truth
+727,80,Caucasian,Truth
+728,68,Caucasian,Truth
+729,68,Caucasian,Truth
+730,68,Caucasian,Truth
+731,89,Caucasian,Truth
+732,89,Caucasian,Truth
+733,81,Caucasian,Truth
+734,81,Caucasian,Truth
+735,68,African American,Truth
+736,68,African American,Truth
+737,63,Caucasian,Truth
+738,87,Caucasian,Truth
+739,52,African American,Truth
+740,77,Caucasian,Truth
+741,54,Caucasian,Truth
+742,49,Caucasian,Truth
+743,56,Caucasian,Truth
+744,26,African American,Truth
+745,54,Caucasian,Truth
+746,63,Caucasian,Truth
+747,41,Caucasian,Truth
+748,27,African American,Truth
+749,52,Caucasian,Truth
+750,56,Caucasian,Truth
+751,29,Caucasian,Truth
+752,27,African American,Truth
+753,74,Caucasian,Truth
+754,21,Caucasian,Truth
+755,76,African American,Truth
+756,67,African American,Truth
+757,50,African American,Truth
+758,65,Caucasian,Truth
+759,65,Caucasian,Truth
+760,70,Caucasian,Truth
+761,70,Caucasian,Truth
+762,70,Caucasian,Truth
+763,65,Caucasian,Truth
+764,61,Caucasian,Truth
+765,67,Caucasian,Truth
+766,74,African American,Truth
+767,76,African American,Truth
+768,76,African American,Truth
+769,57,African American,Truth
+770,69,African American,Truth
+771,60,African American,Truth
+772,50,African American,Truth
+773,70,African American,Truth
+774,53,African American,Truth
+775,72,Caucasian,Truth
+776,64,Caucasian,Truth
+777,67,Caucasian,Truth
+778,89,Caucasian,Truth
+779,68,Caucasian,Truth
+780,68,Caucasian,Truth
+781,65,Caucasian,Truth
+782,58,African American,Truth
+783,71,Caucasian,Truth
+784,44,Caucasian,Truth
+785,57,Caucasian,Truth
+786,58,Caucasian,Truth
+787,76,Caucasian,Truth
+788,71,Caucasian,Truth
+789,74,African American,Truth
+790,82,Caucasian,Truth
+791,82,Caucasian,Truth
+792,63,African American,Truth
+793,69,African American,Truth
+794,65,Caucasian,Truth
+795,61,Caucasian,Truth
+796,61,Caucasian,Truth
+797,44,Caucasian,Truth
+798,89,Caucasian,Truth
+799,50,Caucasian,Truth
+800,68,Caucasian,Truth
+801,68,Caucasian,Truth
+802,80,African American,Truth
+803,70,African American,Truth
+804,56,Caucasian,Truth
+805,47,Caucasian,Truth
+806,89,Caucasian,Truth
+807,75,Caucasian,Truth
+808,76,Caucasian,Truth
+809,78,African American,Truth
+810,78,Caucasian,Truth
+811,78,Caucasian,Truth
+812,75,Caucasian,Truth
+813,78,Caucasian,Truth
+814,78,Caucasian,Truth
+815,76,Caucasian,Truth
+816,76,Caucasian,Truth
+817,76,Caucasian,Truth
+818,76,Caucasian,Truth
+819,78,Caucasian,Truth
+820,78,Caucasian,Truth
+821,79,Caucasian,Truth
+822,77,Caucasian,Truth
+823,77,Caucasian,Truth
+824,76,Caucasian,Truth
+825,76,Caucasian,Truth
+826,76,Caucasian,Truth
+827,89,Caucasian,Truth
+828,78,Caucasian,Truth
+829,79,Caucasian,Truth
+830,77,Caucasian,Truth
+831,76,Caucasian,Truth
+832,78,Caucasian,Truth
+833,89,Caucasian,Truth
+834,77,Caucasian,Truth
+835,78,Caucasian,Truth
+836,76,Caucasian,Truth
+837,89,Caucasian,Truth
+838,77,Caucasian,Truth
+839,78,Caucasian,Truth
+840,78,Caucasian,Truth
+841,78,Caucasian,Truth
+842,77,Caucasian,Truth
+843,78,Caucasian,Truth
+844,77,Caucasian,Truth
+845,76,Caucasian,Truth
+846,77,Caucasian,Truth
+847,77,Caucasian,Truth
+848,77,Caucasian,Truth
+849,78,Caucasian,Truth
+850,78,Caucasian,Truth
+851,79,Caucasian,Truth
+852,75,Caucasian,Truth
+853,78,Caucasian,Truth
+854,89,Caucasian,Truth
+855,74,Caucasian,Truth
+856,79,Caucasian,Truth
+857,75,Caucasian,Truth
+858,77,Caucasian,Truth
+859,77,Caucasian,Truth
+860,76,Caucasian,Truth
+861,89,Caucasian,Truth
+862,78,Caucasian,Truth
+863,78,Caucasian,Truth
+864,79,Caucasian,Truth
+865,74,Caucasian,Truth
+866,78,Caucasian,Truth
+867,78,Caucasian,Truth
+868,78,Caucasian,Truth
+869,79,Caucasian,Truth
+870,79,Caucasian,Truth
+871,79,Caucasian,Truth
+872,78,Caucasian,Truth
+873,89,Caucasian,Truth
+874,89,Caucasian,Truth
+875,89,Caucasian,Truth
+876,77,Caucasian,Truth
+877,76,Caucasian,Truth
+878,78,Caucasian,Truth
+879,78,Caucasian,Truth
+880,79,Caucasian,Truth
+881,76,Caucasian,Truth
+882,77,Caucasian,Truth
+883,77,Caucasian,Truth
+884,77,Caucasian,Truth
+885,76,Caucasian,Truth
+886,77,Caucasian,Truth
+887,75,Caucasian,Truth
+888,78,Caucasian,Truth
+889,78,Caucasian,Truth
+890,78,Caucasian,Truth
+891,77,Caucasian,Truth
+892,78,Caucasian,Truth
+893,78,Caucasian,Truth
+894,77,Caucasian,Truth
+895,78,Caucasian,Truth
+896,77,Caucasian,Truth
+897,79,Caucasian,Truth
+898,76,Caucasian,Truth
+899,77,Caucasian,Truth
+900,34,Caucasian,Truth
+901,86,Caucasian,Truth
+902,76,Caucasian,Truth
+903,80,Caucasian,Truth
+904,77,Caucasian,Truth
+905,89,Caucasian,Truth
+906,82,Caucasian,Truth
+907,82,Caucasian,Truth
+908,46,Caucasian,Truth
+909,76,Caucasian,Truth
+910,76,Caucasian,Truth
+911,49,Caucasian,Truth
+912,79,African American,Truth
+913,83,Caucasian,Truth
+914,63,Caucasian,Truth
+915,78,Caucasian,Truth
+916,89,Caucasian,Truth
+917,89,Caucasian,Truth
+918,49,Caucasian,Truth
+919,61,Caucasian,Truth
+920,39,African American,Truth
+921,60,Caucasian,Truth
+922,66,Caucasian,Truth
+923,88,Caucasian,Truth
+924,88,Caucasian,Truth
+925,55,Caucasian,Truth
+926,55,Caucasian,Truth
+927,74,Caucasian,Truth
+928,39,African American,Truth
+929,83,Caucasian,Truth
+930,89,Caucasian,Truth
+931,66,Caucasian,Truth
+932,29,Caucasian,Truth
+933,75,Caucasian,Truth
+934,36,Caucasian,Truth
+935,79,African American,Truth
+936,77,Caucasian,Truth
+937,51,Caucasian,Truth
+938,56,Caucasian,Truth
+939,59,African American,Truth
+940,77,Caucasian,Truth
+941,34,Caucasian,Truth
+942,85,Caucasian,Truth
+943,81,Caucasian,Truth
+944,81,Caucasian,Truth
+945,59,Caucasian,Truth
+946,37,Caucasian,Truth
+947,71,Caucasian,Truth
+948,76,Caucasian,Truth
+949,56,Caucasian,Truth
+950,71,Caucasian,Truth
+951,88,Caucasian,Truth
+952,71,African American,Truth
+953,71,African American,Truth
+954,89,Caucasian,Truth
+955,59,Caucasian,Truth
+956,71,Caucasian,Truth
+957,37,Caucasian,Truth
+958,68,Caucasian,Truth
+959,30,African American,Truth
+960,64,Caucasian,Truth
+961,48,Caucasian,Truth
+962,66,Native American,Truth
+963,68,Caucasian,Truth
+964,77,Caucasian,Truth
+965,67,Caucasian,Truth
+966,73,African American,Truth
+967,71,Caucasian,Truth
+968,30,African American,Truth
+969,65,Caucasian,Truth
+970,58,Caucasian,Truth
+971,72,African American,Truth
+972,77,Caucasian,Truth
+973,60,Caucasian,Truth
+974,30,African American,Truth
+975,89,Caucasian,Truth
+976,77,Caucasian,Truth
+977,31,Caucasian,Truth
+978,72,African American,Truth
+979,67,African American,Truth
+980,58,Caucasian,Truth
+981,59,Caucasian,Truth
+982,66,Native American,Truth
+983,46,African American,Truth
+984,72,African American,Truth
+985,73,Caucasian,Truth
+986,73,Caucasian,Truth
+987,55,Caucasian,Truth
+988,72,African American,Truth
+989,89,Caucasian,Truth
+990,75,Caucasian,Truth
+991,63,Caucasian,Truth
+992,53,African American,Truth
+993,89,Caucasian,Truth
+994,74,Caucasian,Truth
+995,78,Caucasian,Truth
+996,84,Caucasian,Truth
+997,79,Caucasian,Truth
+998,89,Caucasian,Truth
+999,38,Caucasian,Truth
+1000,74,Caucasian,Truth
+1001,21,Caucasian,Truth
+1002,59,Caucasian,Truth
+1003,82,Caucasian,Truth
+1004,23,Caucasian,Truth
+1005,83,Caucasian,Truth
+1006,79,Caucasian,Truth
+1007,86,Caucasian,Truth
+1008,36,Caucasian,Truth
+1009,31,Caucasian,Truth
+1010,74,African American,Truth
+1011,27,African American,Truth
+1012,15,Caucasian,Truth
+1013,87,Caucasian,Truth
+1014,30,African American,Truth
+1015,35,Caucasian,Truth
+1016,66,African American,Truth
+1017,66,African American,Truth
+1018,50,African American,Truth
+1019,24,Caucasian,Truth
+1020,26,African American,Truth
+1021,26,African American,Truth
+1022,71,Caucasian,Truth
+1023,19,African American,Truth
+1024,78,Caucasian,Truth
+1025,60,Caucasian,Truth
+1026,22,African American,Truth
+1027,73,Caucasian,Truth
+1028,54,African American,Truth
+1029,31,Caucasian,Truth
+1030,24,Caucasian,Truth
+1031,26,African American,Truth
+1032,31,Caucasian,Truth
+1033,77,Caucasian,Truth
+1034,77,Caucasian,Truth
+1035,84,Caucasian,Truth
+1036,56,African American,Truth
+1037,71,Caucasian,Truth
+1038,30,Caucasian,Truth
+1039,72,Caucasian,Truth
+1040,77,Caucasian,Truth
+1041,25,African American,Truth
+1042,57,Caucasian,Truth
+1043,29,Caucasian,Truth
+1044,19,Caucasian,Truth
+1045,34,Caucasian,Truth
+1046,26,African American,Truth
+1047,56,African American,Truth
+1048,77,Caucasian,Truth
+1049,76,Caucasian,Truth
+1050,27,African American,Truth
+1051,26,African American,Truth
+1052,19,African American,Truth
+1053,62,African American,Truth
+1054,26,African American,Truth
+1055,21,African American,Truth
+1056,26,African American,Truth
+1057,80,Caucasian,Truth
+1058,25,African American,Truth
+1059,30,Caucasian,Truth
+1060,33,Caucasian,Truth
+1061,36,Caucasian,Truth
+1062,76,Caucasian,Truth
+1063,51,Caucasian,Truth
+1064,51,Caucasian,Truth
+1065,36,Caucasian,Truth
+1066,69,Caucasian,Truth
+1067,86,Caucasian,Truth
+1068,37,Caucasian,Truth
+1069,84,Caucasian,Truth
+1070,64,Caucasian,Truth
+1071,39,Caucasian,Truth
+1072,56,Caucasian,Truth
+1073,82,Caucasian,Truth
+1074,63,Caucasian,Truth
+1075,55,Caucasian,Truth
+1076,89,Caucasian,Truth
+1077,65,African American,Truth
+1078,58,Caucasian,Truth
+1079,18,Caucasian,Truth
+1080,53,Caucasian,Truth
+1081,28,Caucasian,Truth
+1082,83,Caucasian,Truth
+1083,84,Caucasian,Truth
+1084,52,Caucasian,Truth
+1085,78,Caucasian,Truth
+1086,89,Caucasian,Truth
+1087,72,Caucasian,Truth
+1088,86,Caucasian,Truth
+1089,66,Caucasian,Truth
+1090,73,Caucasian,Truth
+1091,89,Caucasian,Truth
+1092,89,Caucasian,Truth
+1093,51,Caucasian,Truth
+1094,64,Caucasian,Truth
+1095,89,Caucasian,Truth
+1096,77,Caucasian,Truth
+1097,77,Caucasian,Truth
+1098,89,Caucasian,Truth
+1099,34,Caucasian,Truth
+1100,87,Caucasian,Truth
+1101,64,Caucasian,Truth
+1102,37,Caucasian,Truth
+1103,82,Caucasian,Truth
+1104,72,Caucasian,Truth
+1105,56,Caucasian,Truth
+1106,57,Caucasian,Truth
+1107,63,Caucasian,Truth
+1108,89,Caucasian,Truth
+1109,76,Caucasian,Truth
+1110,22,Caucasian,Truth
+1111,65,Caucasian,Truth
+1112,86,Caucasian,Truth
+1113,73,Caucasian,Truth
+1114,89,Caucasian,Truth
+1115,89,Caucasian,Truth
+1116,66,Caucasian,Truth
+1117,55,Caucasian,Truth
+1118,64,Caucasian,Truth
+1119,78,Caucasian,Truth
+1120,86,Caucasian,Truth
+1121,62,Caucasian,Truth
+1122,52,Caucasian,Truth
+1123,65,African American,Truth
+1124,36,Caucasian,Truth
+1125,64,African American,Truth
+1126,65,Caucasian,Truth
+1127,58,Caucasian,Truth
+1128,87,Caucasian,Truth
+1129,55,Caucasian,Truth
+1130,39,Caucasian,Truth
+1131,58,Caucasian,Truth
+1132,81,Caucasian,Truth
+1133,81,Caucasian,Truth
+1134,89,Caucasian,Truth
+1135,52,Caucasian,Truth
+1136,45,Caucasian,Truth
+1137,56,Caucasian,Truth
+1138,47,Caucasian,Truth
+1139,72,Caucasian,Truth
+1140,52,Caucasian,Truth
+1141,73,Caucasian,Truth
+1142,42,Caucasian,Truth
+1143,53,Caucasian,Truth
+1144,58,Caucasian,Truth
+1145,56,Caucasian,Truth
+1146,43,Caucasian,Truth
+1147,51,Caucasian,Truth
+1148,38,Caucasian,Truth
+1149,57,Caucasian,Truth
+1150,40,African American,Truth
+1151,43,Caucasian,Truth
+1152,41,Caucasian,Truth
+1153,46,Caucasian,Truth
+1154,41,Caucasian,Truth
+1155,55,Caucasian,Truth
+1156,85,Caucasian,Truth
+1157,52,Caucasian,Truth
+1158,61,Caucasian,Truth
+1159,68,Caucasian,Truth
+1160,64,Caucasian,Truth
+1161,38,African American,Truth
+1162,50,African American,Truth
+1163,62,African American,Truth
+1164,67,Caucasian,Truth
+1165,64,Caucasian,Truth
+1166,59,Caucasian,Truth
+1167,85,Caucasian,Truth
+1168,53,Caucasian,Truth
+1169,52,African American,Truth
+1170,75,Caucasian,Truth
+1171,61,Caucasian,Truth
+1172,74,Caucasian,Truth
+1173,62,Caucasian,Truth
+1174,75,Caucasian,Truth
+1175,87,Caucasian,Truth
+1176,66,Caucasian,Truth
+1177,54,Caucasian,Truth
+1178,67,Caucasian,Truth
+1179,47,Caucasian,Truth
+1180,59,Caucasian,Truth
+1181,64,Caucasian,Truth
+1182,49,Caucasian,Truth
+1183,81,Caucasian,Truth
+1184,89,Caucasian,Truth
+1185,37,Caucasian,Truth
+1186,75,Caucasian,Truth
+1187,43,Caucasian,Truth
+1188,89,Caucasian,Truth
+1189,67,Caucasian,Truth
+1190,79,Caucasian,Truth
+1191,48,Caucasian,Truth
+1192,79,Caucasian,Truth
+1193,56,Caucasian,Truth
+1194,35,Caucasian,Truth
+1195,72,Caucasian,Truth
+1196,72,Caucasian,Truth
+1197,51,Caucasian,Truth
+1198,78,Caucasian,Truth
+1199,78,Caucasian,Truth
+1200,52,Caucasian,Truth
+1201,89,Caucasian,Truth
+1202,54,Caucasian,Truth
+1203,89,Caucasian,Truth
+1204,53,African American,Truth
+1205,72,Caucasian,Truth
+1206,55,African American,Truth
+1207,21,Caucasian,Truth
+1208,60,Caucasian,Truth
+1209,60,Caucasian,Truth
+1210,55,Caucasian,Truth
+1211,68,Caucasian,Truth
+1212,62,Caucasian,Truth
+1213,38,Caucasian,Truth
+1214,64,Caucasian,Truth
+1215,56,African American,Truth
+1216,62,Caucasian,Truth
+1217,72,Caucasian,Truth
+1218,63,African American,Truth
+1219,48,Caucasian,Truth
+1220,64,Caucasian,Truth
+1221,52,Caucasian,Truth
+1222,68,Caucasian,Truth
+1223,34,Caucasian,Truth
+1224,21,Caucasian,Truth
+1225,66,Caucasian,Truth
+1226,24,Caucasian,Truth
+1227,36,Caucasian,Truth
+1228,65,Caucasian,Truth
+1229,56,Caucasian,Truth
+1230,47,Caucasian,Truth
+1231,84,Caucasian,Truth
+1232,49,Caucasian,Truth
+1233,67,African American,Truth
+1234,57,African American,Truth
+1235,63,Caucasian,Truth
+1236,38,African American,Truth
+1237,52,Caucasian,Truth
+1238,75,Caucasian,Truth
+1239,49,African American,Truth
+1240,71,Caucasian,Truth
+1241,69,African American,Truth
+1242,75,Caucasian,Truth
+1243,70,Caucasian,Truth
+1244,50,Caucasian,Truth
+1245,74,Caucasian,Truth
+1246,80,Caucasian,Truth
+1247,75,Caucasian,Truth
+1248,54,Caucasian,Truth
+1249,79,Caucasian,Truth
+1250,79,Caucasian,Truth
+1251,60,Caucasian,Truth
+1252,55,African American,Truth
+1253,75,Caucasian,Truth
+1254,67,Caucasian,Truth
+1255,67,Caucasian,Truth
+1256,68,Caucasian,Truth
+1257,31,Caucasian,Truth
+1258,59,Caucasian,Truth
+1259,89,Caucasian,Truth
+1260,62,Caucasian,Truth
+1261,67,Caucasian,Truth
+1262,67,Caucasian,Truth
+1263,89,Caucasian,Truth
+1264,61,Caucasian,Truth
+1265,49,Caucasian,Truth
+1266,89,Caucasian,Truth
+1267,87,Caucasian,Truth
+1268,87,Caucasian,Truth
+1269,83,Caucasian,Truth
+1270,82,Caucasian,Truth
+1271,62,Caucasian,Truth
+1272,55,Caucasian,Truth
+1273,22,Caucasian,Truth
+1274,69,Caucasian,Truth
+1275,89,Caucasian,Truth
+1276,79,Caucasian,Truth
+1277,89,Caucasian,Truth
+1278,76,Caucasian,Truth
+1279,68,African American,Truth
+1280,89,Caucasian,Truth
+1281,72,African American,Truth
+1282,87,Caucasian,Truth
+1283,75,Caucasian,Truth
+1284,70,Caucasian,Truth
+1285,81,Caucasian,Truth
+1286,63,Caucasian,Truth
+1287,70,Caucasian,Truth
+1288,60,Caucasian,Truth
+1289,59,Caucasian,Truth
+1290,48,Caucasian,Truth
+1291,64,African American,Truth
+1292,67,Caucasian,Truth
+1293,56,African American,Truth
+1294,31,Caucasian,Truth
+1295,68,African American,Truth
+1296,67,Caucasian,Truth
+1297,67,Caucasian,Truth
+1298,45,Caucasian,Truth
+1299,77,Caucasian,Truth
+1300,87,Caucasian,Truth
+1301,53,Caucasian,Truth
+1302,74,Caucasian,Truth
+1303,61,Caucasian,Truth
+1304,63,Caucasian,Truth
+1305,63,Caucasian,Truth
+1306,55,Caucasian,Truth
+1307,55,African American,Truth
+1308,83,Caucasian,Truth
+1309,52,African American,Truth
+1310,85,Caucasian,Truth
+1311,85,Caucasian,Truth
+1312,69,African American,Truth
+1313,57,Caucasian,Truth
+1314,66,Caucasian,Truth
+1315,55,African American,Truth
+1316,69,Caucasian,Truth
+1317,85,Caucasian,Truth
+1318,84,Caucasian,Truth
+1319,74,Caucasian,Truth
+1320,53,Caucasian,Truth
+1321,51,African American,Truth
+1322,49,Caucasian,Truth
+1323,67,Caucasian,Truth
+1324,68,Caucasian,Truth
+1325,68,Caucasian,Truth
+1326,68,Caucasian,Truth
+1327,74,Caucasian,Truth
+1328,47,Caucasian,Truth
+1329,52,Caucasian,Truth
+1330,72,Caucasian,Truth
+1331,56,Caucasian,Truth
+1332,64,African American,Truth
+1333,80,Caucasian,Truth
+1334,36,Caucasian,Truth
+1335,85,Caucasian,Truth
+1336,61,African American,Truth
+1337,53,Caucasian,Truth
+1338,56,Caucasian,Truth
+1339,65,Caucasian,Truth
+1340,60,Caucasian,Truth
+1341,52,African American,Truth
+1342,76,Caucasian,Truth
+1343,60,Caucasian,Truth
+1344,71,African American,Truth
+1345,52,Caucasian,Truth
+1346,59,Caucasian,Truth
+1347,67,Caucasian,Truth
+1348,67,Caucasian,Truth
+1349,70,Caucasian,Truth
+1350,71,Caucasian,Truth
+1351,87,Caucasian,Truth
+1352,87,Caucasian,Truth
+1353,67,Caucasian,Truth
+1354,62,African American,Truth
+1355,63,Caucasian,Truth
+1356,58,African American,Truth
+1357,74,Caucasian,Truth
+1358,51,Caucasian,Truth
+1359,85,Caucasian,Truth
+1360,75,African American,Truth
+1361,81,Caucasian,Truth
+1362,71,Caucasian,Truth
+1363,68,Caucasian,Truth
+1364,67,African American,Truth
+1365,55,African American,Truth
+1366,68,Caucasian,Truth
+1367,68,Caucasian,Truth
+1368,55,African American,Truth
+1369,55,African American,Truth
+1370,65,Caucasian,Truth
+1371,47,Caucasian,Truth
+1372,53,Caucasian,Truth
+1373,41,Caucasian,Truth
+1374,64,Caucasian,Truth
+1375,29,Caucasian,Truth
+1376,23,African American,Truth
+1377,73,African American,Truth
+1378,53,Caucasian,Truth
+1379,63,Caucasian,Truth
+1380,50,Caucasian,Truth
+1381,37,Caucasian,Truth
+1382,50,Caucasian,Truth
+1383,42,Caucasian,Truth
+1384,73,Caucasian,Truth
+1385,67,Caucasian,Truth
+1386,62,Caucasian,Truth
+1387,78,Caucasian,Truth
+1388,78,Caucasian,Truth
+1389,71,African American,Truth
+1390,71,African American,Truth
+1391,76,Caucasian,Truth
+1392,42,Caucasian,Truth
+1393,62,Caucasian,Truth
+1394,67,Caucasian,Truth
+1395,54,Caucasian,Truth
+1396,49,Caucasian,Truth
+1397,56,Caucasian,Truth
+1398,56,Caucasian,Truth
+1399,56,Caucasian,Truth
+1400,70,Caucasian,Truth
+1401,70,Caucasian,Truth
+1402,26,Caucasian,Truth
+1403,67,Caucasian,Truth
+1404,43,African American,Truth
+1405,75,African American,Truth
+1406,76,Caucasian,Truth
+1407,33,Caucasian,Truth
+1408,85,Caucasian,Truth
+1409,84,Caucasian,Truth
+1410,54,Caucasian,Truth
+1411,40,Native American,Truth
+1412,74,Caucasian,Truth
+1413,77,Caucasian,Truth
+1414,79,Caucasian,Truth
+1415,38,African American,Truth
+1416,67,Caucasian,Truth
+1417,71,African American,Truth
+1418,57,Caucasian,Truth
+1419,47,Caucasian,Truth
+1420,53,Caucasian,Truth
+1421,74,African American,Truth
+1422,71,Caucasian,Truth
+1423,71,Caucasian,Truth
+1424,70,Caucasian,Truth
+1425,70,Caucasian,Truth
+1426,70,Caucasian,Truth
+1427,18,Caucasian,Truth
+1428,86,Caucasian,Truth
+1429,70,African American,Truth
+1430,69,Caucasian,Truth
+1431,83,Caucasian,Truth
+1432,83,Caucasian,Truth
+1433,83,Caucasian,Truth
+1434,68,Caucasian,Truth
+1435,73,Caucasian,Truth
+1436,62,Caucasian,Truth
+1437,71,African American,Truth
+1438,72,Caucasian,Truth
+1439,59,Caucasian,Truth
+1440,62,Caucasian,Truth
+1441,62,Caucasian,Truth
+1442,62,Caucasian,Truth
+1443,62,Caucasian,Truth
+1444,63,Caucasian,Truth
+1445,83,Caucasian,Truth
+1446,83,Caucasian,Truth
+1447,51,African American,Truth
+1448,38,African American,Truth
+1449,53,Caucasian,Truth
+1450,41,Caucasian,Truth
+1451,81,Caucasian,Truth
+1452,53,Caucasian,Truth
+1453,40,Native American,Truth
+1454,43,Caucasian,Truth
+1455,51,Caucasian,Truth
+1456,70,Caucasian,Truth
+1457,69,Caucasian,Truth
+1458,80,Caucasian,Truth
+1459,27,Caucasian,Truth
+1460,63,Caucasian,Truth
+1461,63,Caucasian,Truth
+1462,73,Caucasian,Truth
+1463,73,Caucasian,Truth
+1464,50,Caucasian,Truth
+1465,57,Caucasian,Truth
+1466,68,Caucasian,Truth
+1467,65,Caucasian,Truth
+1468,88,Caucasian,Truth
+1469,72,Caucasian,Truth
+1470,76,Caucasian,Truth
+1471,60,Caucasian,Truth
+1472,64,Caucasian,Truth
+1473,79,Caucasian,Truth
+1474,64,Caucasian,Truth
+1475,74,Caucasian,Truth
+1476,60,Caucasian,Truth
+1477,68,Caucasian,Truth
+1478,61,Caucasian,Truth
+1479,76,Caucasian,Truth
+1480,22,Caucasian,Truth
+1481,60,Caucasian,Truth
+1482,77,Caucasian,Truth
+1483,61,Caucasian,Truth
+1484,51,Caucasian,Truth
+1485,76,Caucasian,Truth
+1486,89,Caucasian,Truth
+1487,61,Caucasian,Truth
+1488,69,Caucasian,Truth
+1489,74,Caucasian,Truth
+1490,75,Caucasian,Truth
+1491,74,Caucasian,Truth
+1492,74,Caucasian,Truth
+1493,74,Caucasian,Truth
+1494,55,Caucasian,Truth
+1495,62,Caucasian,Truth
+1496,82,Caucasian,Truth
+1497,48,Caucasian,Truth
+1498,53,Caucasian,Truth
+1499,50,Caucasian,Truth
+1500,68,Caucasian,Truth
+1501,71,Caucasian,Truth
+1502,69,Caucasian,Truth
+1503,71,Caucasian,Truth
+1504,75,Caucasian,Truth
+1505,89,Caucasian,Truth
+1506,41,Caucasian,Truth
+1507,59,Caucasian,Truth
+1508,54,Caucasian,Truth
+1509,54,Caucasian,Truth
+1510,80,Caucasian,Truth
+1511,80,Caucasian,Truth
+1512,50,Caucasian,Truth
+1513,64,Caucasian,Truth
+1514,67,Caucasian,Truth
+1515,55,Caucasian,Truth
+1516,22,Caucasian,Truth
+1517,65,Caucasian,Truth
+1518,22,Caucasian,Truth
+1519,65,Caucasian,Truth
+1520,43,Caucasian,Truth
+1521,63,Caucasian,Truth
+1522,89,Caucasian,Truth
+1523,73,Caucasian,Truth
+1524,27,Caucasian,Truth
+1525,88,Caucasian,Truth
+1526,64,Caucasian,Truth
+1527,70,Caucasian,Truth
+1528,82,Caucasian,Truth
+1529,79,Caucasian,Truth
+1530,70,Caucasian,Truth
+1531,70,Caucasian,Truth
+1532,63,Caucasian,Truth
+1533,63,Caucasian,Truth
+1534,70,Caucasian,Truth
+1535,70,Caucasian,Truth
+1536,66,Caucasian,Truth
+1537,66,Caucasian,Truth
+1538,52,Caucasian,Truth
+1539,64,Caucasian,Truth
+1540,54,Caucasian,Truth
+1541,67,Caucasian,Truth
+1542,65,Caucasian,Truth
+1543,18,Caucasian,Truth
+1544,71,Caucasian,Truth
+1545,72,Caucasian,Truth
+1546,71,Caucasian,Truth
+1547,80,Caucasian,Truth
+1548,45,Caucasian,Truth
+1549,73,Caucasian,Truth
+1550,54,Caucasian,Truth
+1551,35,Caucasian,Truth
+1552,56,African American,Truth
+1553,47,Caucasian,Truth
+1554,52,Caucasian,Truth
+1555,71,Caucasian,Truth
+1556,64,Caucasian,Truth
+1557,53,Caucasian,Truth
+1558,84,Caucasian,Truth
+1559,84,Caucasian,Truth
+1560,87,Caucasian,Truth
+1561,64,Caucasian,Truth
+1562,51,African American,Truth
+1563,51,African American,Truth
+1564,66,Caucasian,Truth
+1565,68,Caucasian,Truth
+1566,80,Caucasian,Truth
+1567,78,Caucasian,Truth
+1568,60,Caucasian,Truth
+1569,88,Caucasian,Truth
+1570,71,Caucasian,Truth
+1571,80,Caucasian,Truth
+1572,57,Caucasian,Truth
+1573,74,Caucasian,Truth
+1574,86,Caucasian,Truth
+1575,32,Caucasian,Truth
+1576,53,Caucasian,Truth
+1577,88,Caucasian,Truth
+1578,82,Caucasian,Truth
+1579,40,Caucasian,Truth
+1580,57,Caucasian,Truth
+1581,75,Caucasian,Truth
+1582,82,Caucasian,Truth
+1583,66,Caucasian,Truth
+1584,56,Caucasian,Truth
+1585,51,Caucasian,Truth
+1586,85,Caucasian,Truth
+1587,63,Caucasian,Truth
+1588,73,Caucasian,Truth
+1589,62,Caucasian,Truth
+1590,60,Caucasian,Truth
+1591,80,African American,Truth
+1592,58,Caucasian,Truth
+1593,89,Caucasian,Truth
+1594,18,Caucasian,Truth
+1595,67,Caucasian,Truth
+1596,67,Caucasian,Truth
+1597,84,Caucasian,Truth
+1598,84,Caucasian,Truth
+1599,74,Caucasian,Truth
+1600,57,Caucasian,Truth
+1601,89,Caucasian,Truth
+1602,19,Caucasian,Truth
+1603,77,Caucasian,Truth
+1604,67,Caucasian,Truth
+1605,80,Caucasian,Truth
+1606,37,Caucasian,Truth
+1607,19,African American,Truth
+1608,79,Caucasian,Truth
+1609,83,Caucasian,Truth
+1610,64,Caucasian,Truth
+1611,84,Caucasian,Truth
+1612,52,Caucasian,Truth
+1613,75,Caucasian,Truth
+1614,34,Caucasian,Truth
+1615,65,Caucasian,Truth
+1616,82,Caucasian,Truth
+1617,57,Caucasian,Truth
+1618,29,Caucasian,Truth
+1619,89,Caucasian,Truth
+1620,79,Caucasian,Truth
+1621,89,Caucasian,Truth
+1622,75,Caucasian,Truth
+1623,74,Caucasian,Truth
+1624,56,Caucasian,Truth
+1625,54,Caucasian,Truth
+1626,40,Caucasian,Truth
+1627,40,Caucasian,Truth
+1628,37,Caucasian,Truth
+1629,35,Caucasian,Truth
+1630,22,Caucasian,Truth
+1631,74,Caucasian,Truth
+1632,58,Caucasian,Truth
+1633,64,Caucasian,Truth
+1634,74,Caucasian,Truth
+1635,74,Caucasian,Truth
+1636,51,Caucasian,Truth
+1637,89,Caucasian,Truth
+1638,81,Caucasian,Truth
+1639,62,Caucasian,Truth
+1640,79,Caucasian,Truth
+1641,71,Caucasian,Truth
+1642,89,Caucasian,Truth
+1643,52,Caucasian,Truth
+1644,45,Caucasian,Truth
+1645,84,Caucasian,Truth
+1646,57,Caucasian,Truth
+1647,89,Caucasian,Truth
+1648,56,Caucasian,Truth
+1649,56,Caucasian,Truth
+1650,58,Caucasian,Truth
+1651,35,Caucasian,Truth
+1652,89,Caucasian,Truth
+1653,82,African American,Truth
+1654,82,African American,Truth
+1655,84,Caucasian,Truth
+1656,84,Caucasian,Truth
+1657,84,Caucasian,Truth
+1658,72,Caucasian,Truth
+1659,67,Caucasian,Truth
+1660,86,Caucasian,Truth
+1661,71,Caucasian,Truth
+1662,55,Caucasian,Truth
+1663,53,Caucasian,Truth
+1664,76,Caucasian,Truth
+1665,62,Caucasian,Truth
+1666,66,Caucasian,Truth
+1667,84,Caucasian,Truth
+1668,84,Caucasian,Truth
+1669,36,Caucasian,Truth
+1670,34,Caucasian,Truth
+1671,38,Caucasian,Truth
+1672,65,Caucasian,Truth
+1673,75,Caucasian,Truth
+1674,76,Caucasian,Truth
+1675,73,Caucasian,Truth
+1676,77,Caucasian,Truth
+1677,60,Caucasian,Truth
+1678,86,Caucasian,Truth
+1679,32,Caucasian,Truth
+1680,59,Caucasian,Truth
+1681,59,Caucasian,Truth
+1682,59,Caucasian,Truth
+1683,59,Caucasian,Truth
+1684,19,Caucasian,Truth
+1685,72,Caucasian,Truth
+1686,70,Caucasian,Truth
+1687,77,Caucasian,Truth
+1688,27,Caucasian,Truth
+1689,89,Caucasian,Truth
+1690,75,Caucasian,Truth
+1691,65,Caucasian,Truth
+1692,48,Caucasian,Truth
+1693,35,Caucasian,Truth
+1694,55,Caucasian,Truth
+1695,42,Caucasian,Truth
+1696,69,Caucasian,Truth
+1697,64,Caucasian,Truth
+1698,69,Caucasian,Truth
+1699,49,Caucasian,Truth
+1700,49,Caucasian,Truth
+1701,44,African American,Truth
+1702,76,Caucasian,Truth
+1703,25,Caucasian,Truth
+1704,85,Caucasian,Truth
+1705,85,Caucasian,Truth
+1706,89,Caucasian,Truth
+1707,75,Caucasian,Truth
+1708,68,Caucasian,Truth
+1709,89,Caucasian,Truth
+1710,58,Caucasian,Truth
+1711,32,Caucasian,Truth
+1712,59,Caucasian,Truth
+1713,36,Caucasian,Truth
+1714,84,Caucasian,Truth
+1715,80,Caucasian,Truth
+1716,70,Caucasian,Truth
+1717,44,Caucasian,Truth
+1718,18,Caucasian,Truth
+1719,62,Caucasian,Truth
+1720,40,Caucasian,Truth
+1721,68,Caucasian,Truth
+1722,76,Caucasian,Truth
+1723,60,Caucasian,Truth
+1724,83,Caucasian,Truth
+1725,72,Caucasian,Truth
+1726,87,Caucasian,Truth
+1727,54,Caucasian,Truth
+1728,51,Caucasian,Truth
+1729,76,Caucasian,Truth
+1730,87,Caucasian,Truth
+1731,71,Caucasian,Truth
+1732,72,Caucasian,Truth
+1733,75,Caucasian,Truth
+1734,73,Caucasian,Truth
+1735,83,Caucasian,Truth
+1736,84,Caucasian,Truth
+1737,84,Caucasian,Truth
+1738,52,Caucasian,Truth
+1739,67,Caucasian,Truth
+1740,65,Caucasian,Truth
+1741,19,Caucasian,Truth
+1742,55,Caucasian,Truth
+1743,28,Caucasian,Truth
+1744,66,Caucasian,Truth
+1745,69,Caucasian,Truth
+1746,58,Caucasian,Truth
+1747,89,Caucasian,Truth
+1748,52,Caucasian,Truth
+1749,74,Caucasian,Truth
+1750,66,Caucasian,Truth
+1751,36,Caucasian,Truth
+1752,53,Caucasian,Truth
+1753,81,Caucasian,Truth
+1754,60,Caucasian,Truth
+1755,70,Caucasian,Truth
+1756,75,Caucasian,Truth
+1757,81,Caucasian,Truth
+1758,70,Caucasian,Truth
+1759,52,Caucasian,Truth
+1760,72,Caucasian,Truth
+1761,82,Caucasian,Truth
+1762,56,Caucasian,Truth
+1763,69,Caucasian,Truth
+1764,83,Caucasian,Truth
+1765,45,Caucasian,Truth
+1766,74,Caucasian,Truth
+1767,81,Caucasian,Truth
+1768,62,Caucasian,Truth
+1769,36,Caucasian,Truth
+1770,56,Caucasian,Truth
+1771,89,Caucasian,Truth
+1772,23,Caucasian,Truth
+1773,46,Caucasian,Truth
+1774,70,Caucasian,Truth
+1775,62,Caucasian,Truth
+1776,75,Caucasian,Truth
+1777,28,Caucasian,Truth
+1778,60,Caucasian,Truth
+1779,39,Caucasian,Truth
+1780,39,Caucasian,Truth
+1781,39,Caucasian,Truth
+1782,89,Caucasian,Truth
+1783,89,Caucasian,Truth
+1784,54,Caucasian,Truth
+1785,88,Native American,Truth
+1786,75,Caucasian,Truth
+1787,55,Caucasian,Truth
+1788,55,Caucasian,Truth
+1789,83,Caucasian,Truth
+1790,85,Caucasian,Truth
+1791,85,Caucasian,Truth
+1792,73,Caucasian,Truth
+1793,78,Caucasian,Truth
+1794,66,Caucasian,Truth
+1795,89,Caucasian,Truth
+1796,68,Caucasian,Truth
+1797,32,Caucasian,Truth
+1798,74,Caucasian,Truth
+1799,47,Caucasian,Truth
+1800,33,African American,Truth
+1801,84,Caucasian,Truth
+1802,82,Caucasian,Truth
+1803,82,Caucasian,Truth
+1804,57,Caucasian,Truth
+1805,89,Caucasian,Truth
+1806,30,Caucasian,Truth
+1807,83,Caucasian,Truth
+1808,89,Caucasian,Truth
+1809,66,Caucasian,Truth
+1810,28,Caucasian,Truth
+1811,67,Caucasian,Truth
+1812,89,Caucasian,Truth
+1813,64,Caucasian,Truth
+1814,56,Caucasian,Truth
+1815,37,Caucasian,Truth
+1816,37,Caucasian,Truth
+1817,68,Caucasian,Truth
+1818,64,Caucasian,Truth
+1819,64,Caucasian,Truth
+1820,53,Caucasian,Truth
+1821,68,Caucasian,Truth
+1822,79,Caucasian,Truth
+1823,24,Caucasian,Truth
+1824,62,Caucasian,Truth
+1825,69,Caucasian,Truth
+1826,35,Caucasian,Truth
+1827,73,Caucasian,Truth
+1828,65,Caucasian,Truth
+1829,67,Caucasian,Truth
+1830,51,Caucasian,Truth
+1831,48,Caucasian,Truth
+1832,68,Caucasian,Truth
+1833,30,African American,Truth
+1834,77,Caucasian,Truth
+1835,58,Caucasian,Truth
+1836,31,Caucasian,Truth
+1837,57,Caucasian,Truth
+1838,83,Caucasian,Truth
+1839,83,Caucasian,Truth
+1840,83,Caucasian,Truth
+1841,57,Caucasian,Truth
+1842,60,Caucasian,Truth
+1843,84,Caucasian,Truth
+1844,59,Caucasian,Truth
+1845,74,Caucasian,Truth
+1846,68,Caucasian,Truth
+1847,51,Caucasian,Truth
+1848,54,African American,Truth
+1849,89,Caucasian,Truth
+1850,23,Caucasian,Truth
+1851,79,Caucasian,Truth
+1852,83,Caucasian,Truth
+1853,65,Caucasian,Truth
+1854,69,Caucasian,Truth
+1855,75,Caucasian,Truth
+1856,28,Caucasian,Truth
+1857,48,Caucasian,Truth
+1858,83,Caucasian,Truth
+1859,75,Caucasian,Truth
+1860,68,Caucasian,Truth
+1861,56,Caucasian,Truth
+1862,36,Caucasian,Truth
+1863,72,Caucasian,Truth
+1864,20,Caucasian,Truth
+1865,22,Caucasian,Truth
+1866,34,Caucasian,Truth
+1867,79,Caucasian,Truth
+1868,55,Caucasian,Truth
+1869,50,Caucasian,Truth
+1870,68,Caucasian,Truth
+1871,63,Caucasian,Truth
+1872,63,Caucasian,Truth
+1873,66,Caucasian,Truth
+1874,87,Caucasian,Truth
+1875,69,Caucasian,Truth
+1876,73,Caucasian,Truth
+1877,82,Caucasian,Truth
+1878,68,Caucasian,Truth
+1879,37,Caucasian,Truth
+1880,45,Caucasian,Truth
+1881,77,Caucasian,Truth
+1882,22,Caucasian,Truth
+1883,80,Caucasian,Truth
+1884,33,Caucasian,Truth
+1885,65,Caucasian,Truth
+1886,66,Caucasian,Truth
+1887,69,Caucasian,Truth
+1888,69,Caucasian,Truth
+1889,68,Caucasian,Truth
+1890,84,Caucasian,Truth
+1891,55,Caucasian,Truth
+1892,47,Caucasian,Truth
+1893,46,Caucasian,Truth
+1894,81,Caucasian,Truth
+1895,44,Caucasian,Truth
+1896,53,Caucasian,Truth
+1897,55,Caucasian,Truth
+1898,80,Caucasian,Truth
+1899,80,Caucasian,Truth
+1900,80,Caucasian,Truth
+1901,69,Caucasian,Truth
+1902,88,Caucasian,Truth
+1903,67,Caucasian,Truth
+1904,79,Caucasian,Truth
+1905,85,Caucasian,Truth
+1906,83,Caucasian,Truth
+1907,65,Caucasian,Truth
+1908,33,Caucasian,Truth
+1909,74,Caucasian,Truth
+1910,45,Caucasian,Truth
+1911,86,Caucasian,Truth
+1912,86,Caucasian,Truth
+1913,86,Caucasian,Truth
+1914,62,African American,Truth
+1915,57,Caucasian,Truth
+1916,82,Caucasian,Truth
+1917,82,Caucasian,Truth
+1918,82,Caucasian,Truth
+1919,59,African American,Truth
+1920,57,Caucasian,Truth
+1921,67,Caucasian,Truth
+1922,82,Caucasian,Truth
+1923,72,Caucasian,Truth
+1924,66,Caucasian,Truth
+1925,89,Caucasian,Truth
+1926,65,Caucasian,Truth
+1927,70,Caucasian,Truth
+1928,69,African American,Truth
+1929,79,Caucasian,Truth
+1930,86,Caucasian,Truth
+1931,89,African American,Truth
+1932,78,Caucasian,Truth
+1933,55,Caucasian,Truth
+1934,65,Caucasian,Truth
+1935,83,Caucasian,Truth
+1936,85,Caucasian,Truth
+1937,74,Caucasian,Truth
+1938,74,Caucasian,Truth
+1939,67,Caucasian,Truth
+1940,89,Caucasian,Truth
+1941,52,Caucasian,Truth
+1942,75,Caucasian,Truth
+1943,75,African American,Truth
+1944,52,Caucasian,Truth
+1945,44,Caucasian,Truth
+1946,56,Caucasian,Truth
+1947,64,Caucasian,Truth
+1948,71,Caucasian,Truth
+1949,71,Caucasian,Truth
+1950,71,Caucasian,Truth
+1951,70,Caucasian,Truth
+1952,78,Caucasian,Truth
+1953,77,Caucasian,Truth
+1954,44,Caucasian,Truth
+1955,69,Caucasian,Truth
+1956,69,Caucasian,Truth
+1957,45,Caucasian,Truth
+1958,83,Caucasian,Truth
+1959,25,Caucasian,Truth
+1960,54,Caucasian,Truth
+1961,79,Caucasian,Truth
+1962,79,Caucasian,Truth
+1963,71,Caucasian,Truth
+1964,82,Caucasian,Truth
+1965,64,Caucasian,Truth
+1966,30,Caucasian,Truth
+1967,30,Caucasian,Truth
+1968,70,Caucasian,Truth
+1969,75,Caucasian,Truth
+1970,36,Caucasian,Truth
+1971,56,Caucasian,Truth
+1972,66,Caucasian,Truth
+1973,54,Caucasian,Truth
+1974,68,African American,Truth
+1975,63,Caucasian,Truth
+1976,83,Caucasian,Truth
+1977,86,Caucasian,Truth
+1978,89,Caucasian,Truth
+1979,74,Caucasian,Truth
+1980,46,Caucasian,Truth
+1981,72,Caucasian,Truth
+1982,51,Caucasian,Truth
+1983,78,Caucasian,Truth
+1984,41,African American,Truth
+1985,86,Caucasian,Truth
+1986,62,Caucasian,Truth
+1987,83,Caucasian,Truth
+1988,34,Caucasian,Truth
+1989,35,Caucasian,Truth
+1990,46,Caucasian,Truth
+1991,77,Caucasian,Truth
+1992,61,Caucasian,Truth
+1993,54,Caucasian,Truth
+1994,88,Caucasian,Truth
+1995,85,Caucasian,Truth
+1996,70,Caucasian,Truth
+1997,57,Caucasian,Truth
+1998,53,Caucasian,Truth
+1999,65,Caucasian,Truth
+2000,47,Caucasian,Truth
+2001,70,Caucasian,Truth
+2002,58,Caucasian,Truth
+2003,33,African American,Truth
+2004,73,Caucasian,Truth
+2005,73,Caucasian,Truth
+2006,56,Caucasian,Truth
+2007,69,Caucasian,Truth
+2008,51,Caucasian,Truth
+2009,25,Caucasian,Truth
+2010,89,Caucasian,Truth
+2011,21,Caucasian,Truth
+2012,45,Caucasian,Truth
+2013,89,Caucasian,Truth
+2014,27,Caucasian,Truth
+2015,83,Caucasian,Truth
+2016,45,Caucasian,Truth
+2017,75,Caucasian,Truth
+2018,42,Caucasian,Truth
+2019,61,Caucasian,Truth
+2020,53,Caucasian,Truth
+2021,77,Caucasian,Truth
+2022,89,Caucasian,Truth
+2023,50,Caucasian,Truth
+2024,63,Caucasian,Truth
+2025,89,Caucasian,Truth
+2026,54,Caucasian,Truth
+2027,47,Caucasian,Truth
+2028,87,Caucasian,Truth
+2029,47,Caucasian,Truth
+2030,41,Caucasian,Truth
+2031,70,Caucasian,Truth
+2032,80,Caucasian,Truth
+2033,83,Caucasian,Truth
+2034,61,Caucasian,Truth
+2035,54,African American,Truth
+2036,68,Caucasian,Truth
+2037,55,African American,Truth
+2038,49,Caucasian,Truth
+2039,67,Caucasian,Truth
+2040,67,Caucasian,Truth
+2041,67,Caucasian,Truth
+2042,83,Caucasian,Truth
+2043,59,Caucasian,Truth
+2044,54,African American,Truth
+2045,75,African American,Truth
+2046,70,African American,Truth
+2047,64,Caucasian,Truth
+2048,60,Caucasian,Truth
+2049,69,Caucasian,Truth
+2050,72,Caucasian,Truth
+2051,72,Caucasian,Truth
+2052,58,Caucasian,Truth
+2053,58,Caucasian,Truth
+2054,72,Caucasian,Truth
+2055,72,Caucasian,Truth
+2056,29,African American,Truth
+2057,76,Caucasian,Truth
+2058,60,Caucasian,Truth
+2059,59,Caucasian,Truth
+2060,81,Caucasian,Truth
+2061,26,African American,Truth
+2062,77,Caucasian,Truth
+2063,88,Caucasian,Truth
+2064,78,Caucasian,Truth
+2065,74,Caucasian,Truth
+2066,77,Caucasian,Truth
+2067,54,Caucasian,Truth
+2068,72,Caucasian,Truth
+2069,39,Caucasian,Truth
+2070,75,African American,Truth
+2071,58,African American,Truth
+2072,71,Caucasian,Truth
+2073,59,African American,Truth
+2074,59,African American,Truth
+2075,54,Caucasian,Truth
+2076,87,African American,Truth
+2077,49,Caucasian,Truth
+2078,47,Caucasian,Truth
+2079,30,Caucasian,Truth
+2080,22,Caucasian,Truth
+2081,73,Caucasian,Truth
+2082,64,Caucasian,Truth
+2083,63,Caucasian,Truth
+2084,80,Caucasian,Truth
+2085,60,Caucasian,Truth
+2086,58,Caucasian,Truth
+2087,61,Caucasian,Truth
+2088,34,Caucasian,Truth
+2089,74,African American,Truth
+2090,64,African American,Truth
+2091,56,African American,Truth
+2092,60,Caucasian,Truth
+2093,31,Caucasian,Truth
+2094,89,Caucasian,Truth
+2095,77,Caucasian,Truth
+2096,77,Caucasian,Truth
+2097,63,Caucasian,Truth
+2098,60,Caucasian,Truth
+2099,61,Caucasian,Truth
+2100,30,Caucasian,Truth
+2101,54,Caucasian,Truth
+2102,82,Caucasian,Truth
+2103,62,Caucasian,Truth
+2104,73,Caucasian,Truth
+2105,71,Caucasian,Truth
+2106,56,Caucasian,Truth
+2107,63,Caucasian,Truth
+2108,26,Caucasian,Truth
+2109,81,Caucasian,Truth
+2110,73,Caucasian,Truth
+2111,75,Caucasian,Truth
+2112,81,Caucasian,Truth
+2113,81,Caucasian,Truth
+2114,64,Caucasian,Truth
+2115,81,Caucasian,Truth
+2116,24,Caucasian,Truth
+2117,62,Caucasian,Truth
+2118,62,Caucasian,Truth
+2119,89,Caucasian,Truth
+2120,63,Caucasian,Truth
+2121,69,Caucasian,Truth
+2122,84,Caucasian,Truth
+2123,53,Caucasian,Truth
+2124,82,Caucasian,Truth
+2125,68,Caucasian,Truth
+2126,34,Caucasian,Truth
+2127,61,African American,Truth
+2128,71,Caucasian,Truth
+2129,76,Caucasian,Truth
+2130,75,Caucasian,Truth
+2131,35,Caucasian,Truth
+2132,82,Caucasian,Truth
+2133,82,Caucasian,Truth
+2134,63,Caucasian,Truth
+2135,72,Caucasian,Truth
+2136,37,Caucasian,Truth
+2137,63,Caucasian,Truth
+2138,59,Caucasian,Truth
+2139,48,African American,Truth
+2140,36,African American,Truth
+2141,39,Caucasian,Truth
+2142,57,Caucasian,Truth
+2143,21,African American,Truth
+2144,61,Caucasian,Truth
+2145,55,Caucasian,Truth
+2146,59,Caucasian,Truth
+2147,74,Caucasian,Truth
+2148,68,Caucasian,Truth
+2149,58,Caucasian,Truth
+2150,61,African American,Truth
+2151,66,Caucasian,Truth
+2152,55,Caucasian,Truth
+2153,63,Caucasian,Truth
+2154,34,Caucasian,Truth
+2155,40,Caucasian,Truth
+2156,57,African American,Truth
+2157,57,African American,Truth
+2158,57,African American,Truth
+2159,57,African American,Truth
+2160,75,Caucasian,Truth
+2161,55,African American,Truth
+2162,67,African American,Truth
+2163,60,African American,Truth
+2164,24,Caucasian,Truth
+2165,40,African American,Truth
+2166,58,African American,Truth
+2167,82,African American,Truth
+2168,66,African American,Truth
+2169,58,African American,Truth
+2170,63,African American,Truth
+2171,63,African American,Truth
+2172,56,Caucasian,Truth
+2173,89,Caucasian,Truth
+2174,65,Caucasian,Truth
+2175,72,Caucasian,Truth
+2176,76,Caucasian,Truth
+2177,76,Caucasian,Truth
+2178,76,Caucasian,Truth
+2179,89,Caucasian,Truth
+2180,68,Caucasian,Truth
+2181,65,Caucasian,Truth
+2182,73,Caucasian,Truth
+2183,80,Caucasian,Truth
+2184,21,Caucasian,Truth
+2185,89,Caucasian,Truth
+2186,69,Caucasian,Truth
+2187,77,Caucasian,Truth
+2188,84,Caucasian,Truth
+2189,73,Caucasian,Truth
+2190,87,Caucasian,Truth
+2191,79,Caucasian,Truth
+2192,70,Caucasian,Truth
+2193,74,Caucasian,Truth
+2194,86,Caucasian,Truth
+2195,59,Caucasian,Truth
+2196,72,Caucasian,Truth
+2197,79,Caucasian,Truth
+2198,77,Caucasian,Truth
+2199,77,Caucasian,Truth
+2200,49,Caucasian,Truth
+2201,69,Caucasian,Truth
+2202,63,Caucasian,Truth
+2203,73,Caucasian,Truth
+2204,81,Caucasian,Truth
+2205,72,Caucasian,Truth
+2206,88,Caucasian,Truth
+2207,67,Caucasian,Truth
+2208,84,Caucasian,Truth
+2209,62,Caucasian,Truth
+2210,73,Caucasian,Truth
+2211,73,Caucasian,Truth
+2212,79,African American,Truth
+2213,87,African American,Truth
+2214,86,Caucasian,Truth
+2215,72,Caucasian,Truth
+2216,81,Caucasian,Truth
+2217,56,Caucasian,Truth
+2218,72,Caucasian,Truth
+2219,50,Caucasian,Truth
+2220,73,Caucasian,Truth
+2221,73,Caucasian,Truth
+2222,55,Caucasian,Truth
+2223,51,Caucasian,Truth
+2224,85,Caucasian,Truth
+2225,70,Caucasian,Truth
+2226,82,Caucasian,Truth
+2227,82,Caucasian,Truth
+2228,82,Caucasian,Truth
+2229,78,Caucasian,Truth
+2230,81,Caucasian,Truth
+2231,61,African American,Truth
+2232,47,African American,Truth
+2233,63,Caucasian,Truth
+2234,63,Caucasian,Truth
+2235,63,Caucasian,Truth
+2236,63,Caucasian,Truth
+2237,61,African American,Truth
+2238,55,Caucasian,Truth
+2239,50,Caucasian,Truth
+2240,73,Caucasian,Truth
+2241,73,Caucasian,Truth
+2242,87,Caucasian,Truth
+2243,87,Caucasian,Truth
+2244,71,African American,Truth
+2245,52,African American,Truth
+2246,52,African American,Truth
+2247,52,African American,Truth
+2248,62,Caucasian,Truth
+2249,41,African American,Truth
+2250,41,African American,Truth
+2251,72,Caucasian,Truth
+2252,50,Caucasian,Truth
+2253,40.43184322118759,African American,GAN
+2254,59.24211037158966,African American,GAN
+2255,62.88553023338318,African American,GAN
+2256,71.43451750278473,African American,GAN
+2257,67.59447109699249,African American,GAN
+2258,43.471632957458496,African American,GAN
+2259,60.47064805030823,African American,GAN
+2260,29.636925101280212,African American,GAN
+2261,48.85501402616501,African American,GAN
+2262,48.543150186538696,African American,GAN
+2263,68.4360762834549,African American,GAN
+2264,60.60511839389801,African American,GAN
+2265,18.203101381659508,African American,GAN
+2266,69.38016068935394,African American,GAN
+2267,44.21872693300247,African American,GAN
+2268,69.22995281219482,African American,GAN
+2269,61.33571398258209,African American,GAN
+2270,25.611338555812836,African American,GAN
+2271,59.6299250125885,African American,GAN
+2272,46.474948048591614,African American,GAN
+2273,55.99137461185455,African American,GAN
+2274,61.88200223445892,African American,GAN
+2275,50.74419069290161,African American,GAN
+2276,58.81968903541565,African American,GAN
+2277,28.364181846380234,African American,GAN
+2278,59.50521123409271,African American,GAN
+2279,60.91335880756378,African American,GAN
+2280,54.92943072319031,African American,GAN
+2281,71.57846653461456,African American,GAN
+2282,52.02332401275635,African American,GAN
+2283,61.553834080696106,African American,GAN
+2284,57.210623264312744,African American,GAN
+2285,54.55430579185486,African American,GAN
+2286,67.48418045043945,African American,GAN
+2287,63.55008816719055,African American,GAN
+2288,74.31590640544891,African American,GAN
+2289,59.10660791397095,African American,GAN
+2290,70.1262423992157,African American,GAN
+2291,63.146862387657166,African American,GAN
+2292,34.148094832897186,African American,GAN
+2293,57.67310297489166,African American,GAN
+2294,64.30794656276703,African American,GAN
+2295,49.73968130350113,African American,GAN
+2296,58.87129473686218,African American,GAN
+2297,55.62717950344086,African American,GAN
+2298,66.14110016822815,African American,GAN
+2299,69.96217155456543,African American,GAN
+2300,23.778407141566277,African American,GAN
+2301,61.98684120178223,African American,GAN
+2302,68.90605866909027,African American,GAN
+2303,71.32540452480316,African American,GAN
+2304,31.32602271437645,African American,GAN
+2305,62.00736439228058,African American,GAN
+2306,54.86997389793396,African American,GAN
+2307,71.88532197475433,African American,GAN
+2308,65.58202075958252,African American,GAN
+2309,58.283721923828125,African American,GAN
+2310,49.60312467813492,African American,GAN
+2311,69.84437823295593,African American,GAN
+2312,67.19012939929962,African American,GAN
+2313,56.64663028717041,African American,GAN
+2314,64.26103389263153,African American,GAN
+2315,71.14919531345367,African American,GAN
+2316,66.54188680648804,African American,GAN
+2317,50.52777975797653,African American,GAN
+2318,43.797955214977264,African American,GAN
+2319,45.97342222929001,African American,GAN
+2320,41.26145559549332,African American,GAN
+2321,36.03358852863312,African American,GAN
+2322,53.53359353542328,African American,GAN
+2323,50.56966197490692,African American,GAN
+2324,60.41443312168121,African American,GAN
+2325,45.82604604959488,African American,GAN
+2326,31.70582303404808,African American,GAN
+2327,29.850222051143646,African American,GAN
+2328,28.416936546564102,African American,GAN
+2329,18.43348252028227,African American,GAN
+2330,23.885950446128845,African American,GAN
+2331,46.429321110248566,African American,GAN
+2332,37.824990034103394,African American,GAN
+2333,68.32726323604584,African American,GAN
+2334,31.151098132133484,African American,GAN
+2335,56.61787664890289,African American,GAN
+2336,29.609708607196808,African American,GAN
+2337,62.42609393596649,African American,GAN
+2338,46.33733505010605,African American,GAN
+2339,36.05987215042114,African American,GAN
+2340,52.35512661933899,African American,GAN
+2341,59.751670360565186,African American,GAN
+2342,36.01114225387573,African American,GAN
+2343,64.79806399345398,African American,GAN
+2344,67.61360490322113,African American,GAN
+2345,61.06260073184967,African American,GAN
+2346,59.7494341135025,African American,GAN
+2347,37.07592886686325,African American,GAN
+2348,50.88407301902771,African American,GAN
+2349,43.11395913362503,African American,GAN
+2350,34.65844875574112,African American,GAN
+2351,60.429107666015625,African American,GAN
+2352,63.107333302497864,African American,GAN
+2353,61.3703647851944,African American,GAN
+2354,50.49738311767578,African American,GAN
+2355,48.89167833328247,African American,GAN
+2356,35.614772975444794,African American,GAN
+2357,49.551185965538025,African American,GAN
+2358,67.27960133552551,African American,GAN
+2359,65.0506364107132,African American,GAN
+2360,49.15620166063309,African American,GAN
+2361,36.28841483592987,African American,GAN
+2362,35.360376715660095,African American,GAN
+2363,65.20009887218475,African American,GAN
+2364,63.95586335659027,African American,GAN
+2365,58.0427188873291,African American,GAN
+2366,46.89157146215439,African American,GAN
+2367,64.6660989522934,African American,GAN
+2368,56.69038486480713,African American,GAN
+2369,52.382182121276855,African American,GAN
+2370,67.41679310798645,African American,GAN
+2371,65.50325810909271,African American,GAN
+2372,39.52637046575546,African American,GAN
+2373,39.7758355140686,African American,GAN
+2374,69.7289490699768,African American,GAN
+2375,41.69632184505463,African American,GAN
+2376,42.302166163921356,African American,GAN
+2377,63.90338432788849,African American,GAN
+2378,47.58542996644974,African American,GAN
+2379,55.498037338256836,African American,GAN
+2380,67.33473563194275,African American,GAN
+2381,64.3779274225235,African American,GAN
+2382,52.067493200302124,African American,GAN
+2383,57.06835913658142,African American,GAN
+2384,61.50323402881622,African American,GAN
+2385,52.73867607116699,African American,GAN
+2386,60.19191110134125,African American,GAN
+2387,53.506017565727234,African American,GAN
+2388,45.68843084573746,African American,GAN
+2389,27.824939757585526,African American,GAN
+2390,55.61949157714844,African American,GAN
+2391,52.44048774242401,African American,GAN
+2392,51.04728376865387,African American,GAN
+2393,38.79886019229889,African American,GAN
+2394,62.005767703056335,African American,GAN
+2395,58.6190310716629,African American,GAN
+2396,57.96435761451721,African American,GAN
+2397,65.7460960149765,African American,GAN
+2398,59.07040011882782,African American,GAN
+2399,62.01800751686096,African American,GAN
+2400,63.69999170303345,African American,GAN
+2401,27.421877175569534,African American,GAN
+2402,54.730475306510925,African American,GAN
+2403,59.9637256860733,African American,GAN
+2404,57.42855370044708,African American,GAN
+2405,53.73979580402374,African American,GAN
+2406,50.424788892269135,African American,GAN
+2407,59.60406482219696,African American,GAN
+2408,48.43098717927933,African American,GAN
+2409,35.04103225469589,African American,GAN
+2410,66.16513872146606,African American,GAN
+2411,60.30758726596832,African American,GAN
+2412,65.86225295066833,African American,GAN
+2413,63.29761719703674,African American,GAN
+2414,59.84559714794159,African American,GAN
+2415,68.49890291690826,African American,GAN
+2416,69.37251687049866,African American,GAN
+2417,25.048489063978195,African American,GAN
+2418,55.736266016960144,African American,GAN
+2419,46.31280028820038,African American,GAN
+2420,55.861464977264404,African American,GAN
+2421,59.71393644809723,African American,GAN
+2422,62.9486700296402,African American,GAN
+2423,59.25980186462402,African American,GAN
+2424,63.474016070365906,African American,GAN
+2425,60.484859466552734,African American,GAN
+2426,66.19576692581177,African American,GAN
+2427,56.81795680522919,African American,GAN
+2428,63.48926842212677,African American,GAN
+2429,63.459288597106934,African American,GAN
+2430,65.05981075763702,African American,GAN
+2431,63.53719997406006,African American,GAN
+2432,59.39504408836365,African American,GAN
+2433,68.44288647174835,African American,GAN
+2434,61.77312743663788,African American,GAN
+2435,60.11783266067505,African American,GAN
+2436,55.077053904533386,African American,GAN
+2437,60.809428453445435,African American,GAN
+2438,62.8656245470047,African American,GAN
+2439,65.98734605312347,African American,GAN
+2440,56.16300988197327,African American,GAN
+2441,61.77743673324585,African American,GAN
+2442,66.44880247116089,African American,GAN
+2443,61.37304651737213,African American,GAN
+2444,39.75720453262329,African American,GAN
+2445,51.54879415035248,African American,GAN
+2446,59.26441550254822,African American,GAN
+2447,33.76662504673004,African American,GAN
+2448,49.35745948553085,African American,GAN
+2449,60.27459490299225,African American,GAN
+2450,68.45529389381409,African American,GAN
+2451,55.56950902938843,African American,GAN
+2452,22.50096920132637,African American,GAN
+2453,59.94289815425873,African American,GAN
+2454,63.35521709918976,African American,GAN
+2455,16.200035590678453,African American,GAN
+2456,48.05695170164108,African American,GAN
+2457,41.5979865193367,African American,GAN
+2458,61.55179190635681,African American,GAN
+2459,57.1518589258194,African American,GAN
+2460,50.19923007488251,African American,GAN
+2461,50.7753084897995,African American,GAN
+2462,43.55675810575485,African American,GAN
+2463,65.85570740699768,African American,GAN
+2464,65.96286642551422,African American,GAN
+2465,58.48812460899353,African American,GAN
+2466,53.122865080833435,African American,GAN
+2467,39.17029994726181,African American,GAN
+2468,61.45910453796387,African American,GAN
+2469,45.332153022289276,African American,GAN
+2470,46.07910364866257,African American,GAN
+2471,66.71644639968872,African American,GAN
+2472,51.70424419641495,African American,GAN
+2473,51.89165449142456,African American,GAN
+2474,62.13236927986145,African American,GAN
+2475,54.24093568325043,African American,GAN
+2476,66.75418472290039,African American,GAN
+2477,64.79488384723663,African American,GAN
+2478,57.31511378288269,African American,GAN
+2479,36.0905025601387,African American,GAN
+2480,30.386959940195084,African American,GAN
+2481,61.31419396400452,African American,GAN
+2482,61.88607335090637,African American,GAN
+2483,66.82623422145844,African American,GAN
+2484,78.12104618549347,Caucasian,GAN
+2485,83.5854856967926,Caucasian,GAN
+2486,72.36141765117645,Caucasian,GAN
+2487,41.66845256090164,Caucasian,GAN
+2488,70.85304474830627,Caucasian,GAN
+2489,80.15652060508728,Caucasian,GAN
+2490,24.07986107468605,Caucasian,GAN
+2491,70.57542812824249,Caucasian,GAN
+2492,79.28818190097809,Caucasian,GAN
+2493,30.40999725461006,Caucasian,GAN
+2494,50.63112127780914,Caucasian,GAN
+2495,75.69739985466003,Caucasian,GAN
+2496,74.32619667053223,Caucasian,GAN
+2497,36.515347599983215,Caucasian,GAN
+2498,75.61589813232422,Caucasian,GAN
+2499,71.62241077423096,Caucasian,GAN
+2500,66.26403200626373,Caucasian,GAN
+2501,64.17790901660919,Caucasian,GAN
+2502,81.82751762866974,Caucasian,GAN
+2503,72.25256049633026,Caucasian,GAN
+2504,79.06528496742249,Caucasian,GAN
+2505,54.37198328971863,Caucasian,GAN
+2506,60.016191482543945,Caucasian,GAN
+2507,71.85851347446442,Caucasian,GAN
+2508,69.45289385318756,Caucasian,GAN
+2509,44.057646572589874,Caucasian,GAN
+2510,42.55184733867645,Caucasian,GAN
+2511,82.89042747020721,Caucasian,GAN
+2512,80.75229299068451,Caucasian,GAN
+2513,67.46547889709473,Caucasian,GAN
+2514,77.50572097301483,Caucasian,GAN
+2515,76.30228042602539,Caucasian,GAN
+2516,63.812302470207214,Caucasian,GAN
+2517,75.441823720932,Caucasian,GAN
+2518,80.55018830299377,Caucasian,GAN
+2519,77.58429837226868,Caucasian,GAN
+2520,76.50663459300995,Caucasian,GAN
+2521,77.24433588981628,Caucasian,GAN
+2522,78.0480660200119,Caucasian,GAN
+2523,35.868792116642,Caucasian,GAN
+2524,66.35942316055298,Caucasian,GAN
+2525,77.90057075023651,Caucasian,GAN
+2526,62.89505743980408,Caucasian,GAN
+2527,59.203908920288086,Caucasian,GAN
+2528,79.68427550792694,Caucasian,GAN
+2529,80.21134614944458,Caucasian,GAN
+2530,77.69172203540802,Caucasian,GAN
+2531,73.49614322185516,Caucasian,GAN
+2532,71.55967235565186,Caucasian,GAN
+2533,79.75261557102203,Caucasian,GAN
+2534,32.73280516266823,Caucasian,GAN
+2535,70.28355157375336,Caucasian,GAN
+2536,78.29973864555359,Caucasian,GAN
+2537,77.3620012998581,Caucasian,GAN
+2538,73.10025250911713,Caucasian,GAN
+2539,72.10529899597168,Caucasian,GAN
+2540,33.063119143247604,Caucasian,GAN
+2541,30.062130719423294,Caucasian,GAN
+2542,63.83952558040619,Caucasian,GAN
+2543,77.98066103458405,Caucasian,GAN
+2544,82.47336518764496,Caucasian,GAN
+2545,73.37559759616852,Caucasian,GAN
+2546,80.66136991977692,Caucasian,GAN
+2547,16.257003653794527,Caucasian,GAN
+2548,67.78482556343079,Caucasian,GAN
+2549,26.19160497188568,Caucasian,GAN
+2550,71.90013325214386,Caucasian,GAN
+2551,63.39246141910553,Caucasian,GAN
+2552,80.44323217868805,Caucasian,GAN
+2553,51.3402144908905,Caucasian,GAN
+2554,74.64194858074188,Caucasian,GAN
+2555,75.68649649620056,Caucasian,GAN
+2556,71.91009712219238,Caucasian,GAN
+2557,77.51655375957489,Caucasian,GAN
+2558,74.9028308391571,Caucasian,GAN
+2559,77.73105263710022,Caucasian,GAN
+2560,57.3068745136261,Caucasian,GAN
+2561,77.17077791690826,Caucasian,GAN
+2562,79.38865423202515,Caucasian,GAN
+2563,65.85080707073212,Caucasian,GAN
+2564,84.08478629589081,Caucasian,GAN
+2565,80.16650211811066,Caucasian,GAN
+2566,69.12734568119049,Caucasian,GAN
+2567,75.95035600662231,Caucasian,GAN
+2568,53.35601258277893,Caucasian,GAN
+2569,76.3356477022171,Caucasian,GAN
+2570,76.05609476566315,Caucasian,GAN
+2571,67.12486362457275,Caucasian,GAN
+2572,59.394073724746704,Caucasian,GAN
+2573,80.24192142486572,Caucasian,GAN
+2574,69.74831664562225,Caucasian,GAN
+2575,71.6158961057663,Caucasian,GAN
+2576,66.70705151557922,Caucasian,GAN
+2577,73.15749514102936,Caucasian,GAN
+2578,43.304726004600525,Caucasian,GAN
+2579,57.29955267906189,Caucasian,GAN
+2580,40.87753784656525,Caucasian,GAN
+2581,35.82921230792999,Caucasian,GAN
+2582,71.49126613140106,Caucasian,GAN
+2583,79.2238644361496,Caucasian,GAN
+2584,72.25095057487488,Caucasian,GAN
+2585,69.11515438556671,Caucasian,GAN
+2586,78.23927617073059,Caucasian,GAN
+2587,79.87568855285645,Caucasian,GAN
+2588,58.79489624500275,Caucasian,GAN
+2589,69.04860508441925,Caucasian,GAN
+2590,66.15701413154602,Caucasian,GAN
+2591,72.98765063285828,Caucasian,GAN
+2592,63.56337332725525,Caucasian,GAN
+2593,45.64576572179794,Caucasian,GAN
+2594,73.24741697311401,Caucasian,GAN
+2595,79.86493074893951,Caucasian,GAN
+2596,35.96825659275055,Caucasian,GAN
+2597,67.56102883815765,Caucasian,GAN
+2598,42.847056210041046,Caucasian,GAN
+2599,31.56920686364174,Caucasian,GAN
+2600,76.57793867588043,Caucasian,GAN
+2601,71.5877114534378,Caucasian,GAN
+2602,70.82141089439392,Caucasian,GAN
+2603,79.88765931129456,Caucasian,GAN
+2604,34.18987339735031,Caucasian,GAN
+2605,73.29850220680237,Caucasian,GAN
+2606,79.51379144191742,Caucasian,GAN
+2607,77.27682101726532,Caucasian,GAN
+2608,38.42620748281479,Caucasian,GAN
+2609,66.59533619880676,Caucasian,GAN
+2610,72.92717492580414,Caucasian,GAN
+2611,80.17847287654877,Caucasian,GAN
+2612,40.87087321281433,Caucasian,GAN
+2613,78.24610841274261,Caucasian,GAN
+2614,65.36017799377441,Caucasian,GAN
+2615,64.38981878757477,Caucasian,GAN
+2616,77.17299211025238,Caucasian,GAN
+2617,66.41653788089752,Caucasian,GAN
+2618,67.49585568904877,Caucasian,GAN
+2619,68.76787447929382,Caucasian,GAN
+2620,78.97327244281769,Caucasian,GAN
+2621,47.16517871618271,Caucasian,GAN
+2622,72.52999186515808,Caucasian,GAN
+2623,68.13939642906189,Caucasian,GAN
+2624,65.0609575510025,Caucasian,GAN
+2625,58.10707604885101,Caucasian,GAN
+2626,81.26093113422394,Caucasian,GAN
+2627,81.67903876304626,Caucasian,GAN
+2628,69.68697202205658,Caucasian,GAN
+2629,54.13209617137909,Caucasian,GAN
+2630,77.2640210390091,Caucasian,GAN
+2631,76.4261120557785,Caucasian,GAN
+2632,79.29035198688507,Caucasian,GAN
+2633,70.94738173484802,Caucasian,GAN
+2634,72.97591364383698,Caucasian,GAN
+2635,51.35298800468445,Caucasian,GAN
+2636,70.34288489818573,Caucasian,GAN
+2637,63.857014179229736,Caucasian,GAN
+2638,47.084781885147095,Caucasian,GAN
+2639,72.94682478904724,Caucasian,GAN
+2640,78.75948369503021,Caucasian,GAN
+2641,69.059534907341,Caucasian,GAN
+2642,80.56853699684143,Caucasian,GAN
+2643,66.89557993412018,Caucasian,GAN
+2644,74.47146010398865,Caucasian,GAN
+2645,79.69813406467438,Caucasian,GAN
+2646,64.97100925445557,Caucasian,GAN
+2647,29.29569011926651,Caucasian,GAN
+2648,76.88313126564026,Caucasian,GAN
+2649,42.04301291704178,Caucasian,GAN
+2650,68.62685859203339,Caucasian,GAN
+2651,73.89183986186981,Caucasian,GAN
+2652,70.43028378486633,Caucasian,GAN
+2653,17.654458343982697,Caucasian,GAN
+2654,73.09085321426392,Caucasian,GAN
+2655,64.91970348358154,Caucasian,GAN
+2656,69.53106105327606,Caucasian,GAN
+2657,53.000197887420654,Caucasian,GAN
+2658,71.72308158874512,Caucasian,GAN
+2659,70.0190966129303,Caucasian,GAN
+2660,32.95860105752945,Caucasian,GAN
+2661,34.33368569612503,Caucasian,GAN
+2662,66.0873773097992,Caucasian,GAN
+2663,81.6485561132431,Caucasian,GAN
+2664,66.1162897348404,Caucasian,GAN
+2665,81.28544163703918,Caucasian,GAN
+2666,22.964477717876434,Caucasian,GAN
+2667,46.51096838712692,Caucasian,GAN
+2668,52.777084827423096,Caucasian,GAN
+2669,17.815147526562214,Caucasian,GAN
+2670,65.85135400295258,Caucasian,GAN
+2671,66.48949158191681,Caucasian,GAN
+2672,55.53408634662628,Caucasian,GAN
+2673,66.19186782836914,Caucasian,GAN
+2674,74.91613805294037,Caucasian,GAN
+2675,60.51194143295288,Caucasian,GAN
+2676,78.43228149414062,Caucasian,GAN
+2677,73.49492144584656,Caucasian,GAN
+2678,70.30045354366302,Caucasian,GAN
+2679,57.27606546878815,Caucasian,GAN
+2680,78.50389432907104,Caucasian,GAN
+2681,76.58444011211395,Caucasian,GAN
+2682,81.45053136348724,Caucasian,GAN
+2683,21.9905866086483,Caucasian,GAN
+2684,73.81875824928284,Caucasian,GAN
+2685,77.38225102424622,Caucasian,GAN
+2686,78.68063724040985,Caucasian,GAN
+2687,69.90604484081268,Caucasian,GAN
+2688,61.72119092941284,Caucasian,GAN
+2689,21.135209426283836,Caucasian,GAN
+2690,70.30881190299988,Caucasian,GAN
+2691,32.36618745326996,Caucasian,GAN
+2692,77.2328370809555,Caucasian,GAN
+2693,40.778659999370575,Caucasian,GAN
+2694,80.00048172473907,Caucasian,GAN
+2695,76.24469375610352,Caucasian,GAN
+2696,25.8187195956707,Caucasian,GAN
+2697,78.82062542438507,Caucasian,GAN
+2698,52.3991414308548,Caucasian,GAN
+2699,51.50673770904541,Caucasian,GAN
+2700,76.53805232048035,Caucasian,GAN
+2701,70.76584875583649,Caucasian,GAN
+2702,67.97461545467377,Caucasian,GAN
+2703,17.876459620893,Caucasian,GAN
+2704,62.79578924179077,Caucasian,GAN
+2705,76.03749465942383,Caucasian,GAN
+2706,83.1050454378128,Caucasian,GAN
+2707,22.028736233711243,Caucasian,GAN
+2708,72.76440525054932,Caucasian,GAN
+2709,79.69129300117493,Caucasian,GAN
+2710,73.25069415569305,Caucasian,GAN
+2711,63.137097001075745,Caucasian,GAN
+2712,76.47179853916168,Caucasian,GAN
+2713,67.5041434764862,Caucasian,GAN
+2714,61.22694945335388,Caucasian,GAN
+2715,74.61170411109924,Caucasian,GAN
+2716,62.35537648200989,Caucasian,GAN
+2717,17.829212561249733,Caucasian,GAN
+2718,72.73145699501038,Caucasian,GAN
+2719,79.37565577030182,Caucasian,GAN
+2720,79.65896666049957,Caucasian,GAN
+2721,62.86127555370331,Caucasian,GAN
+2722,35.41803175210953,Caucasian,GAN
+2723,75.72961592674255,Caucasian,GAN
+2724,67.26369178295135,Caucasian,GAN
+2725,72.25307655334473,Caucasian,GAN
+2726,66.27334308624268,Caucasian,GAN
+2727,72.6487820148468,Caucasian,GAN
+2728,72.37079048156738,Caucasian,GAN
+2729,69.09732174873352,Caucasian,GAN
+2730,25.35634022951126,Caucasian,GAN
+2731,64.15616405010223,Caucasian,GAN
+2732,81.24196934700012,Caucasian,GAN
+2733,56.61355412006378,Caucasian,GAN
+2734,69.30764365196228,Caucasian,GAN
+2735,49.14055234193802,Caucasian,GAN
+2736,75.15032207965851,Caucasian,GAN
+2737,71.88559985160828,Caucasian,GAN
+2738,51.06053364276886,Caucasian,GAN
+2739,77.34280574321747,Caucasian,GAN
+2740,75.35338830947876,Caucasian,GAN
+2741,71.8512886762619,Caucasian,GAN
+2742,44.25842362642288,Caucasian,GAN
+2743,63.795321106910706,Caucasian,GAN
+2744,31.886165112257004,Caucasian,GAN
+2745,70.42518496513367,Caucasian,GAN
+2746,79.15257358551025,Caucasian,GAN
+2747,74.24655628204346,Caucasian,GAN
+2748,76.22194755077362,Caucasian,GAN
+2749,79.09276390075684,Caucasian,GAN
+2750,67.0012481212616,Caucasian,GAN
+2751,70.95023989677429,Caucasian,GAN
+2752,45.981332898139954,Caucasian,GAN
+2753,71.30928325653076,Caucasian,GAN
+2754,78.35922193527222,Caucasian,GAN
+2755,62.36771774291992,Caucasian,GAN
+2756,81.15171670913696,Caucasian,GAN
+2757,77.56256663799286,Caucasian,GAN
+2758,77.10056328773499,Caucasian,GAN
+2759,82.00435316562653,Caucasian,GAN
+2760,77.56680977344513,Caucasian,GAN
+2761,65.04319548606873,Caucasian,GAN
+2762,52.86341631412506,Caucasian,GAN
+2763,26.26682138442993,Caucasian,GAN
+2764,61.829121828079224,Caucasian,GAN
+2765,16.443868670612574,Caucasian,GAN
+2766,32.582599490880966,Caucasian,GAN
+2767,77.22825872898102,Caucasian,GAN
+2768,74.75613832473755,Caucasian,GAN
+2769,54.00299370288849,Caucasian,GAN
+2770,71.22526741027832,Caucasian,GAN
+2771,28.680815905332565,Caucasian,GAN
+2772,68.48637640476227,Caucasian,GAN
+2773,61.00387167930603,Caucasian,GAN
+2774,69.09380197525024,Caucasian,GAN
+2775,76.69124627113342,Caucasian,GAN
+2776,49.08340674638748,Caucasian,GAN
+2777,49.86955785751343,Caucasian,GAN
+2778,68.81054842472076,Caucasian,GAN
+2779,82.92075574398041,Caucasian,GAN
+2780,77.39422178268433,Caucasian,GAN
+2781,75.74766027927399,Caucasian,GAN
+2782,69.99416267871857,Caucasian,GAN
+2783,70.30175030231476,Caucasian,GAN
+2784,46.49389660358429,Caucasian,GAN
+2785,79.99761474132538,Caucasian,GAN
+2786,35.36958634853363,Caucasian,GAN
+2787,65.06239545345306,Caucasian,GAN
+2788,69.41206359863281,Caucasian,GAN
+2789,72.44860482215881,Caucasian,GAN
+2790,74.56742906570435,Caucasian,GAN
+2791,82.89725089073181,Caucasian,GAN
+2792,46.91793888807297,Caucasian,GAN
+2793,49.378908932209015,Caucasian,GAN
+2794,80.56561267375946,Caucasian,GAN
+2795,75.57154369354248,Caucasian,GAN
+2796,80.81332886219025,Caucasian,GAN
+2797,72.83471250534058,Caucasian,GAN
+2798,76.31970727443695,Caucasian,GAN
+2799,83.3375004529953,Caucasian,GAN
+2800,66.89382004737854,Caucasian,GAN
+2801,59.82228636741638,Caucasian,GAN
+2802,74.61738073825836,Caucasian,GAN
+2803,67.94979178905487,Caucasian,GAN
+2804,77.96777725219727,Caucasian,GAN
+2805,63.93526077270508,Caucasian,GAN
+2806,21.457446232438087,Caucasian,GAN
+2807,50.84868562221527,Caucasian,GAN
+2808,74.68020296096802,Caucasian,GAN
+2809,44.20369732379913,Caucasian,GAN
+2810,72.62703704833984,Caucasian,GAN
+2811,76.46867573261261,Caucasian,GAN
+2812,38.85465610027313,Caucasian,GAN
+2813,58.55899202823639,Caucasian,GAN
+2814,72.2450225353241,Caucasian,GAN
+2815,72.3227310180664,Caucasian,GAN
+2816,61.72774529457092,Caucasian,GAN
+2817,70.47594821453094,Caucasian,GAN
+2818,80.80647015571594,Caucasian,GAN
+2819,57.6921706199646,Caucasian,GAN
+2820,63.537314653396606,Caucasian,GAN
+2821,76.7038345336914,Caucasian,GAN
+2822,77.88183832168579,Caucasian,GAN
+2823,64.62643754482269,Caucasian,GAN
+2824,66.05094015598297,Caucasian,GAN
+2825,52.00894057750702,Caucasian,GAN
+2826,76.61910855770111,Caucasian,GAN
+2827,70.26360177993774,Caucasian,GAN
+2828,78.57708621025085,Caucasian,GAN
+2829,44.03310298919678,Caucasian,GAN
+2830,48.857528150081635,Caucasian,GAN
+2831,15.261534152552485,Caucasian,GAN
+2832,76.66319835186005,Caucasian,GAN
+2833,45.97632449865341,Caucasian,GAN
+2834,69.06863868236542,Caucasian,GAN
+2835,43.823828637599945,Caucasian,GAN
+2836,19.3909323066473,Caucasian,GAN
+2837,79.74092710018158,Caucasian,GAN
+2838,77.88720619678497,Caucasian,GAN
+2839,74.82427990436554,Caucasian,GAN
+2840,64.66891300678253,Caucasian,GAN
+2841,67.42868447303772,Caucasian,GAN
+2842,65.39947772026062,Caucasian,GAN
+2843,83.71087431907654,Caucasian,GAN
+2844,77.5371607542038,Caucasian,GAN
+2845,70.3411955833435,Caucasian,GAN
+2846,65.68253719806671,Caucasian,GAN
+2847,72.27784287929535,Caucasian,GAN
+2848,79.94361400604248,Caucasian,GAN
+2849,79.35025429725647,Caucasian,GAN
+2850,67.84463083744049,Caucasian,GAN
+2851,74.50645053386688,Caucasian,GAN
+2852,40.208955109119415,Caucasian,GAN
+2853,60.43232309818268,Caucasian,GAN
+2854,70.62226581573486,Caucasian,GAN
+2855,37.97078055143356,Caucasian,GAN
+2856,61.20642626285553,Caucasian,GAN
+2857,67.26572513580322,Caucasian,GAN
+2858,79.17097079753876,Caucasian,GAN
+2859,73.05565989017487,Caucasian,GAN
+2860,17.682754918932915,Caucasian,GAN
+2861,50.749571800231934,Caucasian,GAN
+2862,79.69698286056519,Caucasian,GAN
+2863,67.36526238918304,Caucasian,GAN
+2864,76.02257752418518,Caucasian,GAN
+2865,72.25863409042358,Caucasian,GAN
+2866,68.41383731365204,Caucasian,GAN
+2867,70.19304311275482,Caucasian,GAN
+2868,65.01402282714844,Caucasian,GAN
+2869,70.34986710548401,Caucasian,GAN
+2870,75.77173411846161,Caucasian,GAN
+2871,64.29889571666718,Caucasian,GAN
+2872,64.9199857711792,Caucasian,GAN
+2873,73.599081158638,Caucasian,GAN
+2874,69.63859498500824,Caucasian,GAN
+2875,80.35145342350006,Caucasian,GAN
+2876,60.79040491580963,Caucasian,GAN
+2877,47.892419934272766,Caucasian,GAN
+2878,80.3912912607193,Caucasian,GAN
+2879,36.047440469264984,Caucasian,GAN
+2880,77.88548600673676,Caucasian,GAN
+2881,73.24382662773132,Caucasian,GAN
+2882,72.52359628677368,Caucasian,GAN
+2883,80.10445618629456,Caucasian,GAN
+2884,67.93837237358093,Caucasian,GAN
+2885,57.43186175823212,Caucasian,GAN
+2886,67.76336288452148,Caucasian,GAN
+2887,75.16912508010864,Caucasian,GAN
+2888,25.303043007850647,Caucasian,GAN
+2889,68.81315958499908,Caucasian,GAN
+2890,50.12046301364899,Caucasian,GAN
+2891,75.71027481555939,Caucasian,GAN
+2892,80.93041205406189,Caucasian,GAN
+2893,77.93277359008789,Caucasian,GAN
+2894,59.67315471172333,Caucasian,GAN
+2895,78.55246102809906,Caucasian,GAN
+2896,26.570470213890076,Caucasian,GAN
+2897,75.1027125120163,Caucasian,GAN
+2898,49.581622302532196,Caucasian,GAN
+2899,43.76071971654892,Caucasian,GAN
+2900,56.540560722351074,Caucasian,GAN
+2901,26.47501841187477,Caucasian,GAN
+2902,75.85084521770477,Caucasian,GAN
+2903,78.38655972480774,Caucasian,GAN
+2904,78.53881859779358,Caucasian,GAN
+2905,67.59593987464905,Caucasian,GAN
+2906,47.596470057964325,Caucasian,GAN
+2907,82.85986542701721,Caucasian,GAN
+2908,76.48522484302521,Caucasian,GAN
+2909,83.88712763786316,Caucasian,GAN
+2910,74.71832060813904,Caucasian,GAN
+2911,66.62712001800537,Caucasian,GAN
+2912,75.08235251903534,Caucasian,GAN
+2913,70.31087613105774,Caucasian,GAN
+2914,78.4528135061264,Caucasian,GAN
+2915,32.16201192140579,Caucasian,GAN
+2916,76.12348210811615,Caucasian,GAN
+2917,56.71964132785797,Caucasian,GAN
+2918,52.38106179237366,Caucasian,GAN
+2919,64.87359356880188,Caucasian,GAN
+2920,72.41306746006012,Caucasian,GAN
+2921,80.38234627246857,Caucasian,GAN
+2922,22.900706633925438,Caucasian,GAN
+2923,81.69938552379608,Caucasian,GAN
+2924,50.49985533952713,Caucasian,GAN
+2925,48.79603797197342,Caucasian,GAN
+2926,52.440611243247986,Caucasian,GAN
+2927,72.5689343214035,Caucasian,GAN
+2928,73.95152604579926,Caucasian,GAN
+2929,75.62924945354462,Caucasian,GAN
+2930,52.93418228626251,Caucasian,GAN
+2931,76.48769927024841,Caucasian,GAN
+2932,66.47170305252075,Caucasian,GAN
+2933,62.24207329750061,Caucasian,GAN
+2934,71.51354479789734,Caucasian,GAN
+2935,77.14953136444092,Caucasian,GAN
+2936,73.34776139259338,Caucasian,GAN
+2937,45.36408680677414,Caucasian,GAN
+2938,55.468679428100586,Caucasian,GAN
+2939,68.77158391475677,Caucasian,GAN
+2940,71.26633584499359,Caucasian,GAN
+2941,69.33259963989258,Caucasian,GAN
+2942,69.38810002803802,Caucasian,GAN
+2943,78.0585812330246,Caucasian,GAN
+2944,50.78122329711914,Caucasian,GAN
+2945,56.745805859565735,Caucasian,GAN
+2946,68.3714941740036,Caucasian,GAN
+2947,68.901846408844,Caucasian,GAN
+2948,66.75765597820282,Caucasian,GAN
+2949,73.54833114147186,Caucasian,GAN
+2950,65.06316292285919,Caucasian,GAN
+2951,57.14276397228241,Caucasian,GAN
+2952,73.51037669181824,Caucasian,GAN
+2953,73.55224788188934,Caucasian,GAN
+2954,61.26150321960449,Caucasian,GAN
+2955,79.8131662607193,Caucasian,GAN
+2956,76.92112982273102,Caucasian,GAN
+2957,74.60778737068176,Caucasian,GAN
+2958,33.628160774707794,Caucasian,GAN
+2959,81.54582107067108,Caucasian,GAN
+2960,65.9605860710144,Caucasian,GAN
+2961,38.74219536781311,Caucasian,GAN
+2962,76.62181675434113,Caucasian,GAN
+2963,68.02091062068939,Caucasian,GAN
+2964,81.93753921985626,Caucasian,GAN
+2965,73.66548490524292,Caucasian,GAN
+2966,16.508178416639566,Caucasian,GAN
+2967,53.71797585487366,Caucasian,GAN
+2968,81.57498931884766,Caucasian,GAN
+2969,79.8559240102768,Caucasian,GAN
+2970,71.98769974708557,Caucasian,GAN
+2971,50.05244493484497,Caucasian,GAN
+2972,64.83588171005249,Caucasian,GAN
+2973,72.75393414497375,Caucasian,GAN
+2974,67.01777958869934,Caucasian,GAN
+2975,64.74391329288483,Caucasian,GAN
+2976,56.283286452293396,Caucasian,GAN
+2977,34.777854204177856,Caucasian,GAN
+2978,70.13254976272583,Caucasian,GAN
+2979,76.90011262893677,Caucasian,GAN
+2980,39.69200932979584,Caucasian,GAN
+2981,76.68938934803009,Caucasian,GAN
+2982,20.665182381868362,Caucasian,GAN
+2983,73.89909553527832,Caucasian,GAN
+2984,79.31057524681091,Caucasian,GAN
+2985,70.82234156131744,Caucasian,GAN
+2986,31.5815569460392,Caucasian,GAN
+2987,77.77474105358124,Caucasian,GAN
+2988,67.69991874694824,Caucasian,GAN
+2989,34.62911069393158,Caucasian,GAN
+2990,79.40232312679291,Caucasian,GAN
+2991,69.8353670835495,Caucasian,GAN
+2992,71.38006687164307,Caucasian,GAN
+2993,78.25246870517731,Caucasian,GAN
+2994,77.58283400535583,Caucasian,GAN
+2995,72.00931239128113,Caucasian,GAN
+2996,24.152100786566734,Caucasian,GAN
+2997,55.042747139930725,Caucasian,GAN
+2998,80.47637009620667,Caucasian,GAN
+2999,74.78971290588379,Caucasian,GAN
+3000,65.51779592037201,Caucasian,GAN
+3001,77.80312860012054,Caucasian,GAN
+3002,75.93101048469543,Caucasian,GAN
+3003,69.57111942768097,Caucasian,GAN
+3004,64.26980686187744,Caucasian,GAN
+3005,72.33952713012695,Caucasian,GAN
+3006,68.81388735771179,Caucasian,GAN
+3007,20.387362867593765,Caucasian,GAN
+3008,73.00853550434113,Caucasian,GAN
+3009,42.11161983013153,Caucasian,GAN
+3010,51.82480084896088,Caucasian,GAN
+3011,69.75714254379272,Caucasian,GAN
+3012,67.0762836933136,Caucasian,GAN
+3013,75.40553653240204,Caucasian,GAN
+3014,79.6801073551178,Caucasian,GAN
+3015,81.98955070972443,Caucasian,GAN
+3016,69.52612102031708,Caucasian,GAN
+3017,77.1010308265686,Caucasian,GAN
+3018,73.56553745269775,Caucasian,GAN
+3019,81.64351904392242,Caucasian,GAN
+3020,58.464778542518616,Caucasian,GAN
+3021,81.26120901107788,Caucasian,GAN
+3022,76.29153144359589,Caucasian,GAN
+3023,28.449250757694244,Caucasian,GAN
+3024,80.3404883146286,Caucasian,GAN
+3025,61.582578897476196,Caucasian,GAN
+3026,73.34818041324615,Caucasian,GAN
+3027,74.89783787727356,Caucasian,GAN
+3028,76.26906311511993,Caucasian,GAN
+3029,64.76976025104523,Caucasian,GAN
+3030,21.987534925341606,Caucasian,GAN
+3031,33.2326802611351,Caucasian,GAN
+3032,66.87244117259979,Caucasian,GAN
+3033,69.43100333213806,Caucasian,GAN
+3034,78.34782457351685,Caucasian,GAN
+3035,73.63736641407013,Caucasian,GAN
+3036,75.95816743373871,Caucasian,GAN
+3037,70.32353937625885,Caucasian,GAN
+3038,79.51920783519745,Caucasian,GAN
+3039,65.94309747219086,Caucasian,GAN
+3040,77.23484396934509,Caucasian,GAN
+3041,68.98821318149567,Caucasian,GAN
+3042,71.64386463165283,Caucasian,GAN
+3043,61.44806885719299,Caucasian,GAN
+3044,44.281224966049194,Caucasian,GAN
+3045,69.54124987125397,Caucasian,GAN
+3046,27.8923337161541,Caucasian,GAN
+3047,70.56969857215881,Caucasian,GAN
+3048,71.44469749927521,Caucasian,GAN
+3049,72.15280270576477,Caucasian,GAN
+3050,69.96358740329742,Caucasian,GAN
+3051,67.03106474876404,Caucasian,GAN
+3052,39.01567471027374,Caucasian,GAN
+3053,33.01191371679306,Caucasian,GAN
+3054,78.02757811546326,Caucasian,GAN
+3055,63.73955166339874,Caucasian,GAN
+3056,32.90362334251404,Caucasian,GAN
+3057,78.49332618713379,Caucasian,GAN
+3058,66.30106019973755,Caucasian,GAN
+3059,72.42405903339386,Caucasian,GAN
+3060,76.21274673938751,Caucasian,GAN
+3061,70.93889105319977,Caucasian,GAN
+3062,33.95258420705795,Caucasian,GAN
+3063,58.749884605407715,Caucasian,GAN
+3064,75.0095134973526,Caucasian,GAN
+3065,69.56107175350189,Caucasian,GAN
+3066,16.070223888382316,Caucasian,GAN
+3067,73.91788971424103,Caucasian,GAN
+3068,68.54770338535309,Caucasian,GAN
+3069,76.54524183273315,Caucasian,GAN
+3070,78.23325991630554,Caucasian,GAN
+3071,56.49973487854004,Caucasian,GAN
+3072,73.85513365268707,Caucasian,GAN
+3073,82.09860634803772,Caucasian,GAN
+3074,31.676414400339127,Caucasian,GAN
+3075,63.07846939563751,Caucasian,GAN
+3076,57.317835211753845,Caucasian,GAN
+3077,73.86611640453339,Caucasian,GAN
+3078,61.08974003791809,Caucasian,GAN
+3079,52.016804933547974,Caucasian,GAN
+3080,62.640103220939636,Caucasian,GAN
+3081,61.88031733036041,Caucasian,GAN
+3082,77.87584412097931,Caucasian,GAN
+3083,74.89291548728943,Caucasian,GAN
+3084,75.83321106433868,Caucasian,GAN
+3085,66.92641544342041,Caucasian,GAN
+3086,72.80546486377716,Caucasian,GAN
+3087,72.98321342468262,Caucasian,GAN
+3088,73.74794375896454,Caucasian,GAN
+3089,79.09758043289185,Caucasian,GAN
+3090,76.438307762146,Caucasian,GAN
+3091,62.62081062793732,Caucasian,GAN
+3092,69.78744435310364,Caucasian,GAN
+3093,79.43632996082306,Caucasian,GAN
+3094,75.53326725959778,Caucasian,GAN
+3095,72.55513310432434,Caucasian,GAN
+3096,74.90304696559906,Caucasian,GAN
+3097,78.37412142753601,Caucasian,GAN
+3098,42.11230790615082,Caucasian,GAN
+3099,76.55028331279755,Caucasian,GAN
+3100,75.09708881378174,Caucasian,GAN
+3101,51.3307027220726,Caucasian,GAN
+3102,75.8739001750946,Caucasian,GAN
+3103,37.40814828872681,Caucasian,GAN
+3104,71.30010449886322,Caucasian,GAN
+3105,66.20697903633118,Caucasian,GAN
+3106,82.19053065776825,Caucasian,GAN
+3107,78.39204227924347,Caucasian,GAN
+3108,70.13656795024872,Caucasian,GAN
+3109,77.35463535785675,Caucasian,GAN
+3110,33.31569266319275,Caucasian,GAN
+3111,62.15704298019409,Caucasian,GAN
+3112,76.09329497814178,Caucasian,GAN
+3113,51.55891901254654,Caucasian,GAN
+3114,50.326548397541046,Caucasian,GAN
+3115,79.34484672546387,Caucasian,GAN
+3116,64.00586354732513,Caucasian,GAN
+3117,73.33729469776154,Caucasian,GAN
+3118,74.0150054693222,Caucasian,GAN
+3119,76.76757860183716,Caucasian,GAN
+3120,76.19531106948853,Caucasian,GAN
+3121,70.02181804180145,Caucasian,GAN
+3122,67.82955050468445,Caucasian,GAN
+3123,78.82893967628479,Caucasian,GAN
+3124,71.7543272972107,Caucasian,GAN
+3125,52.97968792915344,Caucasian,GAN
+3126,36.577135503292084,Caucasian,GAN
+3127,74.34315598011017,Caucasian,GAN
+3128,75.15297734737396,Caucasian,GAN
+3129,80.515021443367,Caucasian,GAN
+3130,58.857436180114746,Caucasian,GAN
+3131,46.0264812707901,Caucasian,GAN
+3132,71.40117228031158,Caucasian,GAN
+3133,75.92965638637543,Caucasian,GAN
+3134,69.72239029407501,Caucasian,GAN
+3135,77.50308775901794,Caucasian,GAN
+3136,56.66814148426056,Caucasian,GAN
+3137,50.65452688932419,Caucasian,GAN
+3138,75.5434296131134,Caucasian,GAN
+3139,75.30102396011353,Caucasian,GAN
+3140,69.08073735237122,Caucasian,GAN
+3141,64.86714506149292,Caucasian,GAN
+3142,61.59581112861633,Caucasian,GAN
+3143,44.35404855012894,Caucasian,GAN
+3144,71.97928404808044,Caucasian,GAN
+3145,24.168226465582848,Caucasian,GAN
+3146,72.65188717842102,Caucasian,GAN
+3147,78.3407541513443,Caucasian,GAN
+3148,74.58410608768463,Caucasian,GAN
+3149,27.3609736263752,Caucasian,GAN
+3150,66.57876944541931,Caucasian,GAN
+3151,22.030786678195,Caucasian,GAN
+3152,51.19078731536865,Caucasian,GAN
+3153,53.599992871284485,Caucasian,GAN
+3154,73.88208770751953,Caucasian,GAN
+3155,68.0504537820816,Caucasian,GAN
+3156,76.59679460525513,Caucasian,GAN
+3157,76.42344355583191,Caucasian,GAN
+3158,23.56166099011898,Caucasian,GAN
+3159,76.64376902580261,Caucasian,GAN
+3160,42.83696001768112,Caucasian,GAN
+3161,77.38549292087555,Caucasian,GAN
+3162,52.610610127449036,Caucasian,GAN
+3163,31.15701073408127,Caucasian,GAN
+3164,85.7733645439148,Caucasian,GAN
+3165,76.81029665470123,Caucasian,GAN
+3166,74.43840599060059,Caucasian,GAN
+3167,66.22332525253296,Caucasian,GAN
+3168,38.54612898826599,Caucasian,GAN
+3169,81.06312251091003,Caucasian,GAN
+3170,78.28005349636078,Caucasian,GAN
+3171,41.43843227624893,Caucasian,GAN
+3172,68.17666721343994,Caucasian,GAN
+3173,70.720951795578,Caucasian,GAN
+3174,46.747767984867096,Caucasian,GAN
+3175,20.707855224609375,Caucasian,GAN
+3176,65.84911775588989,Caucasian,GAN
+3177,77.23830199241638,Caucasian,GAN
+3178,69.21732485294342,Caucasian,GAN
+3179,60.970447063446045,Caucasian,GAN
+3180,72.90153086185455,Caucasian,GAN
+3181,68.49978947639465,Caucasian,GAN
+3182,73.33681833744049,Caucasian,GAN
+3183,32.632190585136414,Caucasian,GAN
+3184,61.19014620780945,Caucasian,GAN
+3185,75.27179837226868,Caucasian,GAN
+3186,74.41049480438232,Caucasian,GAN
+3187,60.35239601135254,Caucasian,GAN
+3188,74.245285987854,Caucasian,GAN
+3189,49.05267709493637,Caucasian,GAN
+3190,51.70982599258423,Caucasian,GAN
+3191,76.53611159324646,Caucasian,GAN
+3192,18.606152936816216,Caucasian,GAN
+3193,60.196110129356384,Caucasian,GAN
+3194,64.50839281082153,Caucasian,GAN
+3195,73.54246926307678,Caucasian,GAN
+3196,39.81072008609772,Caucasian,GAN
+3197,41.98741990327835,Caucasian,GAN
+3198,63.81972575187683,Caucasian,GAN
+3199,82.14536905288696,Caucasian,GAN
+3200,36.509772419929504,Caucasian,GAN
+3201,64.10073864459991,Caucasian,GAN
+3202,61.99395132064819,Caucasian,GAN
+3203,75.62087786197662,Caucasian,GAN
+3204,67.97033262252808,Caucasian,GAN
+3205,77.41120755672455,Caucasian,GAN
+3206,43.78495454788208,Caucasian,GAN
+3207,62.0162079334259,Caucasian,GAN
+3208,58.3830783367157,Caucasian,GAN
+3209,82.11342203617096,Caucasian,GAN
+3210,73.96252644062042,Caucasian,GAN
+3211,41.88694977760315,Caucasian,GAN
+3212,77.14740979671478,Caucasian,GAN
+3213,71.62291359901428,Caucasian,GAN
+3214,70.05459868907928,Caucasian,GAN
+3215,34.098418831825256,Caucasian,GAN
+3216,30.65358167886734,Caucasian,GAN
+3217,33.574620962142944,Caucasian,GAN
+3218,26.341643035411835,Caucasian,GAN
+3219,79.78391861915588,Caucasian,GAN
+3220,82.77551877498627,Caucasian,GAN
+3221,69.41282224655151,Caucasian,GAN
+3222,74.36829721927643,Caucasian,GAN
+3223,78.43607473373413,Caucasian,GAN
+3224,70.80056130886078,Caucasian,GAN
+3225,65.54178154468536,Caucasian,GAN
+3226,24.60041043162346,Caucasian,GAN
+3227,82.15583574771881,Caucasian,GAN
+3228,29.3247888982296,Caucasian,GAN
+3229,78.72485935688019,Caucasian,GAN
+3230,46.03581881523132,Caucasian,GAN
+3231,66.44211137294769,Caucasian,GAN
+3232,72.11985886096954,Caucasian,GAN
+3233,78.42874848842621,Caucasian,GAN
+3234,65.6717220544815,Caucasian,GAN
+3235,72.88162076473236,Caucasian,GAN
+3236,73.14678585529327,Caucasian,GAN
+3237,78.05823278427124,Caucasian,GAN
+3238,25.24785026907921,Caucasian,GAN
+3239,72.64580476284027,Caucasian,GAN
+3240,54.92475092411041,Caucasian,GAN
+3241,61.249717712402344,Caucasian,GAN
+3242,69.87121319770813,Caucasian,GAN
+3243,71.70567679405212,Caucasian,GAN
+3244,75.30674028396606,Caucasian,GAN
+3245,42.43197214603424,Caucasian,GAN
+3246,72.66709983348846,Caucasian,GAN
+3247,75.18620789051056,Caucasian,GAN
+3248,82.62544763088226,Caucasian,GAN
+3249,81.79820382595062,Caucasian,GAN
+3250,74.3423091173172,Caucasian,GAN
+3251,75.01262307167053,Caucasian,GAN
+3252,81.02148067951202,Caucasian,GAN
+3253,33.46251639723778,Caucasian,GAN
+3254,75.0304160118103,Caucasian,GAN
+3255,45.98573702573776,Caucasian,GAN
+3256,70.69687354564667,Caucasian,GAN
+3257,80.456005692482,Caucasian,GAN
+3258,31.401027411222458,Caucasian,GAN
+3259,75.16863107681274,Caucasian,GAN
+3260,74.88191509246826,Caucasian,GAN
+3261,70.22322142124176,Caucasian,GAN
+3262,78.85761392116547,Caucasian,GAN
+3263,67.81333220005035,Caucasian,GAN
+3264,77.61158764362335,Caucasian,GAN
+3265,70.4009302854538,Caucasian,GAN
+3266,68.66386473178864,Caucasian,GAN
+3267,32.21864256262779,Caucasian,GAN
+3268,77.68597042560577,Caucasian,GAN
+3269,66.69575119018555,Caucasian,GAN
+3270,48.238533198833466,Caucasian,GAN
+3271,29.4411740899086,Caucasian,GAN
+3272,71.55838441848755,Caucasian,GAN
+3273,42.06773954629898,Caucasian,GAN
+3274,74.74453365802765,Caucasian,GAN
+3275,71.15887689590454,Caucasian,GAN
+3276,67.96376943588257,Caucasian,GAN
+3277,67.94590592384338,Caucasian,GAN
+3278,70.86667835712433,Caucasian,GAN
+3279,77.91763150691986,Caucasian,GAN
+3280,74.65815806388855,Caucasian,GAN
+3281,79.38812053203583,Caucasian,GAN
+3282,82.58391165733337,Caucasian,GAN
+3283,80.75351476669312,Caucasian,GAN
+3284,78.17353403568268,Caucasian,GAN
+3285,63.31854176521301,Caucasian,GAN
+3286,75.28292226791382,Caucasian,GAN
+3287,62.70399284362793,Caucasian,GAN
+3288,72.51350009441376,Caucasian,GAN
+3289,82.36048543453217,Caucasian,GAN
+3290,28.16210252046585,Caucasian,GAN
+3291,25.859147369861603,Caucasian,GAN
+3292,36.988384425640106,Caucasian,GAN
+3293,73.9230546951294,Caucasian,GAN
+3294,50.72638010978699,Caucasian,GAN
+3295,77.62150299549103,Caucasian,GAN
+3296,61.79709982872009,Caucasian,GAN
+3297,31.20481327176094,Caucasian,GAN
+3298,24.717859715223312,Caucasian,GAN
+3299,56.32543992996216,Caucasian,GAN
+3300,76.3847039937973,Caucasian,GAN
+3301,57.8448441028595,Caucasian,GAN
+3302,70.96742415428162,Caucasian,GAN
+3303,69.01701533794403,Caucasian,GAN
+3304,72.33777165412903,Caucasian,GAN
+3305,80.22617065906525,Caucasian,GAN
+3306,74.28658378124237,Caucasian,GAN
+3307,76.3007675409317,Caucasian,GAN
+3308,43.73747730255127,Caucasian,GAN
+3309,77.9647867679596,Caucasian,GAN
+3310,26.102828830480576,Caucasian,GAN
+3311,61.44839525222778,Caucasian,GAN
+3312,67.2164659500122,Caucasian,GAN
+3313,73.04236590862274,Caucasian,GAN
+3314,78.32368016242981,Caucasian,GAN
+3315,79.29512882232666,Caucasian,GAN
+3316,67.59923911094666,Caucasian,GAN
+3317,77.09175062179565,Caucasian,GAN
+3318,76.41476762294769,Caucasian,GAN
+3319,46.720955073833466,Caucasian,GAN
+3320,37.92026871442795,Caucasian,GAN
+3321,77.72769165039062,Caucasian,GAN
+3322,73.9686176776886,Caucasian,GAN
+3323,74.80405223369598,Caucasian,GAN
+3324,27.426314383745193,Caucasian,GAN
+3325,65.76511514186859,Caucasian,GAN
+3326,45.89855867624283,Caucasian,GAN
+3327,76.86789655685425,Caucasian,GAN
+3328,77.55347168445587,Caucasian,GAN
+3329,69.98910355567932,Caucasian,GAN
+3330,78.65906429290771,Caucasian,GAN
+3331,71.59586250782013,Caucasian,GAN
+3332,67.14480459690094,Caucasian,GAN
+3333,77.7491102218628,Caucasian,GAN
+3334,78.27274930477142,Caucasian,GAN
+3335,53.30498027801514,Caucasian,GAN
+3336,75.04000496864319,Caucasian,GAN
+3337,77.84569668769836,Caucasian,GAN
+3338,75.93310117721558,Caucasian,GAN
+3339,69.44546175003052,Caucasian,GAN
+3340,70.3687230348587,Caucasian,GAN
+3341,74.29657411575317,Caucasian,GAN
+3342,53.69013965129852,Caucasian,GAN
+3343,73.60667645931244,Caucasian,GAN
+3344,62.57195281982422,Caucasian,GAN
+3345,70.68915474414825,Caucasian,GAN
+3346,50.739938735961914,Caucasian,GAN
+3347,41.472736835479736,Caucasian,GAN
+3348,35.55223524570465,Caucasian,GAN
+3349,68.75077402591705,Caucasian,GAN
+3350,73.15922856330872,Caucasian,GAN
+3351,69.77703499794006,Caucasian,GAN
+3352,53.89794743061066,Caucasian,GAN
+3353,62.4582394361496,Caucasian,GAN
+3354,68.97116565704346,Caucasian,GAN
+3355,80.2625195980072,Caucasian,GAN
+3356,82.18031537532806,Caucasian,GAN
+3357,81.96055006980896,Caucasian,GAN
+3358,74.14237451553345,Caucasian,GAN
+3359,76.98894500732422,Caucasian,GAN
+3360,57.80834519863129,Caucasian,GAN
+3361,73.5511804819107,Caucasian,GAN
+3362,75.78038358688354,Caucasian,GAN
+3363,79.85565936565399,Caucasian,GAN
+3364,28.374145716428757,Caucasian,GAN
+3365,69.44169056415558,Caucasian,GAN
+3366,61.51825702190399,Caucasian,GAN
+3367,60.68849468231201,Caucasian,GAN
+3368,21.24679958820343,Caucasian,GAN
+3369,58.74909067153931,Caucasian,GAN
+3370,19.619824267923832,Caucasian,GAN
+3371,51.159936368465424,Caucasian,GAN
+3372,74.70199203491211,Caucasian,GAN
+3373,71.9053246974945,Caucasian,GAN
+3374,54.7664008140564,Caucasian,GAN
+3375,53.21060800552368,Caucasian,GAN
+3376,27.73385789990425,Caucasian,GAN
+3377,67.38279950618744,Caucasian,GAN
+3378,70.04895293712616,Caucasian,GAN
+3379,70.56247818470001,Caucasian,GAN
+3380,71.0505622625351,Caucasian,GAN
+3381,79.40956115722656,Caucasian,GAN
+3382,60.45270073413849,Caucasian,GAN
+3383,41.229987144470215,Caucasian,GAN
+3384,50.50194162130356,Caucasian,GAN
+3385,38.99405765533447,Caucasian,GAN
+3386,73.29788911342621,Caucasian,GAN
+3387,83.30569899082184,Caucasian,GAN
+3388,54.4747359752655,Caucasian,GAN
+3389,81.60848009586334,Caucasian,GAN
+3390,67.8359946012497,Caucasian,GAN
+3391,82.55795884132385,Caucasian,GAN
+3392,69.01339852809906,Caucasian,GAN
+3393,78.12765789031982,Caucasian,GAN
+3394,74.63000869750977,Caucasian,GAN
+3395,27.024594873189926,Caucasian,GAN
+3396,31.372298032045364,Caucasian,GAN
+3397,74.10042834281921,Caucasian,GAN
+3398,57.16183161735535,Caucasian,GAN
+3399,63.51883804798126,Caucasian,GAN
+3400,58.75095200538635,Caucasian,GAN
+3401,75.179922580719,Caucasian,GAN
+3402,71.3852891921997,Caucasian,GAN
+3403,33.97275894880295,Caucasian,GAN
+3404,74.80639433860779,Caucasian,GAN
+3405,77.71760869026184,Caucasian,GAN
+3406,72.58411610126495,Caucasian,GAN
+3407,68.17396342754364,Caucasian,GAN
+3408,75.63289713859558,Caucasian,GAN
+3409,56.809651374816895,Caucasian,GAN
+3410,63.30374813079834,Caucasian,GAN
+3411,70.32156336307526,Caucasian,GAN
+3412,53.763935804367065,Caucasian,GAN
+3413,79.9535425901413,Caucasian,GAN
+3414,66.16918337345123,Caucasian,GAN
+3415,55.62797784805298,Caucasian,GAN
+3416,61.55520141124725,Caucasian,GAN
+3417,73.05945754051208,Caucasian,GAN
+3418,72.46226048469543,Caucasian,GAN
+3419,70.31029832363129,Caucasian,GAN
+3420,24.035860046744347,Caucasian,GAN
+3421,65.9719922542572,Caucasian,GAN
+3422,69.8817548751831,Caucasian,GAN
+3423,79.26756167411804,Caucasian,GAN
+3424,80.97257876396179,Caucasian,GAN
+3425,82.85714840888977,Caucasian,GAN
+3426,67.72817397117615,Caucasian,GAN
+3427,79.81938540935516,Caucasian,GAN
+3428,80.97361969947815,Caucasian,GAN
+3429,41.732895731925964,Caucasian,GAN
+3430,21.186103895306587,Caucasian,GAN
+3431,80.40889012813568,Caucasian,GAN
+3432,70.72067832946777,Caucasian,GAN
+3433,76.1988308429718,Caucasian,GAN
+3434,77.5899749994278,Caucasian,GAN
+3435,62.55024313926697,Caucasian,GAN
+3436,67.1335836648941,Caucasian,GAN
+3437,82.51562011241913,Caucasian,GAN
+3438,75.48075735569,Caucasian,GAN
+3439,79.22817814350128,Caucasian,GAN
+3440,75.86962175369263,Caucasian,GAN
+3441,61.97557175159454,Caucasian,GAN
+3442,76.37501800060272,Caucasian,GAN
+3443,17.583681896328926,Caucasian,GAN
+3444,80.49782836437225,Caucasian,GAN
+3445,23.366675794124603,Caucasian,GAN
+3446,24.93246555328369,Caucasian,GAN
+3447,56.91388165950775,Caucasian,GAN
+3448,22.435991778969765,Caucasian,GAN
+3449,76.29507768154144,Caucasian,GAN
+3450,66.23985230922699,Caucasian,GAN
+3451,80.8479311466217,Caucasian,GAN
+3452,47.63401210308075,Caucasian,GAN
+3453,79.232337474823,Caucasian,GAN
+3454,68.04481244087219,Caucasian,GAN
+3455,68.32600176334381,Caucasian,GAN
+3456,59.91709530353546,Caucasian,GAN
+3457,77.38505625724792,Caucasian,GAN
+3458,63.918561697006226,Caucasian,GAN
+3459,72.04153728485107,Caucasian,GAN
+3460,17.852102115750313,Caucasian,GAN
+3461,54.27953851222992,Caucasian,GAN
+3462,68.76013803482056,Caucasian,GAN
+3463,35.574315428733826,Caucasian,GAN
+3464,55.77019786834717,Caucasian,GAN
+3465,31.487256348133087,Caucasian,GAN
+3466,25.865775614976883,Caucasian,GAN
+3467,53.667508125305176,Caucasian,GAN
+3468,74.64537572860718,Caucasian,GAN
+3469,61.97658622264862,Caucasian,GAN
+3470,69.70708501338959,Caucasian,GAN
+3471,70.12337982654572,Caucasian,GAN
+3472,78.71537625789642,Caucasian,GAN
+3473,72.19331538677216,Caucasian,GAN
+3474,66.69267690181732,Caucasian,GAN
+3475,71.70719408988953,Caucasian,GAN
+3476,76.92393505573273,Caucasian,GAN
+3477,81.9956066608429,Caucasian,GAN
+3478,73.15173470973969,Caucasian,GAN
+3479,82.17950820922852,Caucasian,GAN
+3480,80.02336466312408,Caucasian,GAN
+3481,51.4807231426239,Caucasian,GAN
+3482,56.46963155269623,Caucasian,GAN
+3483,75.77005362510681,Caucasian,GAN
+3484,68.75933527946472,Caucasian,GAN
+3485,68.43928289413452,Caucasian,GAN
+3486,48.35123431682587,Caucasian,GAN
+3487,80.17055559158325,Caucasian,GAN
+3488,78.7808405160904,Caucasian,GAN
+3489,56.65053379535675,Caucasian,GAN
+3490,73.00537300109863,Caucasian,GAN
+3491,57.32955455780029,Caucasian,GAN
+3492,53.19003188610077,Caucasian,GAN
+3493,71.11529433727264,Caucasian,GAN
+3494,62.210981965065,Caucasian,GAN
+3495,47.97427672147751,Caucasian,GAN
+3496,73.29196548461914,Caucasian,GAN
+3497,17.940985217690468,Caucasian,GAN
+3498,71.7345803976059,Caucasian,GAN
+3499,62.17424929141998,Caucasian,GAN
+3500,81.76129913330078,Caucasian,GAN
+3501,80.25231754779816,Caucasian,GAN
+3502,77.85670590400696,Caucasian,GAN
+3503,54.87583577632904,Caucasian,GAN
+3504,69.9688891172409,Caucasian,GAN
+3505,63.06261718273163,Caucasian,GAN
+3506,73.43166255950928,Caucasian,GAN
+3507,69.19079864025116,Caucasian,GAN
+3508,59.04333138465881,Caucasian,GAN
+3509,23.613194465637207,Caucasian,GAN
+3510,66.97594368457794,Caucasian,GAN
+3511,79.98537933826447,Caucasian,GAN
+3512,82.00487804412842,Caucasian,GAN
+3513,82.05826127529144,Caucasian,GAN
+3514,63.9299281835556,Caucasian,GAN
+3515,75.32891309261322,Caucasian,GAN
+3516,69.90013444423676,Caucasian,GAN
+3517,73.06484746932983,Caucasian,GAN
+3518,30.73651248216629,Caucasian,GAN
+3519,75.95050597190857,Caucasian,GAN
+3520,66.72601771354675,Caucasian,GAN
+3521,24.59807053208351,Caucasian,GAN
+3522,68.59248125553131,Caucasian,GAN
+3523,81.52364385128021,Caucasian,GAN
+3524,67.85145425796509,Caucasian,GAN
+3525,46.41356813907623,Caucasian,GAN
+3526,71.63033246994019,Caucasian,GAN
+3527,72.56757140159607,Caucasian,GAN
+3528,34.6365185379982,Caucasian,GAN
+3529,68.53133952617645,Caucasian,GAN
+3530,18.720538407564163,Caucasian,GAN
+3531,49.761933505535126,Caucasian,GAN
+3532,68.62774074077606,Caucasian,GAN
+3533,63.49040639400482,Caucasian,GAN
+3534,77.42136549949646,Caucasian,GAN
+3535,76.85226488113403,Caucasian,GAN
+3536,78.42521107196808,Caucasian,GAN
+3537,58.934725642204285,Caucasian,GAN
+3538,80.67753529548645,Caucasian,GAN
+3539,72.38271713256836,Caucasian,GAN
+3540,60.58381009101868,Caucasian,GAN
+3541,73.69819498062134,Caucasian,GAN
+3542,16.446134965866804,Caucasian,GAN
+3543,68.84707379341125,Caucasian,GAN
+3544,79.41209292411804,Caucasian,GAN
+3545,57.651697635650635,Caucasian,GAN
+3546,73.24393689632416,Caucasian,GAN
+3547,77.41355407238007,Caucasian,GAN
+3548,78.26039040088654,Caucasian,GAN
+3549,21.802895680069923,Caucasian,GAN
+3550,67.37497925758362,Caucasian,GAN
+3551,75.47381484508514,Caucasian,GAN
+3552,77.57063388824463,Caucasian,GAN
+3553,48.78425246477127,Caucasian,GAN
+3554,19.143406055867672,Caucasian,GAN
+3555,75.20739710330963,Caucasian,GAN
+3556,41.33205837011337,Caucasian,GAN
+3557,73.53984487056732,Caucasian,GAN
+3558,29.281702548265457,Caucasian,GAN
+3559,75.32145011425018,Caucasian,GAN
+3560,73.73661696910858,Caucasian,GAN
+3561,74.97010791301727,Caucasian,GAN
+3562,71.43281495571136,Caucasian,GAN
+3563,78.7033040523529,Caucasian,GAN
+3564,78.81957566738129,Caucasian,GAN
+3565,72.43331718444824,Caucasian,GAN
+3566,37.94814682006836,Caucasian,GAN
+3567,68.07244575023651,Caucasian,GAN
+3568,67.95769584178925,Caucasian,GAN
+3569,27.815114825963974,Caucasian,GAN
+3570,61.728402495384216,Caucasian,GAN
+3571,57.15912342071533,Caucasian,GAN
+3572,77.2448695898056,Caucasian,GAN
+3573,74.42769229412079,Caucasian,GAN
+3574,75.71978878974915,Caucasian,GAN
+3575,60.783987283706665,Caucasian,GAN
+3576,79.99851453304291,Caucasian,GAN
+3577,77.71231579780579,Caucasian,GAN
+3578,67.6087795495987,Caucasian,GAN
+3579,55.80898153781891,Caucasian,GAN
+3580,79.43560659885406,Caucasian,GAN
+3581,71.95433247089386,Caucasian,GAN
+3582,23.879403799772263,Caucasian,GAN
+3583,77.9684168100357,Caucasian,GAN
+3584,73.02515959739685,Caucasian,GAN
+3585,75.03108644485474,Caucasian,GAN
+3586,71.55306506156921,Caucasian,GAN
+3587,68.4214723110199,Caucasian,GAN
+3588,62.197370409965515,Caucasian,GAN
+3589,31.40814083814621,Caucasian,GAN
+3590,50.84461671113968,Caucasian,GAN
+3591,55.4217711687088,Caucasian,GAN
+3592,75.23718285560608,Caucasian,GAN
+3593,64.30488109588623,Caucasian,GAN
+3594,79.58865058422089,Caucasian,GAN
+3595,67.8901938199997,Caucasian,GAN
+3596,34.70000457763672,Caucasian,GAN
+3597,67.81161201000214,Caucasian,GAN
+3598,60.306899189949036,Caucasian,GAN
+3599,68.78034806251526,Caucasian,GAN
+3600,65.89410293102264,Caucasian,GAN
+3601,85.41007804870605,Caucasian,GAN
+3602,78.22878301143646,Caucasian,GAN
+3603,75.57756876945496,Caucasian,GAN
+3604,27.627736508846283,Caucasian,GAN
+3605,78.04863941669464,Caucasian,GAN
+3606,66.78483498096466,Caucasian,GAN
+3607,73.64186537265778,Caucasian,GAN
+3608,75.45665264129639,Caucasian,GAN
+3609,82.3156281709671,Caucasian,GAN
+3610,39.007592022418976,Caucasian,GAN
+3611,72.27105915546417,Caucasian,GAN
+3612,80.61429846286774,Caucasian,GAN
+3613,27.882643312215805,Caucasian,GAN
+3614,50.5396711230278,Caucasian,GAN
+3615,77.05694544315338,Caucasian,GAN
+3616,56.98796010017395,Caucasian,GAN
+3617,35.39175033569336,Caucasian,GAN
+3618,62.4162403345108,Caucasian,GAN
+3619,78.43331360816956,Caucasian,GAN
+3620,78.92371332645416,Caucasian,GAN
+3621,77.63073468208313,Caucasian,GAN
+3622,78.49132812023163,Caucasian,GAN
+3623,76.0972558259964,Caucasian,GAN
+3624,47.176531970500946,Caucasian,GAN
+3625,74.60959136486053,Caucasian,GAN
+3626,74.80770874023438,Caucasian,GAN
+3627,61.6198011636734,Caucasian,GAN
+3628,55.46253967285156,Caucasian,GAN
+3629,78.21644175052643,Caucasian,GAN
+3630,78.74087917804718,Caucasian,GAN
+3631,75.11639022827148,Caucasian,GAN
+3632,59.75268483161926,Caucasian,GAN
+3633,76.24340581893921,Caucasian,GAN
+3634,67.06763863563538,Caucasian,GAN
+3635,44.67896819114685,Caucasian,GAN
+3636,75.76706755161285,Caucasian,GAN
+3637,37.8087717294693,Caucasian,GAN
+3638,66.95544254779816,Caucasian,GAN
+3639,42.739078998565674,Caucasian,GAN
+3640,37.84999454021454,Caucasian,GAN
+3641,69.66428315639496,Caucasian,GAN
+3642,76.31271183490753,Caucasian,GAN
+3643,66.66562581062317,Caucasian,GAN
+3644,72.22089576721191,Caucasian,GAN
+3645,75.91373801231384,Caucasian,GAN
+3646,81.27204620838165,Caucasian,GAN
+3647,73.51907908916473,Caucasian,GAN
+3648,51.52047938108444,Caucasian,GAN
+3649,75.6594762802124,Caucasian,GAN
+3650,78.50415015220642,Caucasian,GAN
+3651,79.99014294147491,Caucasian,GAN
+3652,74.24471259117126,Caucasian,GAN
+3653,65.00024366378784,Caucasian,GAN
+3654,54.35632514953613,Caucasian,GAN
+3655,81.22545993328094,Caucasian,GAN
+3656,60.14251959323883,Caucasian,GAN
+3657,44.610963344573975,Caucasian,GAN
+3658,71.80244851112366,Caucasian,GAN
+3659,80.58598589897156,Caucasian,GAN
+3660,73.55055856704712,Caucasian,GAN
+3661,78.36770379543304,Caucasian,GAN
+3662,48.049782037734985,Caucasian,GAN
+3663,79.36509644985199,Caucasian,GAN
+3664,53.226513147354126,Caucasian,GAN
+3665,72.43940842151642,Caucasian,GAN
+3666,44.987872421741486,Caucasian,GAN
+3667,44.53561019897461,Caucasian,GAN
+3668,67.68984460830688,Caucasian,GAN
+3669,54.529080748558044,Caucasian,GAN
+3670,53.96312499046326,Caucasian,GAN
+3671,43.92945271730423,Caucasian,GAN
+3672,77.2297010421753,Caucasian,GAN
+3673,75.8160047531128,Caucasian,GAN
+3674,31.02362433075905,Caucasian,GAN
+3675,67.87557220458984,Caucasian,GAN
+3676,74.41186654567719,Caucasian,GAN
+3677,75.50754380226135,Caucasian,GAN
+3678,63.03688049316406,Caucasian,GAN
+3679,63.44115602970123,Caucasian,GAN
+3680,19.763464272022247,Caucasian,GAN
+3681,75.64669394493103,Caucasian,GAN
+3682,82.37437927722931,Caucasian,GAN
+3683,69.80469918251038,Caucasian,GAN
+3684,47.98075830936432,Caucasian,GAN
+3685,74.4959088563919,Caucasian,GAN
+3686,77.78739988803864,Caucasian,GAN
+3687,72.14057171344757,Caucasian,GAN
+3688,71.82769119739532,Caucasian,GAN
+3689,73.08324468135834,Caucasian,GAN
+3690,58.13058090209961,Caucasian,GAN
+3691,77.6204047203064,Caucasian,GAN
+3692,76.71359550952911,Caucasian,GAN
+3693,19.947813510894775,Caucasian,GAN
+3694,61.308345317840576,Caucasian,GAN
+3695,59.143847823143005,Caucasian,GAN
+3696,76.84573698043823,Caucasian,GAN
+3697,78.45302522182465,Caucasian,GAN
+3698,58.00923693180084,Caucasian,GAN
+3699,62.375529170036316,Caucasian,GAN
+3700,68.70191621780396,Caucasian,GAN
+3701,53.90987849235535,Caucasian,GAN
+3702,55.35264599323273,Caucasian,GAN
+3703,41.83504855632782,Caucasian,GAN
+3704,63.82921326160431,Caucasian,GAN
+3705,48.17416721582413,Caucasian,GAN
+3706,78.69193315505981,Caucasian,GAN
+3707,66.32591032981873,Caucasian,GAN
+3708,68.0422101020813,Caucasian,GAN
+3709,71.16001486778259,Caucasian,GAN
+3710,72.33406662940979,Caucasian,GAN
+3711,71.61489927768707,Caucasian,GAN
+3712,49.271935164928436,Caucasian,GAN
+3713,24.519461154937744,Caucasian,GAN
+3714,65.88964366912842,Caucasian,GAN
+3715,79.34520399570465,Caucasian,GAN
+3716,78.86830997467041,Caucasian,GAN
+3717,40.99455267190933,Caucasian,GAN
+3718,27.346268206834793,Caucasian,GAN
+3719,63.531620383262634,Caucasian,GAN
+3720,53.11826026439667,Caucasian,GAN
+3721,26.20001956820488,Caucasian,GAN
+3722,60.78491795063019,Caucasian,GAN
+3723,71.98645150661469,Caucasian,GAN
+3724,23.956736266613007,Caucasian,GAN
+3725,67.92102491855621,Caucasian,GAN
+3726,63.72386705875397,Caucasian,GAN
+3727,75.76830697059631,Caucasian,GAN
+3728,60.281731486320496,Caucasian,GAN
+3729,32.604783326387405,Caucasian,GAN
+3730,55.42432498931885,Caucasian,GAN
+3731,78.66015374660492,Caucasian,GAN
+3732,66.87015640735626,Caucasian,GAN
+3733,73.64770519733429,Caucasian,GAN
+3734,75.80475735664368,Caucasian,GAN
+3735,77.63222551345825,Caucasian,GAN
+3736,67.51008033752441,Caucasian,GAN
+3737,73.22176849842072,Caucasian,GAN
+3738,72.59862744808197,Caucasian,GAN
+3739,72.95022988319397,Caucasian,GAN
+3740,68.84072232246399,Caucasian,GAN
+3741,71.60834050178528,Caucasian,GAN
+3742,61.17866063117981,Caucasian,GAN
+3743,24.031593203544617,Caucasian,GAN
+3744,37.06939435005188,Caucasian,GAN
+3745,66.58464014530182,Caucasian,GAN
+3746,78.8177011013031,Caucasian,GAN
+3747,65.76868343353271,Caucasian,GAN
+3748,67.46640515327454,Caucasian,GAN
+3749,66.25893759727478,Caucasian,GAN
+3750,77.41703414916992,Caucasian,GAN
+3751,68.98521387577057,Caucasian,GAN
+3752,59.74229311943054,Caucasian,GAN
+3753,70.8224606513977,Caucasian,GAN
+3754,62.74339842796326,Caucasian,GAN
+3755,81.86086285114288,Caucasian,GAN
+3756,79.25711262226105,Caucasian,GAN
+3757,82.66269636154175,Caucasian,GAN
+3758,71.53396654129028,Caucasian,GAN
+3759,59.49589133262634,Caucasian,GAN
+3760,52.81386160850525,Caucasian,GAN
+3761,51.60350060462952,Caucasian,GAN
+3762,47.59310907125473,Caucasian,GAN
+3763,51.938309133052826,Caucasian,GAN
+3764,66.3865624666214,Caucasian,GAN
+3765,37.50111794471741,Caucasian,GAN
+3766,59.18978571891785,Caucasian,GAN
+3767,76.9736397266388,Caucasian,GAN
+3768,78.55306088924408,Caucasian,GAN
+3769,68.58707809448242,Caucasian,GAN
+3770,58.51419651508331,Caucasian,GAN
+3771,71.31940150260925,Caucasian,GAN
+3772,51.36041349172592,Caucasian,GAN
+3773,77.46058142185211,Caucasian,GAN
+3774,66.09298777580261,Caucasian,GAN
+3775,25.99305534362793,Caucasian,GAN
+3776,57.915363073349,Caucasian,GAN
+3777,65.68613636493683,Caucasian,GAN
+3778,52.78961133956909,Caucasian,GAN
+3779,80.28591859340668,Caucasian,GAN
+3780,73.71339881420135,Caucasian,GAN
+3781,78.77730309963226,Caucasian,GAN
+3782,77.79290890693665,Caucasian,GAN
+3783,77.53736805915833,Caucasian,GAN
+3784,61.019371032714844,Caucasian,GAN
+3785,40.67840600013733,Caucasian,GAN
+3786,74.04119646549225,Caucasian,GAN
+3787,75.32426416873932,Caucasian,GAN
+3788,71.20166993141174,Caucasian,GAN
+3789,50.497872710227966,Caucasian,GAN
+3790,23.496428295969963,Caucasian,GAN
+3791,63.59802854061127,Caucasian,GAN
+3792,79.9693374633789,Caucasian,GAN
+3793,38.62620383501053,Caucasian,GAN
+3794,73.41682481765747,Caucasian,GAN
+3795,42.83362549543381,Caucasian,GAN
+3796,68.46402275562286,Caucasian,GAN
+3797,69.45800590515137,Caucasian,GAN
+3798,74.19017815589905,Caucasian,GAN
+3799,39.72920733690262,Caucasian,GAN
+3800,35.10519975423813,Caucasian,GAN
+3801,70.2251797914505,Caucasian,GAN
+3802,83.40109896659851,Caucasian,GAN
+3803,81.18462526798248,Caucasian,GAN
+3804,76.87571239471436,Caucasian,GAN
+3805,46.42690181732178,Caucasian,GAN
+3806,70.03442394733429,Caucasian,GAN
+3807,76.61216604709625,Caucasian,GAN
+3808,63.60302150249481,Caucasian,GAN
+3809,74.07327580451965,Caucasian,GAN
+3810,50.628353536129,Caucasian,GAN
+3811,68.73024201393127,Caucasian,GAN
+3812,66.34399878978729,Caucasian,GAN
+3813,71.82176756858826,Caucasian,GAN
+3814,54.249091148376465,Caucasian,GAN
+3815,76.73003435134888,Caucasian,GAN
+3816,69.93141102790833,Caucasian,GAN
+3817,75.08603990077972,Caucasian,GAN
+3818,42.457230269908905,Caucasian,GAN
+3819,82.06476271152496,Caucasian,GAN
+3820,73.88001024723053,Caucasian,GAN
+3821,53.6602965593338,Caucasian,GAN
+3822,69.37870073318481,Caucasian,GAN
+3823,71.61601519584656,Caucasian,GAN
+3824,51.53576701879501,Caucasian,GAN
+3825,42.44282919168472,Caucasian,GAN
+3826,75.23488926887512,Caucasian,GAN
+3827,70.51963222026825,Caucasian,GAN
+3828,73.48689830303192,Caucasian,GAN
+3829,68.97232568264008,Caucasian,GAN
+3830,79.93981194496155,Caucasian,GAN
+3831,81.3323587179184,Caucasian,GAN
+3832,66.86207151412964,Caucasian,GAN
+3833,76.07648122310638,Caucasian,GAN
+3834,78.55274331569672,Caucasian,GAN
+3835,68.90018796920776,Caucasian,GAN
+3836,46.073801934719086,Caucasian,GAN
+3837,50.88539183139801,Caucasian,GAN
+3838,75.00233280658722,Caucasian,GAN
+3839,56.301379323005676,Caucasian,GAN
+3840,73.91884684562683,Caucasian,GAN
+3841,18.320221789181232,Caucasian,GAN
+3842,69.75585901737213,Caucasian,GAN
+3843,69.66305255889893,Caucasian,GAN
+3844,44.9753657579422,Caucasian,GAN
+3845,69.13034498691559,Caucasian,GAN
+3846,48.132439374923706,Caucasian,GAN
+3847,73.54112839698792,Caucasian,GAN
+3848,46.14200747013092,Caucasian,GAN
+3849,64.23496639728546,Caucasian,GAN
+3850,64.40592682361603,Caucasian,GAN
+3851,76.74122440814972,Caucasian,GAN
+3852,76.83045375347137,Caucasian,GAN
+3853,81.22933256626129,Caucasian,GAN
+3854,68.10612618923187,Caucasian,GAN
+3855,78.18440651893616,Caucasian,GAN
+3856,53.688538551330566,Caucasian,GAN
+3857,68.00176358222961,Caucasian,GAN
+3858,75.65542721748352,Caucasian,GAN
+3859,72.08375251293182,Caucasian,GAN
+3860,59.8847336769104,Caucasian,GAN
+3861,54.47067368030548,Caucasian,GAN
+3862,80.70806205272675,Caucasian,GAN
+3863,49.85477524995804,Caucasian,GAN
+3864,79.4312002658844,Caucasian,GAN
+3865,77.1437577009201,Caucasian,GAN
+3866,76.50066685676575,Caucasian,GAN
+3867,80.67119705677032,Caucasian,GAN
+3868,33.17028367519379,Caucasian,GAN
+3869,71.80191040039062,Caucasian,GAN
+3870,53.688392996788025,Caucasian,GAN
+3871,80.79793536663055,Caucasian,GAN
+3872,80.6439254283905,Caucasian,GAN
+3873,72.10884523391724,Caucasian,GAN
+3874,59.60131251811981,Caucasian,GAN
+3875,79.48911333084106,Caucasian,GAN
+3876,82.62569463253021,Caucasian,GAN
+3877,82.98720800876617,Caucasian,GAN
+3878,62.142858028411865,Caucasian,GAN
+3879,75.19453537464142,Caucasian,GAN
+3880,35.7783939242363,Caucasian,GAN
+3881,74.46500277519226,Caucasian,GAN
+3882,67.89305198192596,Caucasian,GAN
+3883,68.64975035190582,Caucasian,GAN
+3884,56.55913436412811,Caucasian,GAN
+3885,65.3095029592514,Caucasian,GAN
+3886,74.0207394361496,Caucasian,GAN
+3887,75.62049412727356,Caucasian,GAN
+3888,74.34760642051697,Caucasian,GAN
+3889,72.1506017446518,Caucasian,GAN
+3890,73.61870896816254,Caucasian,GAN
+3891,75.43533992767334,Caucasian,GAN
+3892,83.29008936882019,Caucasian,GAN
+3893,60.458478808403015,Caucasian,GAN
+3894,49.538068413734436,Caucasian,GAN
+3895,74.45489776134491,Caucasian,GAN
+3896,75.16843259334564,Caucasian,GAN
+3897,77.67363798618317,Caucasian,GAN
+3898,73.79996407032013,Caucasian,GAN
+3899,26.310804218053818,Caucasian,GAN
+3900,71.13353717327118,Caucasian,GAN
+3901,71.71194887161255,Caucasian,GAN
+3902,76.89134848117828,Caucasian,GAN
+3903,78.95199942588806,Caucasian,GAN
+3904,37.27367573976517,Caucasian,GAN
+3905,53.261168360710144,Caucasian,GAN
+3906,67.91791093349457,Caucasian,GAN
+3907,78.4069550037384,Caucasian,GAN
+3908,80.05878293514252,Caucasian,GAN
+3909,45.91970598697662,Caucasian,GAN
+3910,54.4564049243927,Caucasian,GAN
+3911,75.19984149932861,Caucasian,GAN
+3912,26.884952932596207,Caucasian,GAN
+3913,82.01908946037292,Caucasian,GAN
+3914,80.5925623178482,Caucasian,GAN
+3915,75.21625828742981,Caucasian,GAN
+3916,75.77489221096039,Caucasian,GAN
+3917,67.84059500694275,Caucasian,GAN
+3918,73.95424747467041,Caucasian,GAN
+3919,71.10368084907532,Caucasian,GAN
+3920,70.1275964975357,Caucasian,GAN
+3921,47.39095586538315,Caucasian,GAN
+3922,71.65851271152496,Caucasian,GAN
+3923,44.99196118116379,Caucasian,GAN
+3924,44.02083230018616,Caucasian,GAN
+3925,28.93155124783516,Caucasian,GAN
+3926,68.2529069185257,Caucasian,GAN
+3927,55.0098032951355,Caucasian,GAN
+3928,16.586795926094055,Caucasian,GAN
+3929,49.699706733226776,Caucasian,GAN
+3930,56.24626266956329,Caucasian,GAN
+3931,65.31266105175018,Caucasian,GAN
+3932,84.72036123275757,Caucasian,GAN
+3933,63.36051881313324,Caucasian,GAN
+3934,40.85913842916489,Caucasian,GAN
+3935,31.394994616508484,Caucasian,GAN
+3936,74.53774917125702,Caucasian,GAN
+3937,79.04585123062134,Caucasian,GAN
+3938,48.68083816766739,Caucasian,GAN
+3939,40.85007655620575,Caucasian,GAN
+3940,78.02453470230103,Caucasian,GAN
+3941,78.86668682098389,Caucasian,GAN
+3942,45.06775540113449,Caucasian,GAN
+3943,63.70692980289459,Caucasian,GAN
+3944,74.96244204044342,Caucasian,GAN
+3945,52.998865842819214,Caucasian,GAN
+3946,60.201372146606445,Caucasian,GAN
+3947,72.85281419754028,Caucasian,GAN
+3948,78.19079768657684,Caucasian,GAN
+3949,17.834854178130627,Caucasian,GAN
+3950,56.304091930389404,Caucasian,GAN
+3951,62.766462206840515,Caucasian,GAN
+3952,58.225866198539734,Caucasian,GAN
+3953,30.133642107248306,Caucasian,GAN
+3954,59.90021097660065,Caucasian,GAN
+3955,32.064929246902466,Caucasian,GAN
+3956,77.4081597328186,Caucasian,GAN
+3957,43.74478590488434,Caucasian,GAN
+3958,77.71936857700348,Caucasian,GAN
+3959,69.07536947727203,Caucasian,GAN
+3960,73.79697799682617,Caucasian,GAN
+3961,80.64461350440979,Caucasian,GAN
+3962,78.49498903751373,Caucasian,GAN
+3963,55.87561905384064,Caucasian,GAN
+3964,52.08263087272644,Caucasian,GAN
+3965,71.9236513376236,Caucasian,GAN
+3966,32.41079220175743,Caucasian,GAN
+3967,25.291159361600876,Caucasian,GAN
+3968,27.93981757760048,Caucasian,GAN
+3969,28.46951261162758,Caucasian,GAN
+3970,74.82916700839996,Caucasian,GAN
+3971,52.31608712673187,Caucasian,GAN
+3972,79.30871832370758,Caucasian,GAN
+3973,79.47018682956696,Caucasian,GAN
+3974,70.55879521369934,Caucasian,GAN
+3975,40.22134709358215,Caucasian,GAN
+3976,79.22138118743896,Caucasian,GAN
+3977,58.22871553897858,Caucasian,GAN
+3978,78.30838811397552,Caucasian,GAN
+3979,78.41672921180725,Caucasian,GAN
+3980,44.104965031147,Caucasian,GAN
+3981,55.377275586128235,Caucasian,GAN
+3982,54.07810425758362,Caucasian,GAN
+3983,75.70884132385254,Caucasian,GAN
+3984,72.55731642246246,Caucasian,GAN
+3985,43.20090591907501,Caucasian,GAN
+3986,57.12938618659973,Caucasian,GAN
+3987,60.62090885639191,Caucasian,GAN
+3988,51.08069735765457,Caucasian,GAN
+3989,72.7745852470398,Caucasian,GAN
+3990,35.000027775764465,Caucasian,GAN
+3991,79.25224316120148,Caucasian,GAN
+3992,72.64856588840485,Caucasian,GAN
+3993,81.25008952617645,Caucasian,GAN
+3994,71.70320236682892,Caucasian,GAN
+3995,64.02089536190033,Caucasian,GAN
+3996,55.560484647750854,Caucasian,GAN
+3997,81.45970129966736,Caucasian,GAN
+3998,21.39757865667343,Caucasian,GAN
+3999,74.35752618312836,Caucasian,GAN
+4000,64.93782722949982,Caucasian,GAN
+4001,73.89057838916779,Caucasian,GAN
+4002,69.38967025279999,Caucasian,GAN
+4003,69.23219347000122,Caucasian,GAN
+4004,77.37897825241089,Caucasian,GAN
+4005,70.36263620853424,Caucasian,GAN
+4006,18.940350852906704,Caucasian,GAN
+4007,40.70642966032028,Caucasian,GAN
+4008,76.65123200416565,Caucasian,GAN
+4009,68.96176195144653,Caucasian,GAN
+4010,47.117904365062714,Caucasian,GAN
+4011,64.67552030086517,Caucasian,GAN
+4012,60.41620624065399,Caucasian,GAN
+4013,79.42446506023407,Caucasian,GAN
+4014,75.45301818847656,Caucasian,GAN
+4015,76.47148537635803,Caucasian,GAN
+4016,79.99174404144287,Caucasian,GAN
+4017,58.91905426979065,Caucasian,GAN
+4018,72.51511442661285,Caucasian,GAN
+4019,47.260510325431824,Caucasian,GAN
+4020,45.663810074329376,Caucasian,GAN
+4021,43.88800936937332,Caucasian,GAN
+4022,82.72313678264618,Caucasian,GAN
+4023,73.46556794643402,Caucasian,GAN
+4024,60.35337960720062,Caucasian,GAN
+4025,36.244944751262665,Caucasian,GAN
+4026,73.27748942375183,Caucasian,GAN
+4027,59.06026864051819,Caucasian,GAN
+4028,69.72681427001953,Caucasian,GAN
+4029,79.46526443958282,Caucasian,GAN
+4030,51.84102576971054,Caucasian,GAN
+4031,72.86519074440002,Caucasian,GAN
+4032,35.32316768169403,Caucasian,GAN
+4033,78.5288017988205,Caucasian,GAN
+4034,48.57593524456024,Caucasian,GAN
+4035,69.29990720748901,Caucasian,GAN
+4036,70.39386868476868,Caucasian,GAN
+4037,71.2095034122467,Caucasian,GAN
+4038,74.75354039669037,Caucasian,GAN
+4039,67.78912603855133,Caucasian,GAN
+4040,78.92337810993195,Caucasian,GAN
+4041,60.01350975036621,Caucasian,GAN
+4042,62.40532374382019,Caucasian,GAN
+4043,39.84721678495407,Caucasian,GAN
+4044,78.89294838905334,Caucasian,GAN
+4045,16.85195481404662,Caucasian,GAN
+4046,73.49277341365814,Caucasian,GAN
+4047,67.60271918773651,Caucasian,GAN
+4048,18.55478210747242,Caucasian,GAN
+4049,30.888987481594086,Caucasian,GAN
+4050,74.59026789665222,Caucasian,GAN
+4051,32.508029252290726,Caucasian,GAN
+4052,59.09642791748047,Caucasian,GAN
+4053,79.23680555820465,Caucasian,GAN
+4054,45.56960982084274,Caucasian,GAN
+4055,79.2703845500946,Caucasian,GAN
+4056,21.339465454220772,Caucasian,GAN
+4057,47.031442761421204,Caucasian,GAN
+4058,53.417110204696655,Caucasian,GAN
+4059,57.00948894023895,Caucasian,GAN
+4060,66.81745684146881,Caucasian,GAN
+4061,77.25121665000916,Caucasian,GAN
+4062,69.3837730884552,Caucasian,GAN
+4063,77.90163373947144,Caucasian,GAN
+4064,68.07167387008667,Caucasian,GAN
+4065,75.92376363277435,Caucasian,GAN
+4066,64.02690279483795,Caucasian,GAN
+4067,69.30031299591064,Caucasian,GAN
+4068,44.16261124610901,Caucasian,GAN
+4069,36.60113877058029,Caucasian,GAN
+4070,71.66430401802063,Caucasian,GAN
+4071,74.72977089881897,Caucasian,GAN
+4072,76.45985865592957,Caucasian,GAN
+4073,80.39605486392975,Caucasian,GAN
+4074,83.02917623519897,Caucasian,GAN
+4075,70.7471295595169,Caucasian,GAN
+4076,17.742864534258842,Caucasian,GAN
+4077,78.42196476459503,Caucasian,GAN
+4078,71.95611441135406,Caucasian,GAN
+4079,78.214386343956,Caucasian,GAN
+4080,64.26212775707245,Caucasian,GAN
+4081,75.82213568687439,Caucasian,GAN
+4082,59.29830765724182,Caucasian,GAN
+4083,75.28222978115082,Caucasian,GAN
+4084,78.92927527427673,Caucasian,GAN
+4085,77.98922669887543,Caucasian,GAN
+4086,76.39847433567047,Caucasian,GAN
+4087,62.14942121505737,Caucasian,GAN
+4088,68.39586353302002,Caucasian,GAN
+4089,76.30605602264404,Caucasian,GAN
+4090,25.815896719694138,Caucasian,GAN
+4091,78.39647507667542,Caucasian,GAN
+4092,76.22825932502747,Caucasian,GAN
+4093,74.50179278850555,Caucasian,GAN
+4094,23.505582243204117,Caucasian,GAN
+4095,66.01115083694458,Caucasian,GAN
+4096,71.58107328414917,Caucasian,GAN
+4097,70.54468524456024,Caucasian,GAN
+4098,61.849133372306824,Caucasian,GAN
+4099,73.56889402866364,Caucasian,GAN
+4100,78.49195885658264,Caucasian,GAN
+4101,65.54483377933502,Caucasian,GAN
+4102,34.260531306266785,Caucasian,GAN
+4103,68.5737841129303,Caucasian,GAN
+4104,66.35362303256989,Caucasian,GAN
+4105,75.81483590602875,Caucasian,GAN
+4106,32.32391709089279,Caucasian,GAN
+4107,79.76382327079773,Caucasian,GAN
+4108,77.39257657527924,Caucasian,GAN
+4109,39.11967343091965,Caucasian,GAN
+4110,71.50843715667725,Caucasian,GAN
+4111,79.71595346927643,Caucasian,GAN
+4112,71.28057372570038,Caucasian,GAN
+4113,77.4456775188446,Caucasian,GAN
+4114,79.93030679225922,Caucasian,GAN
+4115,74.12697660923004,Caucasian,GAN
+4116,76.61573874950409,Caucasian,GAN
+4117,75.37031674385071,Caucasian,GAN
+4118,75.98819577693939,Caucasian,GAN
+4119,72.60957491397858,Caucasian,GAN
+4120,23.384369492530823,Caucasian,GAN
+4121,74.61724400520325,Caucasian,GAN
+4122,71.22010242938995,Caucasian,GAN
+4123,37.28393292427063,Caucasian,GAN
+4124,70.81945252418518,Caucasian,GAN
+4125,79.27549660205841,Caucasian,GAN
+4126,60.49438226222992,Caucasian,GAN
+4127,75.3382374048233,Caucasian,GAN
+4128,81.65287864208221,Caucasian,GAN
+4129,54.1208575963974,Caucasian,GAN
+4130,72.63927686214447,Caucasian,GAN
+4131,66.39604556560516,Caucasian,GAN
+4132,74.4041256904602,Caucasian,GAN
+4133,72.3792017698288,Caucasian,GAN
+4134,73.1707273721695,Caucasian,GAN
+4135,69.9129388332367,Caucasian,GAN
+4136,56.99219000339508,Caucasian,GAN
+4137,70.75791823863983,Caucasian,GAN
+4138,63.207170486450195,Caucasian,GAN
+4139,76.56181740760803,Caucasian,GAN
+4140,64.2757922410965,Caucasian,GAN
+4141,59.53197121620178,Caucasian,GAN
+4142,70.62093818187714,Caucasian,GAN
+4143,67.06335580348969,Caucasian,GAN
+4144,70.189377784729,Caucasian,GAN
+4145,83.44428896903992,Caucasian,GAN
+4146,72.95269989967346,Caucasian,GAN
+4147,74.6819099187851,Caucasian,GAN
+4148,83.63219547271729,Caucasian,GAN
+4149,72.33006608486176,Caucasian,GAN
+4150,82.27073562145233,Caucasian,GAN
+4151,77.54432380199432,Caucasian,GAN
+4152,74.90766060352325,Caucasian,GAN
+4153,75.82199454307556,Caucasian,GAN
+4154,75.61316347122192,Caucasian,GAN
+4155,80.89783430099487,Caucasian,GAN
+4156,44.3934166431427,Caucasian,GAN
+4157,70.9999930858612,Caucasian,GAN
+4158,63.23809862136841,Caucasian,GAN
+4159,74.37493538856506,Caucasian,GAN
+4160,55.066688656806946,Caucasian,GAN
+4161,80.9738358259201,Caucasian,GAN
+4162,74.76260006427765,Caucasian,GAN
+4163,75.90938019752502,Caucasian,GAN
+4164,77.9034024477005,Caucasian,GAN
+4165,77.98186957836151,Caucasian,GAN
+4166,74.07350075244904,Caucasian,GAN
+4167,49.136370956897736,Caucasian,GAN
+4168,61.16836154460907,Caucasian,GAN
+4169,64.52703261375427,Caucasian,GAN
+4170,74.34907960891724,Caucasian,GAN
+4171,74.86157715320587,Caucasian,GAN
+4172,80.93676352500916,Caucasian,GAN
+4173,46.150264382362366,Caucasian,GAN
+4174,60.75697147846222,Caucasian,GAN
+4175,69.8786849975586,Caucasian,GAN
+4176,77.01460671424866,Caucasian,GAN
+4177,75.6504430770874,Caucasian,GAN
+4178,74.05240857601166,Caucasian,GAN
+4179,79.2526445388794,Caucasian,GAN
+4180,80.95424330234528,Caucasian,GAN
+4181,50.39759004116058,Caucasian,GAN
+4182,74.51020407676697,Caucasian,GAN
+4183,16.738909520208836,Caucasian,GAN
+4184,80.0920399427414,Caucasian,GAN
+4185,84.10291886329651,Caucasian,GAN
+4186,31.128254890441895,Caucasian,GAN
+4187,78.60177314281464,Caucasian,GAN
+4188,24.748683094978333,Caucasian,GAN
+4189,73.73172986507416,Caucasian,GAN
+4190,72.16137719154358,Caucasian,GAN
+4191,22.195577576756477,Caucasian,GAN
+4192,78.24005687236786,Caucasian,GAN
+4193,79.43861031532288,Caucasian,GAN
+4194,75.58130466938019,Caucasian,GAN
+4195,35.65336036682129,Caucasian,GAN
+4196,49.34777349233627,Caucasian,GAN
+4197,81.72729229927063,Caucasian,GAN
+4198,80.24860370159149,Caucasian,GAN
+4199,70.02919721603394,Caucasian,GAN
+4200,72.24081909656525,Caucasian,GAN
+4201,56.435439467430115,Caucasian,GAN
+4202,71.80933809280396,Caucasian,GAN
+4203,66.98977136611938,Caucasian,GAN
+4204,69.30546474456787,Caucasian,GAN
+4205,78.70210433006287,Caucasian,GAN
+4206,74.1816918849945,Caucasian,GAN
+4207,70.86871612071991,Caucasian,GAN
+4208,71.63278043270111,Caucasian,GAN
+4209,79.53289437294006,Caucasian,GAN
+4210,62.40772759914398,Caucasian,GAN
+4211,68.43577194213867,Caucasian,GAN
+4212,76.80037248134613,Caucasian,GAN
+4213,78.65287601947784,Caucasian,GAN
+4214,71.18516933917999,Caucasian,GAN
+4215,65.71554720401764,Caucasian,GAN
+4216,70.7598192691803,Caucasian,GAN
+4217,53.240490794181824,Caucasian,GAN
+4218,66.94265580177307,Caucasian,GAN
+4219,66.79789519309998,Caucasian,GAN
+4220,43.43844431638718,Caucasian,GAN
+4221,68.71251964569092,Caucasian,GAN
+4222,69.9397120475769,Caucasian,GAN
+4223,75.85130834579468,Caucasian,GAN
+4224,73.32594585418701,Caucasian,GAN
+4225,53.20572090148926,Caucasian,GAN
+4226,76.22852396965027,Caucasian,GAN
+4227,77.47564852237701,Caucasian,GAN
+4228,78.6050900220871,Caucasian,GAN
+4229,77.5096024274826,Caucasian,GAN
+4230,73.0955947637558,Caucasian,GAN
+4231,77.35791254043579,Caucasian,GAN
+4232,74.24923360347748,Caucasian,GAN
+4233,75.78864932060242,Caucasian,GAN
+4234,52.55424964427948,Caucasian,GAN
+4235,75.13774704933167,Caucasian,GAN
+4236,76.32952558994293,Caucasian,GAN
+4237,70.48758816719055,Caucasian,GAN
+4238,76.05666375160217,Caucasian,GAN
+4239,39.1689458489418,Caucasian,GAN
+4240,79.17323350906372,Caucasian,GAN
+4241,71.63417422771454,Caucasian,GAN
+4242,83.00492596626282,Caucasian,GAN
+4243,54.746530413627625,Caucasian,GAN
+4244,68.5241676568985,Caucasian,GAN
+4245,40.94876253604889,Caucasian,GAN
+4246,65.20330107212067,Caucasian,GAN
+4247,79.52470803260803,Caucasian,GAN
+4248,74.69729459285736,Caucasian,GAN
+4249,48.23489874601364,Caucasian,GAN
+4250,72.40212881565094,Caucasian,GAN
+4251,71.28175139427185,Caucasian,GAN
+4252,75.19128465652466,Caucasian,GAN
+4253,64.81497037410736,Caucasian,GAN
+4254,54.2855327129364,Caucasian,GAN
+4255,74.98524558544159,Caucasian,GAN
+4256,70.1833747625351,Caucasian,GAN
+4257,25.046344339847565,Caucasian,GAN
+4258,76.10587000846863,Caucasian,GAN
+4259,57.35581612586975,Caucasian,GAN
+4260,15.867735672742128,Caucasian,GAN
+4261,28.158814311027527,Caucasian,GAN
+4262,33.715700805187225,Caucasian,GAN
+4263,75.58326303958893,Caucasian,GAN
+4264,75.29540026187897,Caucasian,GAN
+4265,79.86497044563293,Caucasian,GAN
+4266,54.79288733005524,Caucasian,GAN
+4267,48.06959289312363,Caucasian,GAN
+4268,35.55368638038635,Caucasian,GAN
+4269,41.652695178985596,Caucasian,GAN
+4270,51.92864519357681,Caucasian,GAN
+4271,54.05600643157959,Caucasian,GAN
+4272,73.39888191223145,Caucasian,GAN
+4273,22.557239815592766,Caucasian,GAN
+4274,71.00760161876678,Caucasian,GAN
+4275,74.86758017539978,Caucasian,GAN
+4276,75.45259034633636,Caucasian,GAN
+4277,57.923567056655884,Caucasian,GAN
+4278,77.98519086837769,Caucasian,GAN
+4279,80.98829865455627,Caucasian,GAN
+4280,42.049104154109955,Caucasian,GAN
+4281,69.61431384086609,Caucasian,GAN
+4282,76.76598191261292,Caucasian,GAN
+4283,31.63314390182495,Caucasian,GAN
+4284,67.61397981643677,Caucasian,GAN
+4285,66.40994381904602,Caucasian,GAN
+4286,61.11653530597687,Caucasian,GAN
+4287,72.58860182762146,Caucasian,GAN
+4288,80.59818601608276,Caucasian,GAN
+4289,82.65532159805298,Caucasian,GAN
+4290,46.314480781555176,Caucasian,GAN
+4291,25.55449730157852,Caucasian,GAN
+4292,69.42233180999756,Caucasian,GAN
+4293,33.13937097787857,Caucasian,GAN
+4294,61.53215968608856,Caucasian,GAN
+4295,55.18546998500824,Caucasian,GAN
+4296,73.05625092983246,Caucasian,GAN
+4297,17.522519767284393,Caucasian,GAN
+4298,66.43978691101074,Caucasian,GAN
+4299,60.66282415390015,Caucasian,GAN
+4300,70.36767327785492,Caucasian,GAN
+4301,50.929916083812714,Caucasian,GAN
+4302,69.72250056266785,Caucasian,GAN
+4303,61.66033589839935,Caucasian,GAN
+4304,78.68156790733337,Caucasian,GAN
+4305,70.36220836639404,Caucasian,GAN
+4306,76.93525302410126,Caucasian,GAN
+4307,71.05568313598633,Caucasian,GAN
+4308,63.350122690200806,Caucasian,GAN
+4309,77.8271495103836,Caucasian,GAN
+4310,73.36521470546722,Caucasian,GAN
+4311,80.27154397964478,Caucasian,GAN
+4312,80.2553300857544,Caucasian,GAN
+4313,37.45781987905502,Caucasian,GAN
+4314,63.75154006481171,Caucasian,GAN
+4315,56.604565024375916,Caucasian,GAN
+4316,41.99297082424164,Caucasian,GAN
+4317,62.86614942550659,Caucasian,GAN
+4318,58.35205316543579,Caucasian,GAN
+4319,29.46676743030548,Caucasian,GAN
+4320,38.93143832683563,Caucasian,GAN
+4321,60.349321722984314,Caucasian,GAN
+4322,45.25641173124313,Caucasian,GAN
+4323,57.27406299114227,Caucasian,GAN
+4324,80.5111620426178,Caucasian,GAN
+4325,75.65158987045288,Caucasian,GAN
+4326,81.63294649124146,Caucasian,GAN
+4327,16.747888416051865,Caucasian,GAN
+4328,22.490236207842827,Caucasian,GAN
+4329,71.93292713165283,Caucasian,GAN
+4330,44.14155876636505,Caucasian,GAN
+4331,43.919416069984436,Caucasian,GAN
+4332,81.12040483951569,Caucasian,GAN
+4333,76.05853831768036,Caucasian,GAN
+4334,69.99283504486084,Caucasian,GAN
+4335,74.22276473045349,Caucasian,GAN
+4336,43.804123640060425,Caucasian,GAN
+4337,33.88233870267868,Caucasian,GAN
+4338,64.54041481018066,Caucasian,GAN
+4339,59.97766363620758,Caucasian,GAN
+4340,64.17811632156372,Caucasian,GAN
+4341,63.42191195487976,Caucasian,GAN
+4342,75.51970863342285,Caucasian,GAN
+4343,76.98849511146545,Caucasian,GAN
+4344,71.24145483970642,Caucasian,GAN
+4345,46.365290343761444,Caucasian,GAN
+4346,56.18480336666107,Caucasian,GAN
+4347,73.54174149036407,Caucasian,GAN
+4348,63.20363748073578,Caucasian,GAN
+4349,79.75497531890869,Caucasian,GAN
+4350,71.64976620674133,Caucasian,GAN
+4351,27.779062509536743,Caucasian,GAN
+4352,74.33807039260864,Caucasian,GAN
+4353,39.373363971710205,Caucasian,GAN
+4354,26.065530478954315,Caucasian,GAN
+4355,74.60497331619263,Caucasian,GAN
+4356,33.0045665204525,Caucasian,GAN
+4357,82.04747700691223,Caucasian,GAN
+4358,76.28910994529724,Caucasian,GAN
+4359,77.99809670448303,Caucasian,GAN
+4360,34.55051124095917,Caucasian,GAN
+4361,71.55723762512207,Caucasian,GAN
+4362,75.62474167346954,Caucasian,GAN
+4363,39.714287996292114,Caucasian,GAN
+4364,79.5235435962677,Caucasian,GAN
+4365,81.62823140621185,Caucasian,GAN
+4366,79.63932120800018,Caucasian,GAN
+4367,80.49554359912872,Caucasian,GAN
+4368,69.94762051105499,Caucasian,GAN
+4369,81.97971475124359,Caucasian,GAN
+4370,72.48033130168915,Caucasian,GAN
+4371,68.4982898235321,Caucasian,GAN
+4372,64.34020233154297,Caucasian,GAN
+4373,76.3981214761734,Caucasian,GAN
+4374,66.48135375976562,Caucasian,GAN
+4375,81.13876235485077,Caucasian,GAN
+4376,65.8822865486145,Caucasian,GAN
+4377,72.31925535202026,Caucasian,GAN
+4378,25.70065611600876,Caucasian,GAN
+4379,75.85753631591797,Caucasian,GAN
+4380,53.10496187210083,Caucasian,GAN
+4381,77.16371631622314,Caucasian,GAN
+4382,49.22629499435425,Caucasian,GAN
+4383,75.35931193828583,Caucasian,GAN
+4384,70.20453310012817,Caucasian,GAN
+4385,76.18596470355988,Caucasian,GAN
+4386,74.84808909893036,Caucasian,GAN
+4387,77.80712473392487,Caucasian,GAN
+4388,54.47086775302887,Caucasian,GAN
+4389,78.57723617553711,Caucasian,GAN
+4390,65.58560228347778,Caucasian,GAN
+4391,66.70329797267914,Caucasian,GAN
+4392,67.3809734582901,Caucasian,GAN
+4393,77.83433020114899,Caucasian,GAN
+4394,79.64546537399292,Caucasian,GAN
+4395,27.07694047689438,Caucasian,GAN
+4396,64.90629923343658,Caucasian,GAN
+4397,76.13133764266968,Caucasian,GAN
+4398,78.55007481575012,Caucasian,GAN
+4399,48.20882022380829,Caucasian,GAN
+4400,75.21143734455109,Caucasian,GAN
+4401,26.969542175531387,Caucasian,GAN
+4402,66.19653880596161,Caucasian,GAN
+4403,71.79812157154083,Caucasian,GAN
+4404,72.38411092758179,Caucasian,GAN
+4405,82.36391258239746,Caucasian,GAN
+4406,36.28504943847656,Caucasian,GAN
+4407,77.86547887325287,Caucasian,GAN
+4408,29.94598811864853,Caucasian,GAN
+4409,40.73501569032669,Caucasian,GAN
+4410,76.82126176357269,Caucasian,GAN
+4411,58.03508388996124,Caucasian,GAN
+4412,76.52391588687897,Caucasian,GAN
+4413,76.48555564880371,Caucasian,GAN
+4414,23.491382405161858,Caucasian,GAN
+4415,78.1631555557251,Caucasian,GAN
+4416,73.55198764801025,Caucasian,GAN
+4417,51.612368404865265,Caucasian,GAN
+4418,69.5599867105484,Caucasian,GAN
+4419,73.83293879032135,Caucasian,GAN
+4420,76.1452579498291,Caucasian,GAN
+4421,69.6868485212326,Caucasian,GAN
+4422,83.87199437618256,Caucasian,GAN
+4423,67.18927812576294,Caucasian,GAN
+4424,69.43600511550903,Caucasian,GAN
+4425,55.6201046705246,Caucasian,GAN
+4426,73.39426827430725,Caucasian,GAN
+4427,77.32383513450623,Caucasian,GAN
+4428,76.72368729114532,Caucasian,GAN
+4429,81.8481775522232,Caucasian,GAN
+4430,71.95229470729828,Caucasian,GAN
+4431,61.63638114929199,Caucasian,GAN
+4432,70.8159327507019,Caucasian,GAN
+4433,67.39315152168274,Caucasian,GAN
+4434,51.75083267688751,Caucasian,GAN
+4435,50.2073215842247,Caucasian,GAN
+4436,56.749475598335266,Caucasian,GAN
+4437,18.18263801187277,Caucasian,GAN
+4438,25.235670000314713,Caucasian,GAN
+4439,73.32605612277985,Caucasian,GAN
+4440,76.18585884571075,Caucasian,GAN
+4441,80.71596169471741,Caucasian,GAN
+4442,77.53724896907806,Caucasian,GAN
+4443,21.039157211780548,Caucasian,GAN
+4444,74.80242908000946,Caucasian,GAN
+4445,34.664147436618805,Caucasian,GAN
+4446,63.360262989997864,Caucasian,GAN
+4447,73.70129132270813,Caucasian,GAN
+4448,74.37572932243347,Caucasian,GAN
+4449,72.43058693408966,Caucasian,GAN
+4450,68.0989146232605,Caucasian,GAN
+4451,63.45885634422302,Caucasian,GAN
+4452,79.8805183172226,Caucasian,GAN
+4453,76.68170142173767,Caucasian,GAN
+4454,66.91358458995819,Caucasian,GAN
+4455,77.88076651096344,Caucasian,GAN
+4456,73.84032237529755,Caucasian,GAN
+4457,67.80893909931183,Caucasian,GAN
+4458,69.3431898355484,Caucasian,GAN
+4459,65.75411033630371,Caucasian,GAN
+4460,74.56241405010223,Caucasian,GAN
+4461,72.45853340625763,Caucasian,GAN
+4462,29.874118357896805,Caucasian,GAN
+4463,80.53564167022705,Caucasian,GAN
+4464,42.421223163604736,Caucasian,GAN
+4465,76.45686376094818,Caucasian,GAN
+4466,76.68130445480347,Caucasian,GAN
+4467,78.93310379981995,Caucasian,GAN
+4468,69.56340062618256,Caucasian,GAN
+4469,59.3604462146759,Caucasian,GAN
+4470,64.4477891921997,Caucasian,GAN
+4471,62.81760919094086,Caucasian,GAN
+4472,71.12114298343658,Caucasian,GAN
+4473,50.955348432064056,Caucasian,GAN
+4474,76.87732231616974,Caucasian,GAN
+4475,40.12612575292587,Caucasian,GAN
+4476,73.94956767559052,Caucasian,GAN
+4477,73.33599352836609,Caucasian,GAN
+4478,72.73604416847229,Caucasian,GAN
+4479,78.5822423696518,Caucasian,GAN
+4480,80.95354199409485,Caucasian,GAN
+4481,73.55125546455383,Caucasian,GAN
+4482,77.81850445270538,Caucasian,GAN
+4483,63.94428074359894,Caucasian,GAN
+4484,82.0042781829834,Caucasian,GAN
+4485,69.35541641712189,Caucasian,GAN
+4486,75.24693942070007,Caucasian,GAN
+4487,64.6391669511795,Caucasian,GAN
+4488,40.42400312423706,Caucasian,GAN
+4489,24.408530950546265,Caucasian,GAN
+4490,69.69133865833282,Caucasian,GAN
+4491,73.18928337097168,Caucasian,GAN
+4492,74.54678237438202,Caucasian,GAN
+4493,76.79273307323456,Caucasian,GAN
+4494,35.95315861701965,Native American,GAN
+4495,16.158668879419565,Native American,GAN
+4496,54.337072253227234,Native American,GAN
+4497,67.15959823131561,Native American,GAN
+4498,56.36251223087311,Native American,GAN
+4499,41.754133462905884,Native American,GAN
+4500,40.516584634780884,Native American,GAN
+4501,45.63711404800415,Native American,GAN
+4502,42.87007147073746,Native American,GAN
+4503,64.06630837917328,Native American,GAN
+4504,65.22905099391937,Native American,GAN
+4505,22.923292949795723,Native American,GAN
