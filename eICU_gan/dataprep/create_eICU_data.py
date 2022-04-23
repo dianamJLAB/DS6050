@@ -216,3 +216,36 @@ def minmax_inversescale_columns(df_output: pd.DataFrame, df_input: pd.DataFrame,
         df_output[column] = [(x * (col_max - col_min) + col_min) for x in df_output[column]]
 
     return df_output
+
+def reverse_one_hot(data, columns=[], prefix='_', new_col = 'cat_col'):
+    """
+    Reverse one hot encoding of data.
+    Arguments:
+        data: dataframe to reverse one hot encoding
+        columns: list of columns to reverse one hot encoding
+            Example: ['ethnicity_AfricanAmerican',
+        'ethnicity_Asian', 'ethnicity_Caucasian', 'ethnicity_Hispanic',
+        'ethnicity_NativeAmerican]
+        prefix: prefix of the columns to reverse one hot encoding
+            Example: 'ethnicity_'
+        new_col: the column name for the new column with the text representation of the one hot encoded columns
+            Example: 'ethnicity'
+    
+    Returns:
+        a new dataframe with the text representation of the one hot encoded columns. The one hot encoded columns have been dropped.
+    """
+    # copy data dataframe into new_data
+    new_data = data.copy()
+
+    # get the dataframe of only the columns we want to reverse one hot
+    filtered_data = data[columns]
+    # get the text representation from the one hot encoded columns: the max value == 1
+    lst_categories = pd.get_dummies(filtered_data).idxmax(1).to_list()
+    # remove the prefix from the values
+    lst_categories = [cat.replace(prefix,'') for cat in lst_categories]
+    # add the new column to the dataframe with the caegory text values
+    new_data[new_col] = lst_categories
+    # drop the columns in columns
+    new_data.drop(columns, axis=1, inplace=True)
+    # return the new dataframe
+    return new_data
