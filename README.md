@@ -2,7 +2,7 @@
 
 Repository contains all files related to our DS6050 project on generating healthcare data using our distributed, conditional GAN (discGAN) as well as files associated with distributing CTGAN
 
-Folder Structure:
+Main folder structure of interest:
 
 1) **eICU_gan**: 
 
@@ -15,3 +15,5 @@ Folders include:
 - dist_output: discGAN generated data results with distribution
 - gan_work: *our main GAN files, in which the discGAN Jupyter NB is located*
 - non_dist_output: discGAN generated data results without distribution
+
+2) CTGAN_distribution:
