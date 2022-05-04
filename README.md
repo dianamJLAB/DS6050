@@ -1,4 +1,4 @@
-# DS6050
+# DS6050: discGAN: distributed, tabular GAN
 
 Repository contains all files related to our DS6050 project on generating healthcare data using our distributed, conditional GAN (discGAN) as well as files associated with distributing CTGAN
 
@@ -16,4 +16,15 @@ Folders include:
 - gan_work: *our main GAN files, in which the discGAN Jupyter NB is located*
 - non_dist_output: discGAN generated data results without distribution
 
-2) CTGAN_distribution:
+2) **CTGAN_distribution**:
+
+**contains code for distributing CTGAN, and evaluating both distributed and single-GPU CTGAN**
+
+- ctgan/synthesizers/ctgan.py was updated.
+    - the DataParallel library from torch.nn is used
+    - CTGANSynthesizer class added two additional arguments:
+    - distribute_g: indicator to distribute the generator. This will only work if more than 1 GPU has been provisioned.
+    - distribute_d: indicator to distribute the discriminator. This will only work if more than 1 GPU has been provisioned.
+    - if more than one GPU is provisions, AND the distribute flag has been set for the generator and/or discriminator, then the generator and/or discriminator is set the DataParallel version of the model.
+- test_CTGAN_eICU.ipynb, eval_figs directory, examples/csv/CTGAN_eval.csv, and examples/csv/generated directory were created to evaluate CTGAN on the eICU dataset
+
