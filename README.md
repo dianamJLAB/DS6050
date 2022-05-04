@@ -8,7 +8,7 @@ Main folder structure of interest:
 
 **contains files associated with the discGAN implementation**
 Folders include:
-- data: contains eICU datasets
+- data: contains eICU datasets, including different cuts of data we created for our experiments
 - data_evaluation: contains our discGAN evaluation notebooks and output
 - dataprep: precessing files for the eICU data
 - discGAN_models: TF models output for discGAN at different number of epochs and with/without distribution
