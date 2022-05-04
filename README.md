@@ -1,6 +1,12 @@
 # DS6050
 
-## **eICU_gan**: contains files associated with the discGAN implementation
+Repository contains all files related to our DS6050 project on generating healthcare data using our distributed, conditional GAN (discGAN) as well as files associated with distributing CTGAN
+
+Folder Structure:
+
+1) **eICU_gan**: 
+
+**contains files associated with the discGAN implementation**
 Folders include:
 - data: contains eICU datasets
 - data_evaluation: contains our discGAN evaluation notebooks and output
