@@ -1,0 +1,63 @@
+Project NBADB {
+  database_type: 'PostgreSQL'
+  Note: '''
+    # NBA Player, Team, and Game Stats
+    **DS 6001: Practice and Applications of Data Science, University of Virginia**
+  '''
+}
+Table players as P {
+  player varchar
+  player_id varchar [pk]
+  note: "table 'players' contains player names and ID values"
+}
+Table games as G {
+  game_id varchar [pk]
+  game_date datetime
+  ot int
+  season int
+  note: "table 'games' contains information about individual games. For results, merge with 'team_game' table"
+}
+Table player_game as PG {
+  game_id varchar [pk]
+  player_id varchar [pk]
+  starter int
+  mp float
+  fg int
+  fga int
+  fg_pct float
+  fg3 int
+  fg3a int
+  fg3_pct float
+  ft int
+  fta int
+  ft_pct float
+  orb int
+  drb int
+  trb int
+  ast int
+  stl int
+  blk int
+  tov int
+  pf int
+  pts int
+  plus_minus int
+  did_not_play int
+  is_inactive int
+}
+Table team_game as TG {
+  game_id varchar [pk]
+  h_a varchar
+  team_abbrev varchar [pk]
+  team_score int
+  team_pace float
+  team_efg_pct float
+  team_tov_pct float
+  team_orb_pct float
+  team_ft_rate float
+  team_off_rtg float
+  opponent_abbrev varchar
+}
+Ref: TG.game_id > G.game_id  
+Ref: PG.game_id > G.game_id 
+Ref: PG.player_id > P.player_id 
+Ref: TG.opponent_abbrev > TG.team_abbrev 
