@@ -132,3 +132,27 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+ds6001/mod8/live/data100k.csv
+ds6001/mod9/live/data100k.csv
+eICU_gan/data/eICU_gan_data.db
+.gitignore
+eICU_gan/data_evaluation/CTGAN_eval.csv
+eICU_gan/dist_output/disc_discharge_data_15000_500samples.csv
+eICU_gan/dist_output/disc_discharge_data_15000.csv
+eICU_gan/dist_output/disc_discharge_data_20000_500samples.csv
+eICU_gan/dist_output/disc_discharge_data_20000.csv
+eICU_gan/dist_output/disc_discharge_data_25000_500samples.csv
+eICU_gan/dist_output/disc_discharge_data_25000.csv
+eICU_gan/non_dist_output/gen_discharge_data_15000_500samples.csv
+eICU_gan/non_dist_output/gen_discharge_data_15000.csv
+eICU_gan/non_dist_output/gen_discharge_data_20000_500samples.csv
+eICU_gan/non_dist_output/gen_discharge_data_20000.csv
+eICU_gan/non_dist_output/gen_discharge_data_25000_500samples.csv
+eICU_gan/non_dist_output/gen_discharge_data_25000.csv
+eICU_gan/non_dist_output/__MACOSX/._gen_discharge_data_15000_500samples.csv
+eICU_gan/non_dist_output/__MACOSX/._gen_discharge_data_15000.csv
+eICU_gan/non_dist_output/__MACOSX/._gen_discharge_data_20000_500samples.csv
+eICU_gan/non_dist_output/__MACOSX/._gen_discharge_data_20000.csv
+eICU_gan/non_dist_output/__MACOSX/._gen_discharge_data_25000_500samples.csv
+eICU_gan/non_dist_output/__MACOSX/._gen_discharge_data_25000.csv
+eICU_gan/data/sqlite_eicu_v2_0_1.sqlite3
